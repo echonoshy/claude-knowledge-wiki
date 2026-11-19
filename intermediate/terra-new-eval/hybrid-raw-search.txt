@@ -1,0 +1,6 @@
+data_room/docs/def14a_2024.txt:1011:[Omitted long matching line]
+data_room/docs/10k_fy2022.txt:225:[Omitted long matching line]
+data_room/docs/10k_fy2023.txt:227:[Omitted long matching line]
+data_room/docs/8k_closing.txt:127:delisting of such shares from the NYSE. Such delisting will result in the deregistration of the Class A Common Stock under Section 12(b) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). The Company intends to file a Form 15 requesting the deregistration of the Class A Common Stock under Section 12(g) of the Exchange Act, which will suspend the Company’s reporting obligations
+data_room/docs/10q_q1_2024.txt:146:Cash and cash equivalents | $ | 241,905 | $ | 257,702
+data_room/docs/10q_q1_2024.txt:325:Cash and cash equivalents | $ | 241,905 | $ | 239,327

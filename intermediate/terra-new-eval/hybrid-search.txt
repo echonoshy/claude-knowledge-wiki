@@ -1,0 +1,21 @@
+wiki/entities/squarespace.md:16:- 2023 财年合并收入 1,012,336 千美元、净亏损 7,081 千美元。2022 年比较数分别为收入 866,972 千美元、净亏损 252,221 千美元。 [source: [10k-fy2023](../entities/10k-fy2023.md) | as-of: 2024-02-28 | 规范化文本第 1285–1299 行]
+wiki/entities/squarespace.md:17:- 2024 年第一季度收入 281,148 千美元、净利润 144 千美元。同比营收基数 237,028 千美元，净利润基数 502 千美元。 [source: [10q-q1-2024](../entities/10q-q1-2024.md) | as-of: 2024-05-07 | 规范化文本第 194–209 行]
+wiki/entities/squarespace.md:23:- 讨论材料中的 2025E 营收为 1,374 百万美元，属于长期计划预测。这一页只将 2022A 和 2023A 标为历史。 [source: [board-deck-cii](../entities/board-deck-cii.md) | as-of: 2024-05-12 | PDF 第 6 页]
+wiki/escalations.md:18:- 05 · 不同定义的 EBITDA 和预测收入
+wiki/escalations.md:65:## 05 不同定义的 EBITDA 和预测收入
+wiki/escalations.md:69:公司披露 235.404 百万美元调整后 EBITDA，虚构分析笔记估算约 252 百万美元信贷口径。演示稿 1,374 百万美元是 2025E 营收预测。分别保存。
+wiki/entities/10q-q1-2024.md:20:- 截至 2024-03-31 的三个月，合并收入 281,148 千美元、净利润 144 千美元。上年同期是 237,028 千美元、502 千美元。 [source: [10q-q1-2024](../entities/10q-q1-2024.md) | as-of: 2024-05-07 | 规范化文本第 194–209 行]
+wiki/entities/10q-q1-2024.md:21:- 同比营收增幅为 18.6%。 [source: [10q-q1-2024](../entities/10q-q1-2024.md) | as-of: 2024-05-07 | 规范化文本第 919 行]
+wiki/entities/10k-fy2023.md:20:- 2023 财年 GAAP 收入 1,012,336 千美元，净亏损 7,081 千美元。年报并列披露 2022、2021 财年。 [source: [10k-fy2023](../entities/10k-fy2023.md) | as-of: 2024-02-28 | 规范化文本第 1285–1299 行]
+wiki/entities/10k-fy2023.md:26:- 截至 2023-12-31，公司披露全职与兼职员工合计 1,749 人。 [source: [10k-fy2023](../entities/10k-fy2023.md) | as-of: 2024-02-28 | 规范化文本第 227 行]
+wiki/entities/board-deck-cii.md:25:- 管理层长期计划把 2022A、2023A 列为历史，2024E–2029E 列为预测。2025E 营收为 1,374 百万美元，为 2024 年所作的预测。 [source: [board-deck-cii](../entities/board-deck-cii.md) | as-of: 2024-05-12 | PDF 第 6 页]
+wiki/entities/10k-fy2022.md:20:- 合并损益表列示 2022 财年收入 866,972 千美元、净亏损 252,221 千美元，同时列示 2021 年比较数据。 [source: [10k-fy2022](../entities/10k-fy2022.md) | as-of: 2023-03-09 | 规范化文本第 665–688 行]
+wiki/_build-report.md:19:- **Q-03 · CONFIRMED UNRESOLVABLE** 2025 财年实际营收是多少？ [见该资料的问题记录](open_questions/board-deck-cii.md)
+wiki/metrics/10k-fy2023.md:5:- 营业收入 | 1,012,336 千美元 | GAAP 合并收入 | 2023 财年 | [source: [10k-fy2023](../entities/10k-fy2023.md) | as-of: 2024-02-28 | 规范化文本第 1285–1299 行]
+wiki/metrics/10k-fy2023.md:15:- 员工数 | 1,749 人 | 公司披露，含全职和兼职 | 2023-12-31 | [source: [10k-fy2023](../entities/10k-fy2023.md) | as-of: 2024-02-28 | 规范化文本第 227 行]
+wiki/open_questions/board-deck-cii.md:3:- **Q-03 · CONFIRMED UNRESOLVABLE** 2025 财年实际营收是多少？ 这 11 份资料不含财年实际收入。1,374 百万美元为 2024 年演示材料的 2025E 预测。需要交割后的 2025 年度合并报表。见 [[squarespace]]。 [source: [board-deck-cii](../entities/board-deck-cii.md) | as-of: 2024-05-12 | PDF 第 6 页]
+wiki/metrics/data-provider-extract-csv.md:5:- 模拟供应商 FY2023 收入 | 1,012.3 与 1,012.336 百万美元 | 演示行，两种精度 | 2023 财年 | [source: [data-provider-extract-csv](../entities/data-provider-extract-csv.md) | as-of: undated | 规范化文本第 4–5 行]
+wiki/metrics/data-provider-extract-csv.md:6:- 模拟供应商员工数 | 1,750 人 | 演示行，年度报告为 1,749 人 | 2023 财年口径 | [source: [data-provider-extract-csv](../entities/data-provider-extract-csv.md) | as-of: undated | 规范化文本第 4 行]
+wiki/metrics/10q-q1-2024.md:5:- 营业收入 | 281,148 千美元 | GAAP，2023 年同期 237,028 千美元 | 2024 年第一季度 | [source: [10q-q1-2024](../entities/10q-q1-2024.md) | as-of: 2024-05-07 | 规范化文本第 194–209 行]
+wiki/metrics/board-deck-cii.md:10:- 管理层预测营收 | 1,374 百万美元 | 长期计划预测值，非实际 | 2025E | [source: [board-deck-cii](../entities/board-deck-cii.md) | as-of: 2024-05-12 | PDF 第 6 页]
+wiki/metrics/10k-fy2022.md:5:- 营业收入 | 866,972 千美元 | GAAP 合并收入 | 2022 财年 | [source: [10k-fy2022](../entities/10k-fy2022.md) | as-of: 2023-03-09 | 规范化文本第 666–670 行]

@@ -1,0 +1,5 @@
+1. 2023 年 1,012,336 千美元，2022 年 866,972 千美元。wiki/entities/squarespace.md:16
+2. 2023 年末 1,749 人。2023 年报未找到 2022 年末人数，2022 年报披露 1,800 人。wiki/entities/10k-fy2023.md:26；data_room/docs/10k_fy2022.txt:225
+3. 2024-03-31 为 241,905 千美元，2023-12-31 为 257,702 千美元。data_room/docs/10q_q1_2024.txt:140-146
+4. Andrew Braccia、Anthony Casalena、Michael Fleisher、Jonathan Klein、Liza Landsman、Anton Levy、Neela Montgomery。data_room/docs/def14a_2024.txt:1011
+5. 纽约证券交易所 NYSE。data_room/docs/8k_closing.txt:127

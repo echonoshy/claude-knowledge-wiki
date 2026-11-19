@@ -1,0 +1,12 @@
+raw-search.txt	1842
+raw-search2.txt	11056
+raw-search3.txt	718
+raw-context.txt	470
+raw-context2.txt	357
+raw-context3.txt	543
+raw-context4.txt	607
+raw-answer.txt	228
+hybrid-search.txt	1746
+hybrid-raw-search.txt	229
+hybrid-context.txt	300
+hybrid-answer.txt	214
