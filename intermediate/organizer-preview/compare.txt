@@ -1,0 +1,21 @@
+Organizer 整理前后对照
+
+这个小例子把当前 Wiki 里的真实记录拿出来，模拟不同批次把同一家公司写成两页的情况。before/ 是为了看清变化而构造的草稿。after/ 参考当前 Wiki 的实际写法，保留两边的事实和出处，并按这个小例子重做目录。两个旧公司页是演示用的文件名。
+
+1. 先看两份公司页怎么变成一份
+    before/entities/squarespace-inc.md 里有年报披露的 2023 财年实际收入。
+    before/entities/pacific.md 里有董事会材料中的 2025 年营收预测。
+    after/entities/squarespace.md 保留两条记录及各自出处，Pacific 放进 aliases。实际值和预测值各写一行。
+
+2. 再看交易页里同一个链接怎么变了
+    before/entities/squarespace-take-private.md 写的是 [[pacific]]。
+    after/entities/squarespace-take-private.md 同一句改成 [[squarespace]]，交易事实照原样保留。
+    真正整理时，Organizer 可以先给旧页留下 MOVED TO [[squarespace]] 的一行跳转。运行结束后的清理会移除占位，所以下游链接和索引要及时改到新页。
+
+3. 打开前后两个 _index.md
+    整理前的目录把 Squarespace 和 Pacific 列成两家公司。
+    整理后的目录只列一张公司页，开头直接说明财务、交易和疑点从哪里看。
+    after/SKILL.md 说明链接、来源日期和预测标记怎么读。
+
+4. 对比前后两个 escalations.md
+    疑点的内容相同。整理后先放摘要，再按当前 Wiki 的优先级把融资额度排在回购均价前面。02、03 沿用当前 Wiki 的编号。

@@ -22,7 +22,7 @@ metadata:
 - J.P. Morgan 是公司财务顾问，预计约 4,500 万美元在成交时应付。它未出具公平性意见，并披露收取过参与方的其他业务费用。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 3039 行]
 - 按 8 月委托书估计，原方案需要现金约 52.6 亿美元。分别披露承诺的股权和第一顺位有担保债务，承诺额不代表交割提款额。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 2975–2985 行]
 - Permira 原股权承诺上限 2,426,000,000 美元，Accel 400,000,000 美元。委托书称正修订至 2,327,091,488.93 美元和 382,643,173.91 美元。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 2980–2985 行]
-- 债务承诺为 23 亿美元定期贷款、3 亿美元延迟提款定期贷款、2.5 亿美元循环贷款，受融资条件约束。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 2984–2989 行]
+- 债务承诺为 23 亿美元定期贷款、3 亿美元延迟提款定期贷款、2.5 亿美元循环贷款，受融资条件约束。承诺方名单和交割签署额度见 [交割信贷与担保协议](closing-credit-agreement.md)。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 2984–2989 行]
 - 委托书列 Accel 关联方 14,563,386 股 A 类，GA 关联方 10,636,463 股 A 类、4,958,345 股 B 类。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 3919–3937 行]
 - Accel 六只基金的登记股份合计 14,514,196 股。GA SQRS II 的登记股数为 A 类 10,611,073、B 类 4,958,345。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 4107–4110 行]
 - 直接持股链为 Spaceship HoldCo → Spaceship MidCo → Spaceship Intermediate 2 → Spaceship Purchaser。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 4502–4505 行]

@@ -1,0 +1,137 @@
+01 Google Domains 收购
+
+wiki/entities/10k-fy2023.md:23
+- Google Domains 标的为域名资产，2023-06-15 签署资产购买协议，2023-09-07 完成交割。含直接交易费用总支付 180,721 千美元。 [source: [10k-fy2023](../entities/10k-fy2023.md) | as-of: 2024-02-28 | 规范化文本第 1716–1719 行]
+
+data_room/docs/10k_fy2023.txt:625
+On September 7, 2023, we closed an asset purchase agreement with Google LLC ("Google") to acquire, among other things, Google's domain assets, including all domain names for which Google is the registrar or reseller, for a total amount paid of $180.7 million (the "Google Domains Asset Acquisition "). See "Item 8. Financial Statements and Supplementary Data, Note 4. Acquisitions" for further information. Unique subscriptions and average revenue per unique
+
+====
+
+02 订阅运营指标
+
+wiki/entities/10k-fy2023.md:15
+- 本地规范化文本位于 `data_room/docs/10k_fy2023.txt`。行号包含来源标记与空行。
+
+data_room/docs/10k_fy2023.txt:1028-1033
+Years Ended December 31,
+2023 | 2022 | 2021
+Unique subscriptions (in thousands) | 4,631 | 4,204 | 4,086
+Total bookings (in thousands) | $ | 1,075,096 | $ | 906,056 | $ | 813,060
+ARRR (in thousands) | $ | 1,105,743 | $ | 931,708 | $ | 835,194
+ARPUS | $ | 228.02 | $ | 209.16 | $ | 202.54
+
+====
+
+03 Tock 收购与减值
+
+wiki/entities/tock.md:14
+- 餐厅预订相关平台。[[squarespace]] 于 2021-03-31 收购其全部股权。 [source: [10k-fy2023](../entities/10k-fy2023.md) | as-of: 2024-02-28 | 规范化文本第 1720–1722 行]
+
+wiki/entities/10k-fy2022.md:22
+- 公司 2022 年记录 225,163 千美元非现金商誉减值，说明主要与收购 Tock 后市场估值下降有关。 [source: [10k-fy2022](../entities/10k-fy2022.md) | as-of: 2023-03-09 | 规范化文本第 1794–1802 行]
+
+data_room/docs/10k_fy2023.txt:1721
+On March 31, 2021 (the "Tock Acquisition Date"), the Company acquired all of the equity interests in Tock, a reservation platform for prepaid reservations, access to restaurant management data and other customization features. The purpose of the acquisition was to expand the Company’s complementary suite of services available with a platform for reservations, take-out, delivery and events for the hospitality industry. The total consideration for the transaction was $425,710, consisting of $226,821 of cash, $188,179 of the Company’s Class C common stock and $10,710 of net working capital adjustments. The Company recognized this transaction as a business combination.
+
+====
+
+04 一季度现金流调节
+
+wiki/metrics/10q-q1-2024.md:8-9
+- 经营活动现金流 | 85,219 千美元 | 季度合并 | 2024 年第一季度 | [source: [10q-q1-2024](../entities/10q-q1-2024.md) | as-of: 2024-05-07 | 规范化文本第 1178–1187 行]
+- 无杠杆自由现金流 | 89,322 千美元 | 公司非 GAAP 流动性指标 | 2024 年第一季度 | [source: [10q-q1-2024](../entities/10q-q1-2024.md) | as-of: 2024-05-07 | 规范化文本第 1178–1187 行]
+
+data_room/docs/10q_q1_2024.txt:1182-1185
+Cash paid for capital expenditures
+(3,385) | (3,075)
+Free cash flow | 81,834 | 61,080
+Cash paid for interest, net of the associated tax benefit | 7,488 | 6,016
+
+====
+
+05 股东大会和投票权
+
+wiki/entities/def14a-2024.md:22
+- 总表决权以 A、B 类合并计算。A 类每股一票，B 类每股十票。 [source: [def14a-2024](../entities/def14a-2024.md) | as-of: 2024-04-22 | 规范化文本第 470–474 行]
+
+data_room/docs/def14a_2024.txt:32
+We cordially invite you to attend the 2024 annual meeting of stockholders (the “Annual Meeting”) of Squarespace, Inc., a Delaware corporation, which will be held as a virtual meeting on Tuesday, June 4, 2024 at 12:00 p.m. Eastern Time. The Annual Meeting will be held through a live webcast at www.virtualshareholdermeeting.com/SQSP2024 where you will be able to submit questions and vote online. We are holding the Annual Meeting for the following purposes, as more fully described in the accompanying proxy statement:
+
+data_room/docs/def14a_2024.txt:38
+Our board of directors has fixed the close of business on April 8, 2024 as the record date for the Annual Meeting (the “Record Date”). Only stockholders of record on April 8, 2024 are entitled to notice of and to vote at the Annual Meeting. Further information regarding voting rights and the matters to be voted upon is presented in the accompanying proxy statement. On or about April 22, 2024, we expect to mail to our stockholders a Notice of Internet Availability of Proxy Materials (the "Notice"), containing instructions on how to access our proxy statement and annual report. The Notice provides instructions on how to vote via the Internet or by telephone and includes instructions on how to receive a paper copy of our proxy materials by mail.
+
+====
+
+06 两版终止费
+
+wiki/metrics/8k-merger-announcement.md:6-7
+- 公司终止费 | 198,700,000 美元 | 特定条件触发，公司付 Parent | 原协议 | [source: [8k-merger-announcement](../entities/8k-merger-announcement.md) | as-of: 2024-05-13 | 规范化文本第 67 行]
+- 买方终止费 | 231,816,666.67 美元 | 特定条件触发，Parent 付公司 | 原协议 | [source: [8k-merger-announcement](../entities/8k-merger-announcement.md) | as-of: 2024-05-13 | 规范化文本第 69 行]
+
+wiki/metrics/8k-amended-agreement.md:6-7
+- 修订后的公司终止费 | 210,493,094.39 美元 | 特定条件下公司向 Parent 支付 | 自 2024-09-09 | [source: [8k-amended-agreement](../entities/8k-amended-agreement.md) | as-of: 2024-09-09 | 规范化文本第 127–131 行]
+- 修订后的买方终止费 | 245,575,276.79 美元 | 特定条件下 Parent 向公司支付 | 自 2024-09-09 | [source: [8k-amended-agreement](../entities/8k-amended-agreement.md) | as-of: 2024-09-09 | 规范化文本第 132–140 行]
+
+====
+
+07 Centerview DCF
+
+wiki/entities/centerview-partners.md:15
+- 合并委托书描述的 5 月意见针对当时方案的每股 44.00 美元。 [source: [defm14a-merger-proxy](../entities/defm14a-merger-proxy.md) | as-of: 2024-08-22 | 规范化文本第 646–669 行]
+
+data_room/docs/defm14a_merger_proxy.txt:1449
+In performing this analysis, Centerview calculated a range of implied enterprise values for Squarespace by discounting to present value as of April 30, 2024 (using discount rates ranging from 12.5% to 14.5%, based upon Centerview’s analysis of Squarespace’s weighted average cost of capital, determined using the capital asset pricing model and based on considerations that Centerview deemed relevant in its professional judgment and experience): (i) the forecasted unlevered free cash flows (after treating stock-based compensation as a cash expense) of Squarespace based on the Forecasts over the period beginning May 1, 2024 and ending on December 31, 2029, as approved by the Special Committee and utilized by Centerview at the direction of the Special Committee (see the section of this proxy statement captioned “Special Factors—Unaudited Prospective Financial Information”) and (ii) a range of implied terminal values of Squarespace at the end of the forecast period shown in the Forecasts, applying a range of terminal multiples to Squarespace’s NTM uFCF as of December 31, 2028 (which reflects projected uFCF for fiscal year 2029), ranging from 15.0x to 18.0x, which range was selected by Centerview using its experience and professional judgment. Centerview then (a) subtracted from this range the face value of Squarespace’s net debt of approximately $265 million as of April 30, 2024 (pro forma for certain share repurchases
+
+data_room/docs/defm14a_merger_proxy.txt:1452
+on May 2, 2024) as set forth in the Internal Data and (b) divided this range of implied equity values by the number of fully diluted outstanding shares of Common Stock of approximately 150.5 million as of May 9, 2024, calculated on a treasury stock basis based on the Internal Data to derive a range of implied values per share of Common Stock of approximately $41.65 to $53.10, rounded to the nearest $0.05. Centerview compared this range to the Per Share Price of $44.00 per share proposed to be paid to the Unaffiliated Company Stockholders (other than with respect to the Excluded Shares) pursuant to the Merger Agreement.
+
+====
+
+08 要约四项条件
+
+wiki/entities/amended-merger-agreement.md:15
+- 最低条件涉及全部股东、非关联股东以及 A、B 两类分别过半。详见定义区分已拥有股份与要约股份。 [source: [8k-amended-agreement](../entities/8k-amended-agreement.md) | as-of: 2024-09-09 | 规范化文本第 105–112 行]
+
+wiki/entities/8k-closing.md:21-22
+- 要约截至纽约时间 2024-10-11 晚 11:59 后一分钟。46,971,451 股 A 类有效申报且未撤回，连同定义内已拥有股份约占总表决权 97.5%。 [source: [8k-closing](../entities/8k-closing.md) | as-of: 2024-10-17 | 规范化文本第 80–95 行]
+- 非关联股东有效申报 46,015,331 股，对应其表决权约 77.7%。A 类口径为约 84.4%，B 类已拥有股份为该类表决权的 100%，最低条件满足。 [source: [8k-closing](../entities/8k-closing.md) | as-of: 2024-10-17 | 规范化文本第 83–93 行]
+
+data_room/docs/8k_amended_agreement.txt:109-113
+beneficially owned, directly or indirectly, by the Unaffiliated Company Stockholders, (iii) the number of shares of Class B Common Stock validly tendered (within the meaning of Section 251(h) of the DGCL) and not validly withdrawn, together with any
+Class B Common Stock constituting Owned Company Shares, equals more than 50% of the aggregate voting power of all issued and outstanding shares of Class B Common Stock, and (iv) the number of shares of Class A Common Stock validly tendered (within
+the meaning of Section 251(h) of the DGCL) and not validly withdrawn, together with any Class A Common Stock constituting Owned Company Shares, equals more than 50% of the aggregate voting power of all issued and outstanding shares of Class A Common
+Stock, in each case as of the Expiration Time, but excluding any shares of Company Common Stock held in treasury by the Company as of the expiration of the Offer or any other shares of Company Common Stock acquired by the Company prior to the
+expiration of the Offer.
+
+====
+
+09 旧信贷终止
+
+wiki/entities/8k-closing.md:25
+- 原 2020 年 12 月 11 日公司信贷协议下的欠款在交割时全额偿清，相关承诺终止、担保与留置权解除。 [source: [8k-closing](../entities/8k-closing.md) | as-of: 2024-10-17 | 规范化文本第 75–79 行]
+
+data_room/docs/8k_closing.txt:77-78
+Agreement, dated December 11, 2020 (as amended prior to the closing of the Merger, the “Company Credit Agreement”), by and among the Company, as borrower, the lenders and issuing banks party thereto, and JPMorgan Chase Bank, N.A., as administrative
+agent and collateral agent, was repaid in full, all commitments thereunder were terminated and outstanding letters of credit thereunder were cash collateralized. Additionally, the guarantees and liens securing the indebtedness under the Company
+
+====
+
+10 年度审计费用
+
+wiki/entities/def14a-2024.md:15
+- 本地规范化文本位于 `data_room/docs/def14a_2024.txt`。行号包含来源标记与空行。
+
+data_room/docs/def14a_2024.txt:1019
+We have appointed Ernst & Young LLP as our independent registered public accounting firm to perform the audit of our consolidated financial statements for the fiscal year ending December 31, 2024, and we are asking you and other stockholders to ratify this appointment. During our fiscal year ended December 31, 2023, Ernst & Young LLP served as our independent registered public accounting firm.
+
+data_room/docs/def14a_2024.txt:1024-1032
+Fee Category | 2023 | 2022
+Audit Fees(1)
+$3,655,000 | $1,838,000
+Audit-Related Fees(2)
+118,000 | —
+Tax Fees(3)
+$584,000 | $569,551
+Other Fees | — | —
+Total Fees | $4,357,000 | $2,407,551

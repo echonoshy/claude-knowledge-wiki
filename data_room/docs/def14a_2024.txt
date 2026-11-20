@@ -1,0 +1,1081 @@
+[SOURCE: SEC EDGAR | form: DEF 14A | filed: 2024-04-22 | accession: 0001496963-24-000017 | url: https://www.sec.gov/Archives/edgar/data/1496963/000149696324000017/sqsp-20240418.htm]
+
+0001496963DEF 14Afalse00014969632023-01-012023-12-31iso4217:USD00014969632022-01-012022-12-3100014969632021-01-012021-12-310001496963ecd:PeoMemberecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember2023-01-012023-12-310001496963ecd:PeoMemberecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember2022-01-012022-12-310001496963ecd:PeoMemberecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember2021-01-012021-12-310001496963ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:PeoMember2023-01-012023-12-310001496963ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:PeoMember2022-01-012022-12-310001496963ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:PeoMember2021-01-012021-12-310001496963ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:PeoMember2023-01-012023-12-310001496963ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:PeoMember2022-01-012022-12-310001496963ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:PeoMember2021-01-012021-12-310001496963ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMemberecd:PeoMember2023-01-012023-12-310001496963ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMemberecd:PeoMember2022-01-012022-12-310001496963ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMemberecd:PeoMember2021-01-012021-12-310001496963ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:PeoMember2023-01-012023-12-310001496963ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:PeoMember2022-01-012022-12-310001496963ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:PeoMember2021-01-012021-12-310001496963ecd:PeoMemberecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember2023-01-012023-12-310001496963ecd:PeoMemberecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember2022-01-012022-12-310001496963ecd:PeoMemberecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember2021-01-012021-12-310001496963ecd:NonPeoNeoMemberecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember2023-01-012023-12-310001496963ecd:NonPeoNeoMemberecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember2022-01-012022-12-310001496963ecd:NonPeoNeoMemberecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember2021-01-012021-12-310001496963ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:NonPeoNeoMember2023-01-012023-12-310001496963ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:NonPeoNeoMember2022-01-012022-12-310001496963ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:NonPeoNeoMember2021-01-012021-12-310001496963ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:NonPeoNeoMember2023-01-012023-12-310001496963ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:NonPeoNeoMember2022-01-012022-12-310001496963ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:NonPeoNeoMember2021-01-012021-12-310001496963ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMemberecd:NonPeoNeoMember2023-01-012023-12-310001496963ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMemberecd:NonPeoNeoMember2022-01-012022-12-310001496963ecd:VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMemberecd:NonPeoNeoMember2021-01-012021-12-310001496963ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:NonPeoNeoMember2023-01-012023-12-310001496963ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:NonPeoNeoMember2022-01-012022-12-310001496963ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:NonPeoNeoMember2021-01-012021-12-310001496963ecd:NonPeoNeoMemberecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember2023-01-012023-12-310001496963ecd:NonPeoNeoMemberecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember2022-01-012022-12-310001496963ecd:NonPeoNeoMemberecd:FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember2021-01-012021-12-31000149696312023-01-012023-12-31000149696322023-01-012023-12-31
+`
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+(Amendment No. )
+Filed by the Registrant | x | Filed by a Party other than the Registrant | o
+Check the appropriate box:
+o Preliminary Proxy Statement
+o Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)
+x Definitive Proxy Statement
+o Definitive Additional Materials
+o Soliciting Material under §240.14a-12
+SQUARESPACE, INC.
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+x No fee required.
+o Fee paid previously with preliminary materials.
+o Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a6(i)(1) and 0-11
+`
+SQUARESPACE, INC.
+225 VARICK STREET, 12TH FLOOR
+NEW YORK, NEW YORK 10014
+NOTICE OF 2024 ANNUAL MEETING OF STOCKHOLDERS
+Dear Stockholders of Squarespace, Inc.:
+We cordially invite you to attend the 2024 annual meeting of stockholders (the “Annual Meeting”) of Squarespace, Inc., a Delaware corporation, which will be held as a virtual meeting on Tuesday, June 4, 2024 at 12:00 p.m. Eastern Time. The Annual Meeting will be held through a live webcast at www.virtualshareholdermeeting.com/SQSP2024 where you will be able to submit questions and vote online. We are holding the Annual Meeting for the following purposes, as more fully described in the accompanying proxy statement:
+•To elect Andrew Braccia, Anthony Casalena, Michael Fleisher, Jonathan Klein, Liza Landsman, Anton Levy and Neela Montgomery to serve as directors until the 2025 annual meeting of stockholders and until their successors are duly elected and qualified, or until their earlier death, resignation or removal;
+•To ratify the appointment of Ernst & Young LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2024;
+•To approve by a non-binding advisory vote the compensation of our named executive officers, as disclosed in this proxy statement;
+•To approve by a non-binding advisory vote the frequency of future advisory votes to approve the compensation of our named executive officers; and
+•To transact such other business that may properly come before the Annual Meeting or any adjournments or postponements thereof.
+Our board of directors has fixed the close of business on April 8, 2024 as the record date for the Annual Meeting (the “Record Date”). Only stockholders of record on April 8, 2024 are entitled to notice of and to vote at the Annual Meeting. Further information regarding voting rights and the matters to be voted upon is presented in the accompanying proxy statement. On or about April 22, 2024, we expect to mail to our stockholders a Notice of Internet Availability of Proxy Materials (the "Notice"), containing instructions on how to access our proxy statement and annual report. The Notice provides instructions on how to vote via the Internet or by telephone and includes instructions on how to receive a paper copy of our proxy materials by mail.
+A list of the stockholders of record entitled to vote at the Annual Meeting will be available for examination, for any purpose germane to the Annual Meeting, during ordinary business hours for ten days prior to the Annual Meeting at our principal executive offices located at 225 Varick Street, 12th Floor, New York, New York 10014. If you would like to view the stockholder list, please contact our Investor Relations department with an electronic mail message to investors@squarespace.com to schedule an appointment or for alternative arrangements to the extent office access is impracticable. The stockholder list will also be available online during the Annual Meeting at www.virtualshareholdermeeting.com/SQSP2024 when you enter your 16-Digit Control Number.
+`
+YOUR VOTE IS IMPORTANT. Whether or not you plan to attend the Annual Meeting, we urge you to submit your vote via the Internet, telephone, or mail as soon as possible to ensure your shares are represented. For additional instructions on voting by telephone, or the Internet, please refer to your proxy card. Returning the proxy does not deprive you of your right to attend the Annual Meeting and to vote your shares at the Annual Meeting.
+We appreciate your continued support of Squarespace.
+By order of the Board of Directors,
+Courtenay O’Connor
+General Counsel and Secretary
+April 22, 2024
+`
+SQUARESPACE, INC.
+PROXY STATEMENT FOR THE 2024 ANNUAL MEETING OF STOCKHOLDERS
+TABLE OF CONTENTS
+ABOUT THE ANNUAL MEETING
+1
+Internet Availability of Proxy Materials
+1
+Record Date
+1
+Quorum
+1
+Shares Outstanding Voting
+2
+Revoking Your Proxy
+2
+Votes Required to Adopt Proposals
+3
+Effect of Abstentions and Broker Non-Votes
+4
+Voting Instructions
+4
+Voting Results
+4
+Additional Solicitation/Costs
+5
+Householding
+5
+BOARD OF DIRECTORS
+6
+CORPORATE GOVERNANCE
+8
+Board Independence
+8
+Board Leadership Structure
+8
+Board and Committee Meetings
+8
+Corporate Governance Policies and Committee Charters
+9
+Board Committees
+9
+Compensation Committee Interlocks and Insider Participation
+10
+Identifying and Evaluating Director Nominees
+10
+Stockholder Communications
+11
+Board’s Role In Risk Oversight
+11
+Director Compensation
+11
+CORPORATE RESPONSIBILITY AND SUSTAINABILITY AT SQUARESPACE
+13
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+15
+`
+EXECUTIVE OFFICERS
+18
+COMPENSATION DISCUSSION AND ANALYSIS
+19
+Executive Compensation Philosophy
+19
+Elements and Objectives of Executive Compensation
+19
+Timing of Executive Compensation Decisions
+19
+How We Determine Executive Compensation
+19
+Fiscal Year 2023 Executive Compensation
+21
+Other Compensation Policies and Practices
+25
+Compensation Risk Assessment
+26
+Tax and Accounting Considerations
+26
+EXECUTIVE COMPENSATION TABLES
+27
+2023 Summary Compensation Table
+27
+Grants of Plan-Based Awards Table for Fiscal Year 2023
+28
+2023 Outstanding Equity Awards at Fiscal Year End
+29
+Option Exercises and Stock Vested Table for Fiscal Year 2023
+31
+REPORT OF THE COMPENSATION COMMITTEE
+32
+POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE IN CONTROL
+33
+SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS
+35
+PAY VERSUS PERFORMANCE
+36
+Required Tabular Disclosure of Pay Versus Performance
+36
+Narrative Disclosure to Pay Versus Performance Table
+38
+Most Important Performance Measures for Fiscal Year 2023
+40
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+41
+Certain Relationships and Related Party Transactions
+41
+Voting and Support Agreement
+41
+Registration Rights Agreement
+41
+`
+Our Policy Regarding Related Party Transactions
+41
+PROPOSAL NO. 1: ELECTION OF DIRECTORS
+43
+Director Nominees
+43
+Vote Required
+43
+Recommendation of the Board
+43
+PROPOSAL NO. 2: RATIFICATION OF THE APPOINTMENT OF OUR INDEPENDENT REGISTERED ACCOUNTING FIRM
+44
+Audit Fees
+44
+Pre-Approval Policies and Procedures
+44
+Vote Required
+44
+Recommendation of the Board
+45
+Report of the Audit Committee of the Board of Directors
+45
+PROPOSAL NO. 3: NON-BINDING ADVISORY VOTE ON THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS
+46
+Recommendation of the Board
+46
+PROPOSAL NO. 4: NON-BINDING ADVISORY VOTE ON FREQUENCY OF SAY-ON-PAY VOTE
+47
+Recommendation of the Board
+47
+TRANSACTION OF OTHER BUSINESS
+48
+ADDITIONAL INFORMATION
+48
+Procedures for Submitting Stockholder Proposals
+48
+Information Requests
+48
+`
+ABOUT THE ANNUAL MEETING
+Our board of directors solicits your proxy on our behalf for the 2024 annual meeting of stockholders (the “Annual Meeting”) and at any postponement or adjournment of the Annual Meeting for the purposes set forth in this Proxy Statement and the accompanying Notice of Internet Availability of Proxy Materials (the “Notice”). The Annual Meeting will be held at 12:00 p.m. Eastern Time on Tuesday, June 4, 2024. The Annual Meeting can be accessed by visiting www.virtualshareholdermeeting.com/SQSP2024, where you will be able to listen to the meeting live, submit questions and vote online. We made this Proxy Statement available to stockholders on or about April 22, 2024.
+In this Proxy Statement, the terms “Squarespace,” “the company,” “we,” “us” and “our” refer to Squarespace, Inc. and its consolidated subsidiaries. The mailing address of our principal executive offices is Squarespace, Inc., 225 Varick Street, 12th Floor, New York, New York 10014.
+Internet Availability of Proxy Materials
+We are providing access to our proxy materials over the Internet. On or about April 22, 2024, we mailed the Notice to stockholders, unless they requested a printed copy of proxy materials. The Notice contains instructions on how to access our proxy materials and how to vote. If you would like to receive a paper or e-mail copy of our proxy materials, please follow the instructions in the Notice. If you requested printed versions of these materials by mail, they will also include a proxy card for the Annual Meeting.
+Record Date
+April 8, 2024
+Quorum
+A majority of the voting power of our capital stock issued and outstanding and entitled to vote at the Annual Meeting, present in person or represented by proxy, shall constitute a quorum.
+1
+`
+Shares Outstanding Voting
+As of April 8, 2024, there were 89,575,238 shares of our Class A common stock outstanding and 47,844,755 shares of our Class B common stock outstanding.
+There are three ways a stockholder of record can vote:
+(1)By Internet or telephone before the Annual Meeting: You may vote over the Internet or by telephone by following the instructions provided on your proxy card. If you are a stockholder of record, your ability to vote by proxy by Internet or telephone will end at 11:59 p.m. Eastern Time on June 3, 2024.
+(2)By Mail: If you requested printed copies of proxy materials, you can vote by mailing your proxy as described in the proxy materials. If you prefer to vote by mail, you should complete and return the proxy card as instructed on the card.
+(3)Virtually during the Annual Meeting: You may attend the Annual Meeting via the Internet and vote during the Annual Meeting. Please have your proxy card in hand when you access the website and then follow the instructions. We recommend that you submit your proxy in advance in the event your plans change or you are unable to attend the Annual Meeting.
+If you are a stockholder who holds shares through a brokerage firm, bank, trust or other similar organization (that is, in “street name”), please refer to the instructions from the broker or organization holding your shares.
+Revoking Your Proxy
+Stockholders of record may revoke their proxies by attending and voting during the Annual Meeting, by notifying our Secretary in writing before the applicable deadline that you have revoked your proxy or by voting again using the telephone or Internet before the cutoff time (your latest telephone or Internet proxy is the one that will be counted). If you hold shares through a bank or broker, you may revoke any prior voting instructions by contacting your bank or broker.
+2
+`
+Votes Required to Adopt Proposals
+Our Class A common stock and Class B common stock will vote as a single class on all matters described in this proxy statement for which your vote is being solicited. Stockholders are not permitted to cumulate votes with respect to the election of directors. Each share of Class A common stock is entitled to one vote on each proposal and each share of Class B Common Stock is entitled to 10 votes on each proposal.
+Proposal No. 1, the vote to approve the election of directors, requires a plurality of the voting power of our capital stock present at the meeting in person or represented by proxy and entitled to vote thereon. “Plurality” means that the nominees who receive the largest number of votes properly cast “for” such nominees are elected as directors. For the nominees for election as directors, you may vote “for all,” to “withhold all” or “for all except” the nominees you specify.
+Proposal No. 2, the vote to approve the ratification of the appointment of Ernst & Young LLP as our independent registered public accounting firm for our fiscal year ending December 31, 2024, requires a majority of the voting power of our capital stock present at the meeting in person or represented by proxy and entitled to vote thereon. “Majority” means a majority of the votes properly cast “for” and “against” the ratification of the appointment of Ernst & Young LLP.
+Proposal No. 3, the non-binding advisory vote to approve the compensation of our named executive officers requires a majority of the voting power of our capital stock present at the meeting in person or represented by proxy and entitled to vote thereon. Since this proposal is an advisory vote, the result will not be binding on our board of directors, the Compensation Committee, or the company. However, the board of directors values input from stockholders, and the Compensation Committee will consider the outcome of the vote when making future decisions regarding the compensation of our named executive officers.
+Proposal No. 4, the non-binding advisory vote to approve the frequency of holding future advisory votes to approve the compensation of our named executive officers will provide stockholders with the opportunity to choose among four options. You may vote for holding the non-binding advisory vote to approve the compensation of our named executive officers every “ONE YEAR,” “TWO YEARS,” “THREE YEARS,” or vote for “ABSTAIN.” The frequency receiving the greatest number of votes cast by stockholders present at the meeting in person or represented by proxy and entitled to vote thereon will be deemed to be the preferred frequency of our stockholders. Since this proposal is an advisory vote, the result will not be binding on our board of directors, the Compensation Committee, or the company. However, the board of directors values input from stockholders, and the board of directors and the Compensation Committee will consider the outcome of the vote when determining how often we should submit to stockholders future advisory votes to approve the compensation of our named executive officers.
+3
+`
+Effect of Abstentions and Broker Non-Votes
+Votes withheld from any nominee, abstentions and “broker non-votes” (i.e., where a broker has not received voting instructions from the beneficial owner and for which the broker does not have discretionary power to vote on a particular matter) are counted as present for purposes of determining the presence of a quorum and other than for Proposal No. 1, the vote to approve the election of directors, will have the same effect as a vote against Proposal No. 2, the vote to approve the ratification of the appointment of Ernst & Young LLP, Proposal No. 3, the non-binding advisory vote to approve the compensation of our named executive officers, and Proposal No. 4, the non-binding advisory vote to approve the frequency of future advisory votes.
+Under the rules that govern brokers holding shares for their customers, brokers who do not receive voting instructions from their customers have the discretion to vote uninstructed shares on routine matters, but do not have discretion to vote such uninstructed shares on non-routine matters. Only Proposal No. 2, the ratification of the appointment of Ernst & Young LLP, is considered a routine matter where brokers are permitted to vote shares held by them without instruction. If your shares are held through a broker, those shares will not be voted with regard to Proposals No. 1, 3 and 4 unless you affirmatively provide the broker instructions on how to vote. Broker non-votes also will have no effect on the outcome of Proposal No. 1.
+Voting Instructions
+If you complete and submit your proxy voting instructions, the persons named as proxies will follow your instructions. If you submit proxy voting instructions but do not direct how your shares should be voted on each item, the persons named as proxies will vote FOR the election of each of the nominees for directors, FOR the ratification of the appointment of Ernst & Young LLP as our independent registered public accounting firm, FOR the non-binding advisory vote to approve the compensation of our named executive officers, and for 1 YEAR on the frequency of future advisory votes to approve the compensation of our named executive officers. The persons named as proxies will vote on any other matters properly presented at the Annual Meeting in accordance with their best judgment, although we have not received timely notice of any other matters that may be properly presented for voting at the Annual Meeting.
+Voting Results
+We will announce preliminary results at the Annual Meeting. We will report final results by filing a Form 8-K within four business days after the Annual Meeting. If final results are not available at that time, we will provide preliminary voting results in the Form 8-K and will provide the final results in an amendment to the Form 8-K as soon as they become available.
+4
+`
+Additional Solicitation/Costs
+We are paying for the distribution of the proxy materials and solicitation of the proxies. As part of this process, we reimburse brokerage houses and other custodians, nominees and fiduciaries for their reasonable out-of-pocket expenses for forwarding proxy and solicitation materials to our stockholders. Proxy solicitation expenses that we will pay include those for preparation, mailing, returning and tabulating the proxies. Our directors, officers and employees may also solicit proxies on our behalf by telephone, email or by other means of communication, but they do not receive additional compensation for providing those services.
+Householding
+Some banks, brokers and other nominee record holders may be participating in the practice of “householding” proxy statements and annual reports. This means that only one copy of the Notice, Proxy Statement and Annual Report on Form 10-K for the year ended December 31, 2023, as applicable, is being delivered to multiple stockholders sharing an address unless we have received contrary instructions. We will promptly deliver a separate copy of any of these documents to you if you write to us at Squarespace, Inc. Attn: Investor Relations, 225 Varick Street, 12th Floor, New York, New York 10014 or send us an email at investors@squarespace.com. If you want to receive separate copies of the Notice, Proxy Statement, or Annual Report on Form 10-K in the future, or if you are receiving multiple copies and would like to receive only one copy for your household, you should contact your bank, broker, or other nominee record holder, or you may contact us at the above address.
+5
+`
+BOARD OF DIRECTORS
+The following table identifies our board of directors and sets forth their ages as of April 8, 2024:
+Name | Age | Position
+Anthony Casalena | 41 | Founder, Chief Executive Officer and Chairperson of the Board
+Andrew Braccia | 48 | Director
+Michael Fleisher | 59 | Director
+Jonathan Klein | 63 | Director
+Liza Landsman | 54 | Director
+Anton Levy | 49 | Director
+Neela Montgomery | 49 | Director
+Set forth below are the biographies of each director, as well as information regarding each such person’s business experience, director positions held currently or at any time during the last five years, and the experiences, qualifications, attributes or skills that caused the Nominating and Corporate Governance Committee to determine that the person should serve as a director of the company. We believe that each of our executive officers and directors has a reputation for integrity, honesty and adherence to high ethical standards.
+Anthony Casalena is the Founder and Chief Executive Officer of Squarespace, which he started from his dorm room in 2003. During the company’s early years, Mr. Casalena acted as the sole engineer, designer and support representative for the Squarespace platform. In addition to running the company and setting overall product strategy, Mr. Casalena remains actively involved in many departments of the company that he had previously run himself. Mr. Casalena holds a B.S. in Computer Science from the University of Maryland. We believe that Mr. Casalena is qualified to serve as a member of our board of directors because of the perspective and experience he brings as our Founder and Chief Executive Officer.
+Andrew Braccia has served as a member of our board of directors since July 2010. Since April 2007, Mr. Braccia has been a Partner at Accel. Mr. Braccia served as a member of the board of directors of UserTesting, Inc. until January 2023, served as a member of the board of directors of Slack Technologies, Inc. until July 2021, and is also a member of the board of directors of several private technology companies. Mr. Braccia holds a B.S. in Business Administration from the University of Arizona. We believe that Mr. Braccia is qualified to serve as a member of our board of directors because of his significant knowledge of and history with our company, his experience as a director of publicly traded companies and his knowledge of our industry.
+Michael Fleisher has served as a member of our board of directors since December 2018. Mr. Fleisher served as Chief Financial Officer of Wayfair Inc. from October 2013 to November 2022. Prior to joining Wayfair, Mr. Fleisher served at Warner Music Group as the Vice Chairman, Strategy and Operations from 2008 to 2011 and also served as Executive Vice President and Chief Financial Officer from 2005 to 2008. He was previously the Chief Executive Officer of Gartner, Inc. from 1999 to 2004. Mr. Fleisher has served on the board of directors of Goat Group since January 2021. Mr. Fleisher received a B.S. from the University of Pennsylvania’s Wharton School of Business. We believe that Mr. Fleisher is qualified to serve as a member of our board of directors because of his extensive finance background, including service as Chief Financial Officer of multiple companies, his experience as an executive of publicly traded companies and his knowledge of our industry.
+Jonathan Klein has served as a member of our board of directors since July 2010. Mr. Klein led Getty Images as a Co-Founder and Chief Executive Officer for more than 20 years and currently serves on the board of directors. Mr. Klein also serves on the board of directors of Etsy, Inc. and as Chairman of the Board of Jumia Technologies AG. He currently serves as a director of multiple private companies and non-profit organizations. Mr. Klein received an L.L.M. from the University of Cambridge. We believe that Mr. Klein is qualified to serve as a member of our board of directors because of his significant knowledge of and history with our company, his experience as a director of several publicly traded companies and his knowledge of our industry.
+Liza Landsman has served as a member of our board of directors since December 2018. Ms. Landsman joined Stash Financial, Inc. (“Stash”) in February 2023 as its Chief Executive Officer. Prior to Stash, Ms. Landsman was a General Partner at New Enterprise Associates (“NEA”) from February 2018 to January 2023. Prior to joining NEA, Ms. Landsman was President of Jet.com, Inc. where she was a founding member of the executive team and later, following Jet.com’s acquisition, of Walmart Inc.’s U.S. E-commerce leadership team. Ms. Landsman currently serves on the board of directors of Choice Hotels International, Inc. and previously served on the board of directors of Veritiv Corporation. Ms. Landsman
+6
+`
+received a B.A. from Cornell University. We believe that Ms. Landsman is qualified to serve as a member of our board of directors because of her extensive experience as a director of publicly traded companies, her business acumen and her knowledge of our industry.
+Anton Levy has served as a member of our board of directors since April 2014. Mr. Levy is Managing Director and Global Head of Technology at General Atlantic. Mr. Levy also serves on General Atlantic’s Management, Investment and Portfolio Committees. Mr. Levy serves as a board observer for certain public companies and as a director, board observer or trustee for several private companies and organizations. Mr. Levy holds a B.S. in Commerce from the University of Virginia and an MBA from Columbia Business School. We believe that Mr. Levy is qualified to serve as a member of our board of directors because of his significant knowledge of and history with our company, his experience as a seasoned investor and as a current and former director of multiple companies and his knowledge of our industry.
+Neela Montgomery has served as a member of our board of directors since August 2022. Ms. Montgomery is the CEO of Orveon Global, a beauty company with brands that sell in over 40 countries, and is also a member of the Board of Directors. Before starting this role in 2024, Ms. Montgomery was a Board Partner with Greycroft, a venture capital firm, from January 2022 to January 2024. Ms. Montgomery also serves as a non-executive director of Logitech International S.A. since September 2017, Fetch since November 2022 and St. Jude Children's Research Hospital since 2022. Ms. Montgomery was the President and Executive Vice President of CVS Pharmacy, the retail and pharmacy division of CVS Health, a diversified health services company, from November 2020 until January 2022 and oversaw over 10,000 pharmacies and 160,000 associates. Before that, she was the Chief Executive Officer of Crate & Barrel Holdings, Inc., a global home furnishings retailer, from August 2017 to August 2020. Ms. Montgomery was a Member of the Executive Board for Multichannel Retail at the Otto Group, GmbH, a globally operating retail and services group, from November 2014 to August 2017, overseeing all Group companies that operate in e-commerce and store-based retail as well as serving as Executive Chairwoman of Group operating companies including Crate & Barrel. Prior to joining the Otto Group, Ms. Montgomery was the UK General Merchandise Director on the UK Board of Tesco Plc, one of the world’s largest retailers, from June 2012 to June 2014. She served at Tesco since 2002, including as UK E-Commerce Director from March 2011 to December 2012 and as Chief Merchant for Tesco Malaysia from July 2007 to May 2011. Ms. Montgomery studied English literature at Oxford University and holds an MBA from INSEAD having studied in France and Singapore. She is also a 2020 Henry Crown Fellow at the Aspen Institute. We believe that Ms. Montgomery is qualified to serve as a member of our board of directors because of her global leadership experience.
+7
+`
+CORPORATE GOVERNANCE
+Board Independence
+Our board of directors has undertaken a review of the independence of our directors and considered whether any director has a material relationship with us that could compromise that director’s ability to exercise independent judgment in carrying out that director’s responsibilities. Our board of directors has affirmatively determined that Andrew Braccia, Michael Fleisher, Jonathan Klein, Liza Landsman, Anton Levy and Neela Montgomery are each an “independent director,” as defined under the rules of the New York Stock Exchange (“NYSE”). In making these determinations, our board of directors considered the current and prior relationships that each director has with our company and all other facts and circumstances our board of directors deemed relevant in determining their independence, including the beneficial ownership of our capital stock by each director and the transactions involving them described in the section titled “Certain Relationships and Related Party Transactions.” In addition to determining whether each director satisfies the director independence requirements set forth in the listing requirements of the NYSE, in the case of members of the Audit Committee and Compensation Committee, our board of directors made an affirmative determination that such members also satisfy separate independence requirements and current standards imposed by the Securities and Exchange Commission (“SEC”).
+There are no family relationships among any of our directors or executive officers.
+At least annually, our board of directors will evaluate all relationships between us and each director in light of relevant facts and circumstances for the purposes of determining whether a material relationship exists that might signal a potential conflict of interest or otherwise interfere with such director’s ability to satisfy his or her responsibilities as an independent director. Based on this evaluation, our board of directors will make an annual determination of whether each director is independent within the meaning of the NYSE’s, the SEC’s and our applicable committees’ independence standards.
+Board Leadership Structure
+Currently, our Founder and Chief Executive Officer, Mr. Anthony Casalena, serves as Chairperson of the board of directors. The board of directors believes that its current leadership structure, coupled with an emphasis on board independence, provides effective independent oversight of management while allowing both the board of directors and management to benefit from Mr. Casalena’s leadership and years of experience in Squarespace’s business. Mr. Casalena possesses details and first-hand knowledge of the issues, opportunities and challenges facing Squarespace and its business. We believe this extensive company-specific experience and expertise of Mr. Casalena, together with the outside experience, oversight and expertise of our independent directors, allows for differing perspectives and roles regarding strategy development that benefit our stockholders. This structure enables Mr. Casalena to act as the key link between the board of directors and other members of management. Further, the board of directors believes that Mr. Casalena’s combined role enables decisive leadership, ensures accountability and enhances Squarespace’s ability to communicate its message and strategy clearly and consistently to its stockholders, employees, customers and partners.
+Our board of directors continues to review the leadership of the board of directors on a regular basis.
+Board and Committee Meetings
+Our board of directors meets on a regularly scheduled basis during the year to review significant developments affecting us and to act on matters requiring their approval. It also holds special meetings when important matters require action between scheduled meetings. During 2023, the board of directors held five meetings. The board of directors has three standing committees:
+•the Audit Committee, which held five meetings in 2023;
+•the Compensation Committee, which held six meetings in 2023; and
+•the Nominating and Corporate Governance Committee, which held three meetings in 2023.
+Each of the incumbent directors attended 75% or more of the aggregate number of meetings of the board of directors and all committees of the board of directors on which he or she served during the period for which he or she was a director in 2023.
+To encourage and enhance communication among non-employee directors, our Corporate Governance Guidelines provide that, in general, our non-management directors shall meet in executive session without management at each regularly scheduled meeting of the board of directors. An independent director designated by the independent directors shall preside at such executive sessions.
+8
+`
+It is our policy that members of our board of directors are expected to attend annual meetings of our stockholders. Six of our seven directors serving at the time attended the 2023 annual meeting of stockholders.
+Corporate Governance Policies and Committee Charters
+The board of directors and management regularly review and evaluate the company’s corporate governance practices. The board of directors has adopted Corporate Governance Guidelines to assist and guide its members in the exercise of its responsibilities. These guidelines should be interpreted in accordance with any requirements imposed by applicable federal or state law or regulation, the NYSE listing standards and our amended and restated certificate of incorporation and amended and restated bylaws.
+In addition, we have adopted a Code of Business Conduct and Ethics that applies to all of our employees, officers and directors, including our principal executive officer, principal financial officer, principal accounting officer or controller or persons performing similar functions. We intend to disclose any amendment or waiver of a provision of the Code of Business Conduct and Ethics required by law or the NYSE listing standards by posting such information on our investor website and/or in our public filings with the SEC.
+The board of directors has also adopted written charters for the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee, each of which satisfies the applicable rules of the SEC and the listing standards of the NYSE.
+Our Corporate Governance Guidelines, Code of Business Conduct and Ethics and committee charters are available on the Investor Relations section of our website at https://investors.squarespace.com/governance/governance-documents/.
+Board Committees
+Our amended and restated bylaws provide that the board of directors may delegate responsibility to committees. The board of directors has three standing committees: the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee.
+The table below shows the composition of the standing committees of the board of directors. Mr. Casalena does not currently serve on any standing committee.
+Name | Independent | Audit
+Committee | Compensation
+Committee | Nominating and
+Corporate Governance
+Committee
+Andrew Braccia | √ | √
+Michael Fleisher | √ | Chair | √
+Jonathan Klein | √ | √ | Chair
+Liza Landsman | √ | Chair
+Anton Levy | √ | √
+Neela Montgomery | √ | √ | √
+Audit Committee
+Mr. Fleisher, Mr. Klein and Ms. Montgomery currently serve on the Audit Committee, which is chaired by Mr. Fleisher. Ms. Landsman served on the Audit Committee until February 22, 2024 when she was replaced by Mr. Klein. The board of directors has determined that each member of the Audit Committee is “independent” for audit committee purposes as that term is defined under Rule 10A-3 of the Exchange Act and the applicable NYSE rules. Each member of the Audit Committee meets the requirements for financial literacy under the applicable rules and regulations of the SEC and NYSE. The board of directors has determined that each of Mr. Fleisher and Ms. Montgomery is an “audit committee financial expert,” as defined under the applicable rules of the SEC. The Audit Committee’s responsibilities include:
+•appointing, compensating, retaining, evaluating, terminating and overseeing our independent registered public accounting firm;
+•discussing with our independent registered public accounting firm its independence from management;
+9
+`
+•reviewing with our independent registered public accounting firm the scope and results of its audit;
+•approving all audit and permissible non-audit services to be performed by our independent registered public accounting firm;
+•overseeing the financial reporting process and discussing with management and our independent registered public accounting firm the quarterly and annual financial statements that we file with the SEC;
+•overseeing our financial and accounting controls and compliance with legal and regulatory requirements;
+•reviewing our policies on risk assessment and risk management;
+•reviewing related person transactions; and
+•establishing procedures for the confidential, anonymous submission of concerns regarding questionable accounting, internal controls or auditing matters.
+Compensation Committee
+Mr. Klein, Ms. Montgomery and Mr. Levy currently serve on the Compensation Committee, which is chaired by Mr. Klein. Mr. Braccia served on the Compensation Committee until February 22, 2024 when he was replaced by Ms. Montgomery. The board of directors has determined that each member of the Compensation Committee is “independent” as that term is defined in the applicable SEC and NYSE rules. The Compensation Committee’s responsibilities include:
+•reviewing and approving the compensation of our directors, Chief Executive Officer and other executive officers;
+•reviewing and approving the terms of any employment agreements, severance arrangements, change in control protections and any other compensatory arrangements for our executive officers;
+•overseeing our compensation and employee benefit plans; and
+•appointing and overseeing compensation consultants.
+Nominating and Corporate Governance Committee
+Ms. Landsman, Mr. Fleisher and Mr. Braccia currently serve on the Nominating and Corporate Governance Committee, which is chaired by Ms. Landsman. Mr. Klein served on the Nominating and Corporate Governance Committee until February 22, 2024 when he was replaced by Mr. Braccia. The board of directors has determined that each member of the Nominating and Corporate Governance Committee is “independent” as that term is defined in the applicable SEC and NYSE rules. The Nominating and Corporate Governance Committee’s responsibilities include:
+•identifying individuals qualified to become members of our board of directors, consistent with criteria approved by our board of directors;
+•evaluating the overall effectiveness of our board of directors and its committees; and
+•reviewing developments in corporate governance compliance and developing and recommending to our board of directors a set of corporate governance guidelines.
+Compensation Committee Interlocks and Insider Participation
+None of the members of our Compensation Committee is or has been one of our officers or employees. None of our executive officers currently serves, or in the past year has served, as a member of the board of directors or Compensation Committee (or other committee performing equivalent functions) of any entity (other than our subsidiaries) that has one or more executive officers serving on our board of directors or Compensation Committee.
+Identifying and Evaluating Director Nominees
+The Nominating and Corporate Governance Committee is responsible for identifying, screening and recommending candidates to our board of directors for board membership. When formulating its board membership recommendations, the Nominating and Corporate Governance Committee will also consider recommendations from stockholders and others as it deems appropriate. The Nominating and Corporate Governance Committee will consider the following qualifications in the selection of director candidates: knowledge, experience, skills, expertise and diversity and such other relevant factors that the committee considers appropriate in the context of the board’s needs. In addition, the Nominating and Corporate Governance Committee shall consider the overall mix of tenures on the board of directors and each director’s performance and suitability. The Nominating and Corporate Governance Committee will periodically review and recommend for approval by the board of directors criteria for membership on the board and the skills and characteristics required of board
+10
+`
+members. The board of directors does not believe that term limits or a mandatory retirement age are appropriate at this time.
+Stockholder Communications
+Stockholders or other interested parties may contact the board of directors or one or more of our directors with issues or questions about Squarespace by mailing correspondence to our Secretary at our principal executive office, Squarespace, Inc., 225 Varick Street, 12th Floor, New York, New York 10014. Our Secretary will review incoming communications directed to the board of directors and, if appropriate, will forward such communications to the appropriate member(s) of the board of directors or, if none is specified, to the Chairperson of the Board. For example, we will generally not forward a communication that is primarily commercial in nature, is improper or irrelevant, or is a request for general information about Squarespace.
+Board’s Role in Risk Oversight
+Risk assessment and oversight are an integral part of our governance and management processes. Our board of directors, as a whole and through its committees, is responsible for overall risk management. Our board of directors encourages management to promote a culture that incorporates risk management into our corporate strategy and day-to-day business operations. The following are risk-related responsibilities and functions performed by our board of directors, its committees and management in accordance with our governance documents:
+The Board of Directors
+•Maintains ultimate responsibility for the oversight of risk for the company; assigns specific oversight duties to board committees.
+•Receives reports, briefings and presentations from senior management at regular board meetings.
+The Audit Committee
+•Reviews our policies with respect to risk assessment and risk management, which includes assessment of our major financial risk exposures and the steps taken by management to monitor and control such exposures.
+•Reviews risks relating to data privacy, technology and information security, including cybersecurity, and the steps taken to monitor and control such exposures.
+•Receives reports, briefings and presentations from senior management at regular Audit Committee meetings.
+The Compensation Committee
+•Reviews our compensation-related risks, including assessing and monitoring whether any of our compensation policies and programs has the potential to encourage excessive risk-taking.
+•Reviews conflicts of interest involving advisors to the Compensation Committee.
+The Nominating and Corporate Governance Committee
+•Reviews governance-related risks, including assessing the effectiveness of our corporate governance guidelines.
+•Identifies, interviews and performs due diligence on potential board members and evaluates the independence of each director and director candidate.
+Management
+•Identifies, mitigates and eliminates risks and develops risk controls related to significant business activities.
+•Discusses strategic and operational risks at regular management meetings.
+•Reviews risks with the board of directors and the Audit Committee at regular meetings, with presentations that focus on particular business functions, operations or strategies, as well as the steps taken to mitigate or eliminate such risks.
+Director Compensation
+Effective as of August 1, 2023, the non-employee director compensation policy provides for an annual cash retainer of (i) $20,000 to any individual serving as our lead independent director or chair of the Audit Committee or Compensation Committee, (ii) $10,000 to any individual serving as the chair of the Nominating and Corporate Governance Committee,
+11
+`
+(iii) $10,000 to any member of the Audit Committee or Compensation Committee and (iv) $5,000 to any member of the Nominating and Corporate Governance Committee. These annual cash payments are made in equal quarterly installments in arrears and are pro-rated for any partial quarters.
+Effective as of August 1, 2023, our non-employee director compensation policy further provides for an annual grant of restricted stock units relating to shares of our Class A common stock for our non-employee directors with an aggregate value of $260,000. The grant will be made on the date of each annual meeting of our stockholders and will vest in full on the first anniversary of the grant date, subject to the director’s continued service through the vesting date.
+In addition, our non-employee director compensation policy provides for an initial grant of restricted stock units relating to shares of our Class A common stock for our non-employee directors with an aggregate value of $260,000 when an individual is elected or appointed to the board of directors for the first time, prorated for the portion of the year in which the individual serves on the board of directors. The initial grant of restricted stock units will vest on the same vesting date as applies to then-current annual grants, subject to the director’s continued service through the vesting date.
+Upon a change in control, all outstanding restricted stock units held by each non-employee director will vest in full, subject to the director’s continued service until immediately prior to the change in control. Pursuant to our non-employee director compensation policy, we will reimburse each non-employee director for ordinary, necessary and reasonable out-of-pocket travel expenses to cover in-person attendance at and participation in board meetings and meetings of any committee of the board of directors. Our board of directors (or such committee) will have the sole discretion and authority to administer, interpret, amend and terminate our non-employee director compensation policy, and the decisions of our board of directors will be final and binding.
+Director Compensation Table for 2023
+The following table summarizes the total compensation paid to our non-employee directors in 2023.
+Name
+Fees Earned
+in Cash($)(1)
+Stock
+Awards($) | Total ($)
+Andrew Braccia | 10,000 | 266,168
+(2)
+276,168
+Michael Fleisher | 25,000 | 266,168
+(2)
+291,168
+Jonathan Klein | 25,000 | 266,168
+(2)
+291,168
+Liza Landsman | 20,000 | 266,168
+(2)
+286,168
+Anton Levy | 10,000 | 266,168
+(2)
+276,168
+Neela Montgomery | 10,000 | 266,168
+(2)
+276,168
+(1)The amounts in this column represent the annual cash retainer payments made to each individual in 2023.
+(2)Amount shown represents a grant of 8,639 restricted stock units relating to shares of our Class A common stock multiplied by the grant date fair value calculated in accordance with FASB ASC Topic 718. For a summary of the assumptions used in the valuation of these equity awards, please see Note 18 to our audited financial statements included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. The 8,639 restricted stock units relating to shares of our Class A common stock was calculated, in accordance with our Equity Award Grant Policy, by dividing the aggregate value of the award, $250,000, by the average closing market price of a share of our Class A common stock over the 30 calendar days leading up to, but not including, the date of grant. The grants were made on June 6, 2023 and will vest on June 6, 2024, subject to continued service through the vesting date. The non-employee directors do not hold any other outstanding equity awards as of December 31, 2023.
+12
+`
+CORPORATE RESPONSIBILITY AND SUSTAINABILITY AT SQUARESPACE
+We believe environmental, social and governance (“ESG”) considerations are embedded in our vision, mission and company values. Our ESG management steering committee (“ESG Committee”), made up of members from our Finance, Legal, Marketing and People teams, supports our ongoing commitment to ESG. The ESG Committee reports to the Nominating and Corporate Governance Committee. Our Nominating and Corporate Governance Committee is responsible for overseeing our ESG strategy. The priorities that define the key components of our ESG strategy include:
+Customers
+Innovation & Customer Success
+Our platform is in a constant state of evolution. In 2023, we announced some of the biggest advancements in our commerce product to date, including new ways to sell online with the launch of payments, courses and invoices. Following our acquisition of the Google Domains business in September 2023, we transformed our domains offering, becoming one of the most advanced, easy to use registrars.
+We are a business that spawns businesses, and our success is measured by the success of any individual customer using our tools. We do not promote or spread our customers’ content to increase other customers’ engagement with our platform and we do not restrict our customers’ audience to other customers on our platform.
+In 2023, our Customer Operations team won multiple Stevie Awards for outstanding customer service. We also continue to invest in producing self-help educational resources for customers of various levels of technical sophistication, including guides, video tutorials and webinars.
+Data Privacy & Security
+We limit the data we collect and how long we retain it, and we treat data with care while we have it. We do not sell customer data. We also aim to be transparent in public-facing privacy notices and set out what personal information we collect, what we do with it and individuals’ rights and choices when it comes to data privacy.
+We are committed to maintaining effective security to protect the data assets of our customers, including those of their own customers. In addition, we have a dedicated in-house security team that guides the implementation of controls, processes and procedures governing the security of our data and our customers' data.
+Employees
+Employee Engagement & Development
+We believe employee engagement and development opportunities facilitate discovery of new ideas and encourage employees to meet their potential and contribute their value to the mission we serve.
+One way we receive feedback on our employee engagement and development efforts is through our annual engagement survey. Our overall engagement score was 75 out of a 100, as determined by the third-party vendor that runs the survey.
+Diversity & Inclusion
+We believe that a diverse employee population helps ensure new ideas and perspectives and that an inclusive culture helps ensure that those ideas and perspectives can thrive. Our Inclusion Advisory Council (“IAC”) is an advisory body composed of employees across various departments, geographies and levels. The IAC works with our CEO and other senior leaders to examine potential barriers to inclusion in the workplace.
+We make Diversity & Inclusion (“D&I”) and inclusive leadership learning opportunities accessible to all employees. All employees are also provided with D&I e-Learning within their first month at Squarespace, which covers unconscious bias, inclusivity and allyship. Our Inclusive Leadership series provides live learning sessions and opportunities for peer-learning and discussion and, through our D&I Ambassadors program, participating employees are trained to facilitate D&I training for others in order to further instill inclusive habits and concepts in our day-to-day operations.
+In 2023, we supported six global ERGs with chapters across our office locations. ERGs provide a supportive community for their members and offer programming to bring awareness and education about their community to the broader company, helping to foster an inclusive culture as well as volunteering opportunities.
+13
+`
+Community Support
+Through non-profit partnerships, charitable giving and other initiatives, we are working to support our communities and provide entrepreneurship opportunities. In 2023, we donated $100,000 to the Marcy Lab School, a tuition free, 1 year-program that prepares high school graduates to launch a financially-rewarding, purpose driven career in tech. We also awarded $25,000 to Black Connect. Black Connect elevates existing black-owned businesses and encourages a new generation of leaders and creators to pursue entrepreneurship.
+Outside the United States, Squarespace partners with Trinity College Dublin’s Trinity Centre for People with Intellectual Disabilities (“TCPID”) to support TCPID’s mission to promote the inclusion of people with intellectual disabilities in society.
+Under Squarespace’s employee matching program, we match employee fundraising for eligible non-profit organizations in an amount up to $600 per employee per year. In 2023, we contributed $113,000 through donation matches to a variety of non-profit organizations under this program.
+Environment
+We believe responsible energy use is important for our long-term success. Squarespace follows sustainable business practices to create a more eco-conscious workplace for its New York and Dublin offices, including:
+•Motion sensors and low-watt LED lighting;
+•Water-saving timers on bathroom faucets;
+•Window films to reduce HVAC load and energy consumption;
+•Elimination of single-use water bottles and implementation of filtered water taps in office pantries;
+•Over 100 plants inside each office;
+•Biodegradable cups, cutlery and plates;
+•Recycling;
+•No “volatile organic compound” paint for all interior cosmetic projects.
+Our 2023 Environmental, Social and Governance Report will be available on the Investor Relations section of our website at https://investors.squarespace.com/governance/ESG/. Information appearing on https://www.squarespace.com/, https://investors.squarespace.com and our other affiliated sites is not part of and is not incorporated by reference in this proxy statement.
+14
+`
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth certain information known to us regarding the beneficial ownership of our common stock as of April 8, 2024, for:
+•each person known by us to be the beneficial owner of more than 5% of our common stock;
+•our named executive officers;
+•each of our directors and director nominees; and
+•all executive officers and directors as a group.
+Beneficial ownership is determined in accordance with the rules of the SEC and generally includes voting or investment power with respect to securities. Except as noted by footnote, and subject to community property laws where applicable, we believe, based on the information provided to us, that the persons and entities named in the table below have sole voting and investment power with respect to all shares of common stock shown as beneficially owned by them.
+The table lists applicable percentage ownership based on 89,575,238 shares of our Class A common stock and 47,844,755 shares of our Class B common stock outstanding as of April 8, 2024 unless indicated otherwise. We have deemed shares of our Class A common stock and Class B common stock subject to stock options that are currently exercisable or exercisable within 60 days of April 8, 2024 or issuable pursuant to restricted stock units which are subject to vesting and settlement conditions expected to occur within 60 days of April 8, 2024 to be outstanding and to be beneficially owned by the person holding the stock option or restricted stock unit for the purpose of computing the percentage ownership of that person. We did not deem these shares outstanding, however, for the purpose of computing the percentage ownership of any other person. Unless otherwise indicated, the address for each beneficial owner is c/o Squarespace, Inc. 225 Varick Street, 12th Floor, New York, New York 10014.
+Number of Shares Beneficially Owned
+Name of Beneficial Owner | Class A
+Shares | % | Class B
+Shares | % | Total Voting
+†%
+5% Stockholders
+Entities affiliated with Accel (1)
+14,563,386 | 16.3 | — | * | 2.6
+Entities affiliated with General Atlantic (2)
+15,586,169 | 17.4 | 4,958,345 | 10.4 | 11.5
+Wellington Management Group LLP (3)
+9,782,525 | 10.9 | — | * | 1.7
+The Vanguard Group (4)
+6,345,007 | 7.1 | — | * | 1.1
+Named Executive Officers and Directors
+Anthony Casalena (5)
+3,309,996 | 3.7 | 42,886,410 | 86.9 | 76.1
+Nathan Gooden (6)
+93,724 | * | — | * | *
+Paul Gubbay (7)
+50,569 | * | — | * | *
+Courtenay O'Connor (8)
+60,800 | * | — | * | *
+Andrew Braccia (9)
+14,572,025 | 16.3 | — | * | 2.6
+Michael Fleisher (10)
+75,493 | * | — | * | *
+Jonathan Klein (11)
+660,019 | * | — | * | *
+Liza Landsman (12)
+29,173 | * | — | * | *
+Anton Levy (13)
+25,390 | * | — | * | *
+Neela Montgomery (14)
+18,298 | * | — | * | *
+All executive officers and directors as a group (10 persons) (15)
+18,895,487 | 21.1 | 42,886,410 | 86.9 | 78.8
+________________________
+*Denotes less than 1.0% of beneficial ownership.
+†Percentage of total voting power represents voting power with respect to all shares of our Class A common stock and Class B common stock, as a single class. Shares of our Class A common stock entitle the holder to one vote per share, shares of our Class B common stock entitle the holder to ten votes per share.
+15
+`
+(1)Consists of (a) 530,953 shares of Class A common stock held of record by Accel Leaders 3 L.P., (b) 21,982 shares of Class A common stock held of record by Accel Leaders 3 Entrepreneurs L.P., (c) 31,686 shares of our Class A common stock held of record by Accel Leaders 3 Investors (2020) L.P., (d) 12,808,246 shares of Class A common stock held of record by Accel Growth Fund L.P., (e) 250,729 shares of Class A common stock held of record by Accel Growth Fund Strategic Partners L.P. (f) 870,600 shares of Class A common stock held of record by Accel Growth Fund Investors 2010 L.L.C., and (g) 49,190 shares of Class A common stock held by Andrew Braccia. Accel Leaders 3 GP Associates L.L.C. (“AL3A”) is the general partner of the general partner of both Accel Leaders 3 L.P. and Accel Leaders 3 Entrepreneurs L.P., and the general partner of Accel Leaders 3 Investors (2020) L.P., and has the sole voting and investment power. Andrew Braccia, Sameer Gandhi, Ping Li, Ryan Sweeney, and Richard Wong are the directors of AL3A and share such powers. Accel Growth Fund Associates L.L.C. (“AGFA”) is the general partner of both Accel Growth Fund L.P. and Accel Growth Fund Strategic Partners L.P. and has the sole voting and investment power. Andrew Braccia, Kevin Efrusy, Sameer Gandhi, Ping Li, and Richard Wong are the managing members of AGFA and share such powers. Andrew Braccia, Kevin Efrusy, Sameer Gandhi, Ping Li, and Richard Wong are the managing members of Accel Growth Fund Investors 2010 L.L.C. and share the voting and investment powers. The address of the foregoing Accel entities is 500 University Avenue, Palo Alto, California, 94301. Each managing member or director disclaims beneficial ownership except to the extent of their pecuniary interest therein. Mr. Braccia, a director of Squarespace, disclaims ownership of all such shares except to the extent that he has a pecuniary interest therein.
+(2)Consists of (a) 10,611,073 shares of Class A common stock held of record by General Atlantic (SQRS II), LP (“GA SQRS II”), (b) 16,751 shares of Class A common stock held by Anton Levy, an employee of General Atlantic Service Company, L.P., and (c) 4,958,345 shares of Class B common stock held of record by GA SQRS II. The following investment funds share beneficial ownership of the shares held by GA SQRS II: General Atlantic Partners 100, L.P. (“GAP 100”), GAP Coinvestments III, LLC (“GAPCO III”), GAP Coinvestments IV, LLC (“GAPCO IV”), GAP Coinvestments V, LLC (“GAPCO V”) and GAP Coinvestments CDA, L.P. (“GAPCO CDA”). GAP 100, GAPCO III, GAPCO IV, GAPCO V, and GAPCO CDA are herein referred to as the “GA Funds.” The general partner of GA SQRS II is General Atlantic (SPV) GP, LLC (“GA SPV”). The general partner of GAP 100 is General Atlantic GenPar, L.P. (“GA GenPar”) and the general partner of GA GenPar is General Atlantic, L.P. (“GA LP”). GA LP, which is controlled by the Partnership Committee* of GASC MGP, LLC (the “GA Partnership Committee”), is the managing member of GAPCO III, GAPCO IV, and GAPCO V, the general partner of GAPCO CDA and the sole member of GA SPV. The Partnership Committee is comprised of senior Managing Directors of General Atlantic: CEO and Chairman William E. Ford, David C. Hodgson, Martin Escobari, Gabriel Caillaux, and Christopher G. Lanning. GA LP, GA GenPar, GA SPV, GA SQRS II, and the GA Funds (collectively, the “GA Group”) are a “group” within the meaning of Rule 13d-5 of the Exchange Act. The mailing address of the foregoing General Atlantic entities is c/o General Atlantic Service Company, L.P., 55 East 52nd Street, 33rd Floor, New York, NY 10055. Each of the members of the Partnership Committee disclaims ownership of the shares except to the extent that he has a pecuniary interest therein. *The Partnership Committee is formerly the Management Committee, with composition effective pending applicable regulatory approvals.
+(3)This information is as of December 31, 2023 and is based solely on a Schedule 13G/A filed by Wellington Management Group LLP and its affiliates with the SEC on April 5, 2024 and includes shares beneficially owned by Wellington Management Group LLP, Wellington Group Holdings LLP, Wellington Investment Advisors Holdings LLP and Wellington Management Company LLP. The filing noted that Wellington Management Group LLP is a parent holding company and has shared voting power with respect to 7,653,351 shares of Class A common stock and shared dispositive power with respect to 9,782,525 shares of Class A common stock. The address of Wellington Management Group LLP is c/o Wellington Management Company LLP 280 Congress Street Boston, MA 02210.
+(4)This information is as of December 31, 2023 and is based solely on a Schedule 13G filed by The Vanguard Group with the SEC on February 13, 2024. The Vanguard Group has shared voting power with respect to 50,875 shares of Class A common stock, sole dispositive power with respect to 6,237,899 shares of Class A common stock, and shared dispositive power with respect to 107,108 shares of Class A common stock. The address of The Vanguard Group is 100 Vanguard Blvd., Malvern, PA 19355.
+(5)Consists of (a) 387,500 shares of Class A common stock and 2,050,838 shares of Class B common stock held directly by Anthony Casalena 2019 Family Trust, for which Mr. Casalena is the trustee, and (b) 2,922,496
+16
+`
+shares of Class A common stock and 40,835,572 of Class B common stock held directly by Anthony Casalena Revocable Trust, for which Mr. Casalena is the trustee. Each share of Class B common stock is convertible at the option of Mr. Casalena into one share of Class A common stock. Mr. Casalena may be deemed to have voting power and dispositive power over the shares held by the Anthony Casalena 2019 Family Trust and the Anthony Casalena Revocable Trust.
+(6)Consists of (a) 61,374 shares of Class A common stock and (b) 32,350 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+(7)Consists of (a) 46,186 shares of Class A common stock and (b) 4,383 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+(8)Consists of (a) 57,296 shares of Class A common stock and (b) 3,504 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+(9)Consists of (a) 16,751 shares of Class A common stock held directly by Andrew Braccia, (b) 8,639 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024, (c) 32,439 shares of Class A common stock held by AKB Living Trust, of which Andrew Braccia is a trustee and (d) shares held by the entities affiliated with Accel identified in footnote 1.
+(10)Consists of (a) 66,854 shares of Class A common stock and (b) 8,639 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+(11)Consists of (a) 651,380 shares of Class A common stock and (b) 8,639 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+(12)Consists of (a) 20,534 shares of Class A common stock and (b) 8,639 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+(13)Consists of (a) 16,751 shares of Class A common stock and (b) 8,639 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+(14)Consists of (a) 9,659 shares of Class A common stock and (b) 8,639 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+(15)Consists of (a) 18,803,416 shares of Class A common stock, (b) 42,886,410 shares of Class B common stock, and (c) 92,071 restricted stock units for shares of Class A common stock that vest within 60 days of April 8, 2024.
+17
+`
+EXECUTIVE OFFICERS
+The following table identifies executive officers and sets forth their current position(s) at Squarespace and their ages as of April 8, 2024
+Name | Age | Position
+Anthony Casalena | 41 | Founder, Chief Executive Officer and Chairperson of the Board
+Nathan Gooden | 49 | Chief Financial Officer and Treasurer
+Paul Gubbay | 56 | Chief Product Officer
+Courtenay O'Connor | 44
+General Counsel and Secretary
+Set forth below are the biographies of each executive officer, as well as information regarding each such person’s business experience and director positions held currently or at any time during the last five years. We believe that each of our executive officers has a reputation for integrity, honesty and adherence to high ethical standards.
+Anthony Casalena is the Founder and Chief Executive Officer of Squarespace, which he started from his dorm room in 2003. During the company’s early years, Mr. Casalena acted as the sole engineer, designer and support representative for the Squarespace platform. In addition to running the company and setting overall product strategy, Mr. Casalena remains actively involved in many departments of the company that he had previously run himself. Mr. Casalena holds a B.S. in Computer Science from the University of Maryland.
+Nathan Gooden has served as our Chief Financial Officer and Treasurer since October 2022. Mr. Gooden served as Chief Financial Officer of Amazon Alexa from January 2017 to October 2022, becoming Vice President in March 2022. Previously, Mr. Gooden was Chief Financial Officer of Spacepointe Limited, a global payments technology company, from January 2016 to December 2016. Prior to Spacepointe Limited, Mr. Gooden was a founding member of Solavei LLC, a social commerce company, where he served as Chief Financial Officer from June 2014 to February 2016. Mr. Gooden graduated from Oral Roberts University with a Bachelor of Science in Accounting.
+Paul Gubbay has served as our Chief Product Officer since July 2020. Prior to joining Squarespace, Mr. Gubbay spent 15 years at Adobe Inc. as Vice President of Design and Web, responsible for a wide span of Adobe’s Creative Cloud products including Illustrator, InDesign, XD and Spark.
+Courtenay O’Connor has served as our General Counsel and Secretary since November 2017. From November 2016 to November 2017, Ms. O’Connor served as our Senior Counsel. From April 2015 to November 2016, Ms. O’Connor served as Deputy General Counsel of Gizmodo Media Group, LLC. Ms. O’Connor holds a J.D. from The University of Michigan Law School and a B.A. from Wellesley College.
+18
+`
+COMPENSATION DISCUSSION AND ANALYSIS
+This Compensation Discussion and Analysis summarizes the material components of our executive compensation program and our executive compensation policies, practices and material compensation decisions for 2023 for our named executive officers (the "NEOs"). Our NEOs for the fiscal year ended on December 31, 2023 were:
+Name | Title
+Anthony Casalena | Founder, Chief Executive Officer and Chairperson of the Board
+Nathan Gooden | Chief Financial Officer and Treasurer
+Paul Gubbay | Chief Product Officer
+Courtenay O'Connor | General Counsel and Secretary
+Executive Compensation Philosophy
+We have a compensation philosophy that is focused on driving long-term, sustainable business value and leveraging compensation elements that are heavily weighted towards long-term employee retention and the creation of a “business ownership” mindset for our NEOs and other employees.
+Elements and Objectives of Executive Compensation
+Our executive compensation program aims to take a holistic approach to compensation and generally consists of, and is intended to strike a balance among, two principal components: base salary and long-term incentive compensation. Our NEOs are also eligible to participate in our broad-based employee benefit plans, including our medical, dental, vision, disability and life insurance plans, in each case on the same basis as our employees generally. We do not offer annual cash bonuses to our NEOs. The compensation of our NEOs in 2023 consisted of the following elements:
+Compensation Element | Objective
+Base salary
+To provide competitive compensation to attract, motivate and retain qualified leadership talent.
+Long-term incentive compensation in the form of equity awards (a mix of performance-based stock and time-vesting restricted stock units)
+To motivate and retain qualified leadership talent, directly and substantially link rewards to measurable corporate and individual performance and to reinforce the alignment of our NEOs' interests with the goal of creating long-term shareholder value.
+Other benefits
+Our broad-based employee benefit plans, including our medical, dental, vision, disability and life insurance plans are designed to provide employee benefits competitive with those offered by our compensation peer group and other companies that we compete with for talent.
+Timing of Executive Compensation Decisions
+Our annual executive compensation review and adjustments typically occur in the first quarter of the fiscal year. Our Compensation Committee reviews business and individual performance from the prior fiscal year in determining salary adjustments and equity awards for the current fiscal year.
+How We Determine Executive Compensation
+Role of Our Compensation Committee, Management and Board of Directors
+Our Compensation Committee is appointed by our board of directors and has oversight responsibilities related to our compensation and benefit programs, policies, and practices, administration of our equity compensation plans and in setting the compensation of our executive officers, the non-employee members of our board of directors, and other senior management, as appropriate.
+Our Compensation Committee is primarily responsible for establishing and reviewing our executive compensation strategy and meets periodically throughout the year to review and evaluate our overall executive compensation program. Our Compensation Committee typically reviews base compensation and grants equity awards to executive officers annually in the first quarter of the fiscal year, following comprehensive reviews of peer company market practices, company and
+19
+`
+individual performance results. We do not maintain a formal policy regarding the timing of equity awards to our executive officers and may award grants at other times including when an executive officer is hired or promoted and at other times our Compensation Committee determines to be appropriate for retention or other purposes. Our Compensation Committee will continue to evaluate its equity grant policies as we continue to evolve and grow as a public company.
+Under its charter, our Compensation Committee has the authority to retain or obtain the advice of any compensation consultant, legal counsel or other advisors to assist in the performance of its duties. Our Compensation Committee works with and receives information and analyses from management, including within our legal, finance, and human resources teams, and considers that information and analyses in determining the structure and amounts of compensation to be paid to our executive officers, including our NEOs.
+Our Compensation Committee also considers recommendations from our Chief Executive Officer regarding the compensation of our executive officers, other than himself. While our Chief Executive Officer discusses his recommendations with the Compensation Committee, he does not participate in the deliberations concerning, or the determination of, his own compensation.
+From time to time, various other members of management and other employees as well as outside advisors or consultants may be invited by our Compensation Committee to make presentations, provide financial or other background information or advice or otherwise participate in Compensation Committee or board of directors meetings.
+Role of Compensation Consultant
+During fiscal year 2023, our Compensation Committee retained Frederic W. Cook & Co., Inc. ("FW Cook"), as its independent compensation consultant due to FW Cook’s extensive analytical and compensation expertise with technology companies. In this capacity, FW Cook has advised our Compensation Committee on compensation matters, including executive officer and non-employee director compensation design and structure. In fiscal year 2023, FW Cook assisted with the following items with respect to our 2023 compensation program, among other things:
+•developing a group of peer companies to use as a reference in making executive compensation decisions;
+•conducting an executive competitive market pay analysis, including for our NEOs;
+•analyzing the equity utilization and reserve practices of our peer companies;
+•conducting a risk assessment of our executive compensation policies and practices; and
+•advising our Compensation Committee on market and industry trends and developments.
+Our Compensation Committee has the sole authority to retain compensation consultants to assist in its evaluation of executive compensation. FW Cook makes recommendations to our Compensation Committee but has no authority to make compensation decisions on behalf of our Compensation Committee or the company. FW Cook reports to our Compensation Committee and has direct access to the chairperson and the other members of our Compensation Committee. Beyond data and advice related to executive, equity, and director compensation matters, FW Cook did not provide other services to our Company in fiscal year 2023.
+Our Compensation Committee has examined whether the work of FW Cook as compensation consultant raised any conflict of interest, taking into account relevant factors in accordance with applicable SEC rules. Based on its analysis, our Compensation Committee determined that the work of FW Cook and the individual compensation advisors employed by FW Cook does not raise any conflict of interest pursuant to the independence factors and guidance provided in the SEC rules and NYSE listing standards.
+Use of Competitive Market Data
+Our Compensation Committee believes that it is important when making compensation decisions to be informed regarding current practices of comparable public companies with which we compete for top talent. To this end, our Compensation Committee works annually with FW Cook to review and revise the list of our peer group companies to be used in connection with assessing compensation practices and pay levels. Our Compensation Committee believes that the competitive market data provided by FW Cook, along with other factors, is an important reference point when setting compensation for our executive officers, including our NEOs, because competition for executive talent is intense in our industry and the retention of our talented leadership team is critical to our success.
+Fiscal Year 2023 Compensation Peer Group
+In August 2022, FW Cook proposed, and our Compensation Committee approved, a group of companies that would be appropriate peers for fiscal year 2023 compensation decisions, based on the following criteria:
+20
+`
+•Industry: U.S. publicly traded companies in the Application Software, Internet Services & Infrastructure, and Systems Software GICS sub-industries (GICS developed by S&P and Morgan Stanley Capital International)
+•Scale: 1/3x to 3x of the company's revenue as of the most recently completed fiscal quarter and 1/5x to 5x of the company’s market capitalization as of the most recently completed fiscal quarter.
+•Labor Market Competitors: Companies with whom the company may compete for executive talent.
+•Statistical Validity: Ensuring the group has 12-20 companies to maintain statistical validity.
+Using the above criteria collectively, the following 17 companies were identified as appropriate for our peer group by our Compensation Committee for the purpose of informing executive pay decisions for fiscal year 2023:
+Alteryx, Inc. | Etsy, Inc. | Okta, Inc.
+Anaplan, Inc. | GoDaddy Inc. | Smartsheet Inc.
+Box, Inc. | HubSpot, Inc. | Splunk Inc.
+Coupa Software Incorporated | Momentive Global Inc. | Zendesk, Inc.
+DocuSign, Inc. | MongoDB, Inc. | Zillow Group, Inc.
+Dropbox, Inc. | New Relic, Inc.
+At the time of approval of the company's peer group in August 2022, Squarespace was positioned at the 33rd and 5th percentiles on revenue and market capitalization as compared to the 17-company peer group. While we do not establish compensation levels solely based on a review of competitive data and do not directly tie any pay elements to particular benchmarks within our peer group, we believe market data (including executive and director pay levels, program structure, equity awards, and other benefits structures) is a meaningful input to our compensation policies and practices to attract and retain qualified executive officers.
+Fiscal Year 2023 Executive Compensation
+Base Salaries
+Each of our NEOs received a fixed base salary from the company with respect to 2023. The base salary payable to each NEO is reviewed on an annual basis and is determined taking into account numerous relevant factors, including (a) the individual’s qualifications, experience, scope of responsibilities and geographic location, (b) compensation amounts paid to similarly situated executives at peer companies, (c) the individual’s historical compensation level and (d) internal pay positioning.
+The 2023 base salaries for our NEOs were as follows: (a) $1 per annum for Mr. Casalena, (b) $750,000 per annum for Mr. Gooden, (c) $625,000 per annum for Mr. Gubbay for the portion of the year prior to March 3, 2023 and $650,000 per annum for the remainder of the year and (d) $525,000 per annum for Ms. O'Connor for the portion of the year prior to March 3, 2023 and $550,000 per annum for the remainder of the year.
+Annual Bonuses
+We did not provide annual cash bonus payments to our NEOs or to any other employees with respect to 2023. While we have not historically provided annual cash bonus payments to our NEOs or to any other employees, we may do so in the future if we think it is necessary to ensure that our overall compensation program remains competitive with our peers.
+Sign-On Bonus
+We provided a cash sign-on bonus to Mr. Gooden in connection with his initial hiring in 2022 as an incentive for him to accept employment with the company. Mr. Gooden received 60% of his bonus shortly after commencement of his employment and the remaining 40% of his bonus was paid in the payroll period ending January 31, 2023. In addition, the sign-on bonus is subject to repayment to the company in whole or in part if Mr. Gooden either voluntarily terminates employment with the company or is terminated by the company for “cause” (as defined in Mr. Gooden’s employment agreement) within two years following commencement of employment. We believe that these clawback provisions provide an additional retention element for the company.
+21
+`
+Restricted Stock Unit Awards
+Our Compensation Committee granted restricted stock unit awards under the 2021 Equity Incentive Plan relating to (i) 135,449 shares of our Class A common stock to Mr. Gooden on September 8, 2023, (ii) 70,133 shares of our Class A common stock to Mr. Gubbay on March 3, 2023 and (iii) 71,727 shares of our Class A common stock to Ms. O’Connor on March 3, 2023 (each a grant of “RSUs”). The initial tranche of 25% of RSUs vested on February 20, 2024, with respect to each of Mr. Gubbay’s and Ms. O’Connor’s RSUs, and will vest on November 20, 2024, with respect to Mr. Gooden’s RSUs, and thereafter the remainder of the RSUs will vest in equal 6.25% tranches quarterly, subject to continued employment through each applicable vesting date.
+While, in 2023, restricted stock units represented 75% of the overall long-term incentive program, in 2024, restricted stock units will represent 50% of the program.
+Additional information regarding outstanding equity awards held by each of our NEOs is described in greater detail in the section entitled “2023 Outstanding Equity Awards at Fiscal Year End” below.
+Performance Restricted Stock Unit Awards
+Our Compensation Committee granted performance restricted stock unit awards under the 2021 Equity Incentive Plan relating to (i) 45,150 shares of our Class A common stock to Mr. Gooden on September 8, 2023, (ii) 23,377 shares of our Class A common stock to Mr. Gubbay on March 3, 2023 and (iii) 23,908 shares of our Class A common stock to Ms. O'Connor on March 3, 2023 (collectively, the "PSUs"). The PSUs are eligible to vest subject to the achievement of performance targets and the satisfaction of service conditions described in more detail below.
+Performance Targets. The PSUs are eligible to vest upon the company's achievement of unlevered Free Cash Flow ("uFCF") Margin (as defined below) of 20.3% (or above) and Year-over-Year Revenue Growth of 12.5% (or above), each as of December 31, 2023. The performance targets are divided into five tiers and linear interpolation applies between tier 1 and tier 5.
+Tier
+uFCF Margin and/or YoY Revenue Growth (1)(2)
+% of PSUs eligible to vest (the "Earned PSUs")
+Tier 1
+uFCF Margin is 20.3% and YoY Revenue Growth is 12.5% | 20 | %
+Tier 2
+uFCF Margin is 20.8% and YoY Revenue Growth is 14% | 50 | %
+Tier 3
+uFCF Margin is 21.3% and YoY Revenue Growth is 15.4% | 100 | %
+Tier 4
+If Tier 3 is achieved and either uFCF Margin is 23.2% or YoY Revenue Growth is 17.7%
+150 | %
+Tier 5
+If Tier 3 is achieved and either uFCF Margin is 25% (or more) or YoY Revenue Growth is 20% (or more)
+200 | %
+(1) Unlevered free cash flow is a non-GAAP financial measure that is defined as cash flow from operating activities as determined in accordance with GAAP in our audited financial statements included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, less cash paid for capital expenditures increased by cash paid for interest expense net of the associated tax benefit. uFCF Margin is unlevered free cash flow as of December 31, 2023 expressed as a percentage of revenue as of December 31, 2023.
+(2) YoY Revenue Growth is the percentage equal to the year-over-year growth of our revenue as of December 31, 2022 as compared to December 31, 2023 and is measured based on organic revenue, excluding the effect of year-over-year changes in foreign currency exchange rate fluctuations. The revenue on which the uFCF Margin is calculated includes any inorganic revenue and the effect of year-over-year changes in foreign currency exchange rate fluctuations. All such measurements and calculations may be adjusted by our board of directors in accordance with our 2021 Equity Incentive Plan.
+If the tier 5 performance targets are met, the maximum number of Earned PSUs is 200%. If the performance targets are not met, then the PSUs will not be eligible to vest and will be immediately forfeited at no cost to the company.
+The company’s actual achievement of uFCF Margin of 23.81% and YoY Revenue Growth of 15.49% corresponded to the tier 4 performance targets and resulted in a payout of 162.97% of the PSUs.
+22
+`
+While performance restricted stock units represented 25% of the overall long-term incentive program in 2023, in 2024, performance restricted stock units will represent 50% of the program.
+Service Conditions.
+Upon achievement of a performance target, one-third of the Earned PSUs will vest on (i) February 20, 2024 or the date the board of directors certifies that the applicable performance target has been achieved, whichever is later, (ii) February 20, 2025, and (iii) February 20, 2026, subject to each of Mr. Gooden, Mr. Gubbay and Ms. O'Connor's continued employment on such dates.
+Termination and Change in Control Provisions.
+The terms of the PSUs provide that vesting will cease upon termination of employment with the company and any unvested PSUs (including unvested Earned PSUs) will be forfeited at no cost to the company on the date of termination of employment.
+Any Earned PSUs will remain subject to the service conditions described above and will become vested if employment is terminated without “cause” or for “good reason” during the period beginning three (3) months prior to, and ending twelve (12) months following a “change in control” (as defined in our 2021 Equity Incentive Plan). The terms “cause” and “good reason” are each defined in the award agreements governing the PSUs.
+401(k) Matching Contributions
+For the fiscal year ended December 31, 2023, we made matching contributions into the 401(k) plan on behalf of participants equal to 100% of participant contributions up to 4% of their compensation. Participants are immediately and fully vested in their voluntary contributions and all matching contributions.
+Pension Benefits
+Other than with respect to our 401(k) Plan, our U.S. employees, including our NEOs, do not participate in any plan that provides for retirement payments and benefits, or payments and benefits that will be provided primarily following retirement.
+Anthony Casalena Long-Term Performance Award
+Overview
+On April 15, 2021, our board of directors granted a long-term performance-based restricted stock unit award under our 2017 Equity Incentive Plan to Anthony Casalena, our Founder and Chief Executive Officer, which provides Mr. Casalena with the ability to earn up to 2,750,000 shares of our Class A common stock (the “Casalena Performance Award”). The Casalena Performance Award is subject to vesting based upon the achievement of meaningful stock price targets and the satisfaction of service conditions, each as described in more detail below.
+Our board of directors, in consultation with our independent compensation consultant, considered many factors in determining whether to grant the Casalena Performance Award and the size and terms of the Casalena Performance Award, including (i) Mr. Casalena’s significant ownership interest in the company but absence of any incentive awards that would be unvested following the effectiveness of the registration statement for the Direct Listing (as defined below), (ii) the need to provide meaningful incentives for Mr. Casalena to help ensure he will continue serving as our Chief Executive Officer and thereby continue to use his experience and vision to drive our ongoing success in a manner aligned with the long-term interests of our stockholders and (iii) market data for similarly situated executives at comparable companies, including other individuals serving in a founder and chief executive officer role at the time of an initial public offering. On May 19, 2021, the company completed a direct listing of its Class A common stock (the “Direct Listing”).
+Performance Conditions
+The Casalena Performance Award is eligible to vest based on our achievement of specified stock price targets during the period beginning upon the effectiveness of the registration statement for the Direct Listing and ending on the fifth anniversary of the grant date (the “Performance Period”). The Casalena Performance Award is divided into ten equal tranches that are eligible to vest based on our achievement of ten different and steadily increasing stock price targets, each of which will be deemed to have been achieved when the average closing price of a share of our Class A common stock on the trading days over any consecutive thirty (30) calendar day period during the Performance Period equals or exceeds the applicable stock price goal.
+23
+`
+The applicable stock price targets are as follows:
+Company Stock Price Target | Cumulative
+Number of Shares
+to Vest
+$105.00 | 275,000
+$140.00 | 550,000
+$175.00 | 825,000
+$210.00 | 1,100,000
+$245.00 | 1,375,000
+$280.00 | 1,650,000
+$315.00 | 1,925,000
+$350.00 | 2,200,000
+$385.00 | 2,475,000
+$420.00 | 2,750,000
+If the average closing price of a share of our Class A common stock on the trading days over any consecutive 30 calendar day period during the Performance Period does not equal or exceed $105.00, then none of the shares subject to the Casalena Performance Award will become eligible to vest. The applicable stock price targets and the number of shares that are eligible to vest in respect of the Casalena Performance Award are subject to adjustment to reflect any mergers, consolidations, reorganizations, stock dividends, stock splits or similar transactions or events that impact our Class A common stock in accordance with the terms of our 2017 Equity Incentive Plan.
+We believe that the Casalena Performance Award provides an additional level of meaningful alignment between Mr. Casalena and our stockholders generally, since the Casalena Performance Award will only become eligible to vest if the company achieves stock price targets over a five year period following the grant date that would result in returns to our stockholders that significantly exceed those generally applicable to our peer companies and the equity markets generally.
+Service Conditions
+In order to vest in any shares subject to the Casalena Performance Award for which the applicable stock price target has been achieved, Mr. Casalena must also meet a service condition based on his continued employment with the company following the grant date.
+The terms of the Casalena Performance Award provide that Mr. Casalena will satisfy the service condition with respect to 25% of the total shares subject to the Casalena Performance Award on each of the first four anniversaries of the grant date subject to Mr. Casalena’s continued employment through the applicable service vesting date. The shares subject to the Casalena Performance Award will become vested on the date that both the applicable performance condition and the applicable service condition have been satisfied. As a result of the service condition, Mr. Casalena will not become eligible to vest in the full amount of the shares subject to the Casalena Performance Award until the fourth anniversary of the grant date, even if the maximum stock price target described above is achieved before that date.
+Termination and Change in Control Provisions
+The Casalena Performance Award further provides that if Mr. Casalena’s employment is terminated as a result of Mr. Casalena’s death or “disability” or if Mr. Casalena’s employment is terminated by us without “cause”or by Mr. Casalena for “good reason”, in each case, prior to the fourth anniversary of the grant date, then all of the shares for which the applicable stock price targets have been achieved as of the date of such termination will immediately vest. The terms “disability”, “cause” and “good reason” are each defined in the applicable award agreement governing the Casalena Performance Award.
+24
+`
+The Casalena Performance Award also provides that if a “change in control” (as defined in our 2017 Equity Incentive Plan) occurs prior to the fifth anniversary of the grant date, then the number of shares that will become eligible for vesting (in addition to any shares already eligible for vesting) in respect of the achievement of the applicable stock price targets will be based on the per-share price of a share of our Class A common stock payable in connection with the applicable transaction, with linear interpolation applied if the per-share price is between the applicable stock price target amounts listed in the table above. Any such shares that are or become eligible for vesting will remain subject to the applicable service condition following the transaction, but will vest in full if Mr. Casalena’s employment terminates prior to the fourth anniversary of the grant date as a result of his death or disability or a termination by us without cause or by Mr. Casalena for good reason.
+Other Compensation Policies and Practices
+Perquisites
+Currently, we do not view perquisites or other personal benefits as a significant component of our executive compensation program. However, we have provided certain perquisites to our NEOs in situations where we believe it is appropriate, principally to allow them to devote more time to our business and to promote their health and safety.
+Prohibition on Hedging and Pledging
+Our board of directors has adopted an insider trading policy that prohibits engaging in hedging transactions (directly or indirectly) including transactions involving pledges of the underlying company equity securities as collateral, or otherwise engaging in transactions that hedge or offset, or are designed to hedge or offset, any decrease in the market value of Squarespace securities. Our directors, employees, their family members and any other persons, entities or accounts over which our directors, employees or their family members exercise investment influence or control are subject to our insider trading policy.
+Rule 10b5-1 Trading Plans
+Our executive officers and directors may conduct purchase or sale transactions under a trading plan established pursuant to Rule 10b5-1 under the Exchange Act. Through a Rule 10b5-1 trading plan, the executive officer or director contracts with a broker to buy or sell shares of our common stock on a periodic basis pursuant to a set of pre-arranged instructions inclusive of a mandatory cooling off period. The broker then executes the trades pursuant to the terms of the plan.
+Clawback Policy
+On October 2, 2023, we adopted a new Clawback Policy for our executive officers in order to comply with new SEC rules promulgated under the Dodd-Frank Wall Street Reform and Consumer Protection Act (the "Dodd-Frank Act") and NYSE listing standards. This policy applies to all incentive-based compensation (including cash bonus payments) received by our current and former Section 16 officers on or after October 2, 2023, the effective date specified in the NYSE listing standards.
+Share Ownership Guidelines
+Our share ownership guidelines apply to all our employees at the level of senior vice president or above and the non-employee members of our board of directors who receive compensation from us for their service as members of the board of directors. Applicable employees and directors are expected to accumulate and hold a number of shares of our Class A common stock with a value equal to the applicable multiple set forth below multiplied by: (i) an employee’s annual base salary, (ii) an employee’s market median salary in an amount determined by us for the employee if the employee receives a nominal base salary or (iii) the non-employee director’s annual board compensation, excluding any lead director and committee cash retainers (described in greater detail in the section entitled “— Director Compensation —” above).
+Title | Ownership Guideline
+Chief Executive Officer | 6x
+Senior Vice President and Above | 1x
+Non-Employee Directors | 1x
+Employees and directors subject to the share ownership guidelines are expected to achieve the applicable level of ownership by the later of the fifth anniversary of the effective date of the share ownership guidelines, or within five years of becoming subject to the share ownership guidelines.
+25
+`
+Compensation Risk Assessment
+Our Compensation Committee reviews our compensation program, including compensation levels, designs, practices and policies, to understand if there are any areas that are likely to promote excessive risk-taking or create risks that could have a material adverse effect on the company. Based on the review, we believe that, through a combination of risk-mitigating features and incentives guided by relevant market practices, our compensation programs, policies and practices do not create risks that are reasonably likely to have a material adverse effect on the company. Restricted stock, unvested restricted stock units and unvested stock options do not count toward satisfying the share ownership guidelines. In addition, unvested performance-based equity does not count toward satisfying the share ownership guidelines unless and until the satisfaction of the underlying performance measure has been certified by the board of directors.
+Tax and Accounting Considerations
+Deductibility of Executive Compensation
+The Compensation Committee generally takes into consideration the tax implications to Squarespace of our NEO compensation program, including with respect to the tax deductibility of compensation paid under Section 162(m) of the Internal Revenue Code of 1986, as amended. While our Compensation Committee may consider tax implications as one factor in determining executive compensation, the Compensation Committee also looks at other factors in making its decisions and retains the flexibility to award compensation that it determines to be consistent with the goals of our executive compensation program, which may include providing for compensation that is not deductible by us for tax purposes.
+Accounting Treatment
+The Compensation Committee considers accounting implications when designing compensation plans and arrangements for our NEOs and other employees. Chief among these is ASC 718, the standard which governs the accounting treatment of certain stock-based compensation. Among other things, ASC 718 requires us to record a compensation expense in our income statement for all equity awards granted to our NEOs and other employees. This compensation expense is based on the grant date “fair value” of the equity award and, in most cases, will be recognized ratably over the award’s requisite service period (which, generally, will correspond to the award’s vesting schedule). This compensation expense is also reported in the compensation tables below, even though recipients may never realize any value from their equity awards.
+26
+`
+EXECUTIVE COMPENSATION TABLES
+2023 Summary Compensation Table
+The following table provides information regarding the total compensation earned by or granted to our NEOs during the last three fiscal years ended December 31, 2023, 2022 and 2021.
+Name and Principal
+Position | Year | Salary
+($)
+Bonus
+($)(1)
+Stock
+Awards
+($)(2)
+All Other
+Compensation
+($) | Total
+($)
+Anthony Casalena
+Chief Executive Officer | 2023 | 1 | — | — | 552,145
+(3)
+552,146
+2022 | 1 | — | — | 350,287 | 350,288
+2021 | 230,209 | — | 83,545,000 | 340,909 | 84,116,118
+Nathan Gooden
+Chief Financial Officer
+2023 | 750,000 | 200,000 | 5,692,480 | 161,821
+(4)
+6,804,301
+2022 | 153,409 | 300,000 | 9,329,992 | 11,108 | 9,794,509
+Paul Gubbay
+Chief Product Officer | 2023 | 645,833 | — | 2,234,889 | 12,711
+(5)
+2,893,433
+2022 | 620,833 | — | 1,760,659 | 12,269 | 2,393,761
+2021 | 600,000 | 475,000 | 1,628,923 | 41,494 | 2,745,418
+Courtenay O'Connor
+General Counsel
+2023 | 545,833 | — | 2,285,677 | 13,536
+(6)
+2,845,046
+(1)Amounts shown in this column represent the portion of the sign-on bonuses paid in the applicable year to Mr. Gooden in connection with his commencement of employment with the company in 2022 and to Mr. Gubbay in connection with commencement of his employment with the company in 2020.
+(2)Amounts shown in this column represent the grant date fair value, calculated in accordance with FASB ASC Topic 718, of the equity awards granted to the NEOs in 2023, 2022 and 2021. For a summary of the assumptions used in the valuation of these equity awards, please see Note 18 to our audited financial statements included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. These equity awards are described in greater detail in the section entitled “—Fiscal Year 2023 Executive Compensation” above. The grant date value of the PSUs was calculated assuming 100% achievement of the performance conditions. Assuming maximum achievement of the performance conditions for the PSUs considered granted for accounting purposes in 2023, the total values of the PSUs at their respective grant dates would be as follows: $2,846,256 for Mr. Gooden, $1,117,421 for Mr. Gubbay, $1,142,802 for Ms. O’Connor.
+(3)Amount shown in this column for Mr. Casalena represents (a) the approximate aggregate incremental cost to the company of $551,809 in respect of the provision of security services and (b) company-paid premiums of $336 for group term life insurance. While we believe that the provision of security services did not provide a personal benefit to Mr. Casalena, and instead represented reasonable and necessary business expenses for the benefit of the company to ensure the safety and protection of Mr. Casalena, we have included the approximate aggregate incremental cost to the company of providing these services in this table in accordance with applicable SEC disclosure rules. The expenses related to the provision of safety and protection services to Mr. Casalena increased in 2023 on a one-time basis due to the company’s purchase of a company automobile that is used for security purposes and replaced the prior leased automobile, which had become inoperable.
+(4)Amount shown in this column for Mr. Gooden represents (a) expense reimbursements in connection with his relocation to the east coast of the United States of $128,934, pursuant to Mr. Gooden’s employment agreement, and $32,551, separately approved by the company, and (b) company-paid premiums of $336 for group term life insurance.
+27
+`
+(5)Amount shown in this column for Mr. Gubbay represents (a) 401(k) matching contributions of $12,375 and (b) company-paid premiums of $336 for group term life insurance.
+(6)Amount shown in this column for Ms. O'Connor represents (a) 401(k) matching contributions of $13,200 and (b) company-paid premiums of $336 for group term life insurance.
+Grants of Plan-Based Awards Table for Fiscal Year 2023
+The following table shows information regarding grants of equity awards that we made during the fiscal year ended 2023 to each of our NEOs:
+Name
+Grant Date
+Estimated Future Payouts Under Equity Incentive Plan Awards (1)
+All Other Stock Awards: Number of Shares of Stock or Units
+(#)
+Grant Date Fair Value of Stock Awards (2)
+($)
+Threshold (#) | Target
+(#) | Maximum (#)
+Anthony
+Casalena | — | — | — | — | — | —
+Nathan
+Gooden | 9/08/2023 | 9,030 | 45,150 | 90,300 | — | 1,423,128
+9/08/2023 | — | — | — | 135,449 | 4,269,352
+Paul
+Gubbay | 3/3/2023 | 4,675 | 23,377 | 46,754 | — | 558,710
+3/3/2023 | — | — | — | 70,133 | 1,676,179
+Courtenay
+O’Connor | 3/3/2023 | 4,782 | 23,908 | 47,816 | — | 571,401
+3/3/2023 | — | — | — | 71,727 | 1,714,275
+(1)The amounts reflect the number of shares of Class A common stock subject to performance restricted stock unit awards granted pursuant to the 2021 Equity Incentive Plan, subject to achievement of the performance targets and satisfaction of service-based vesting conditions, as further described in “Compensation Discussion and Analysis — Fiscal Year 2023 Executive Compensation — Performance Restricted Stock Unit Awards."
+(2)The amounts reflect the aggregate grant date fair value of restricted stock units and performance restricted stock units granted during fiscal year 2023, computed as described in Note 18 to our audited financial statements, which are included in our 2023 Annual Report on Form 10-K. As required by SEC rules, the amounts reflected above exclude the impact of estimated forfeitures related to service-based vesting conditions.
+28
+`
+2023 Outstanding Equity Awards at Fiscal Year End
+The following table sets forth information regarding outstanding stock awards held by our NEOs as of December 31, 2023.
+Option Awards | Stock Awards
+Name | Number
+of
+Securities Underlying Unexercised Options
+(#)
+Exercisable | Option Exercise Price
+($) | Option Expiration Date | Number of Shares or Units of Stock That Have Not Vested
+(#)
+Market Value of Shares or Units of Stock That Have Not Vested
+($)(1)
+Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested
+(#)
+Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested
+($)(1)
+Anthony Casalena
+(2)
+— | — | — | — | — | 2,750,000 | 90,777,500
+Nathan Gooden
+(3)
+— | — | — | 280,375 | 9,255,179 | — | —
+(4)
+— | — | — | — | — | 45,150 | 1,490,402
+(5)
+— | — | — | 135,449 | 4,471,171 | — | —
+Paul Gubbay
+(6)
+— | — | — | 16,740 | 552,587 | — | —
+(7)
+— | — | — | 16,112 | 531,857 | — | —
+(8)
+— | — | — | 37,110 | 1,225,001 | — | —
+(9)
+— | — | — | — | — | 23,377 | 771,675
+(10)
+— | — | — | 70,133 | 2,315,090 | — | —
+Courtenay O'Connor
+(11)
+13,107 | 2.86 | 11/29/2026 | — | — | — | —
+(12)
+— | — | — | 7,889 | 260,416 | — | —
+(13)
+— | — | — | 12,891 | 425,532 | — | —
+(14)
+— | — | — | 31,542 | 1,041,201 | — | —
+(15)
+— | — | — | — | — | 23,908 | 789,203
+(16)
+— | — | — | 71,727 | 2,367,708 | — | —
+(1)Calculated using the closing price of our Class A common stock on the NYSE on December 29, 2023 of $33.01.
+(2)The award listed represents a long-term performance-based restricted stock unit award under our 2017 Plan to Anthony Casalena which provides Mr. Casalena with the ability to earn up to 2,750,000 shares of our Class A common stock. Please see “— Fiscal Year 2023 Executive Compensation — Anthony Casalena Long-Term Performance Award” above for the vesting schedule.
+(3)On October 22, 2022, Mr. Gooden received a grant of 431,345 restricted stock units, which vests as follows: (a) 35% vested on November 20, 2023, (b) an additional 7.5% quarterly in year 2, (c) an additional 5% vests each quarter in year 3, and (d) an additional 3.75% vests each quarter in year 4 subject to continued employment through each applicable vesting date.
+(4)On September 8, 2023, Mr. Gooden received a performance restricted stock unit award relating to 45,150 shares of our Class A common stock. The award provides Mr. Gooden with the ability to earn from 0% to a maximum of
+29
+`
+200% of the target number of 45,150 shares of our Class A common stock, subject to achievement of performance targets and satisfaction of service-based vesting conditions described in “Compensation Discussion and Analysis — Fiscal Year 2023 Executive Compensation — Performance Restricted Stock Unit Awards”.
+(5)On September 8, 2023, Mr. Gooden received a grant of 135,449 restricted stock units, which vests as follows: (a) 25% will vest on November 20, 2024 and (b) an additional 6.25% will vest each quarter thereafter, subject to continued employment through each applicable vesting date.
+(6)On August 26, 2020, Mr. Gubbay received a grant of 55,797 restricted stock units, which vests as follows: (a) 15% vested on August 20, 2021, (b) 25% vested on August 20, 2022, (c) 30% vested on August 20, 2023 and (d) 30% will vest on August 20, 2024, subject to continued employment through the applicable vesting date.
+(7)On January 20, 2021, Mr. Gubbay received a grant of 32,224 restricted stock units, which vests as follows: (a) 25% vested on February 20, 2022, (b) 25% vested on February 20, 2023, (c) 25% vested on February 20, 2024 and (d) 25% will vest on February 20, 2025, subject to continued employment through the applicable vesting date.
+(8)On February 22, 2022, Mr. Gubbay received a grant of 65,967 restricted stock units, which vests as follows: (a) 25% vested on February 20, 2023 and (b) an additional 6.25% vests each quarter thereafter, subject to continued employment through each applicable vesting date.
+(9)On March 3, 2023, Mr. Gubbay received a performance restricted stock unit award relating to 23,377 shares of our Class A common stock. The award provides Mr. Gubbay with the ability to earn from 0% to a maximum of 200% of the target number of 23,377 shares of our Class A common stock, subject to achievement of performance targets and satisfaction of service-based vesting conditions described in “Compensation Discussion and Analysis — Fiscal Year 2023 Executive Compensation — Performance Restricted Stock Unit Awards”.
+(10)On March 3, 2023, Mr. Gubbay received a grant of 70,133 restricted stock units, which vests as follows: (a) 25% vested on February 20, 2024 and (b) an additional 6.25% vests each quarter thereafter, subject to continued employment through each applicable vesting date.
+(11)On November 30, 2016, Ms. O'Connor received a grant of 45,000 options (of which 13,107 remained outstanding as of December 31, 2023) to purchase shares of our Class B common stock automatically convertible into shares of our Class A common stock. The stock options are fully vested and currently exercisable.
+(12)On February 19, 2020, Ms. O'Connor received a grant of 31,550 restricted stock units, which vested as follows: (a) 25% vested on February 20, 2022, (b) 25% vested on February 20, 2023 and (c) 25% vested on February 20, 2024, subject to continued employment through each applicable vesting date.
+(13)On January 20, 2021, Ms. O'Connor received a grant of 25,779 restricted stock units, which vests as follows: (a) 25% vested on February 20, 2022, (b) 25% vested on February 20, 2023, (c) 25% vested on February 20, 2024 and (d) 25% will vest on February 20, 2025, subject to continued employment through each applicable vesting date.
+(14)On February 22, 2022, Ms. O'Connor received a grant of 56,072 restricted stock units, which vests as follows: (a) 25% vested on February 20, 2023 and (b) an additional 6.25% vests each quarter thereafter, subject to continued employment through the applicable vesting date.
+(15)On March 3, 2023, Ms. O’Connor received a performance restricted stock unit award relating to 23,908 shares of our Class A common stock. The award provides Ms. O’Connor with the ability to earn from 0% to a maximum of 200% of the target number of 23,908 shares of our Class A common stock, subject to achievement of performance targets and satisfaction of service-based vesting conditions described in “Compensation Discussion and Analysis — Fiscal Year 2023 Executive Compensation — Performance Restricted Stock Unit Awards”.
+(16)On March 3, 2023, Ms. O'Connor received a grant of 71,727 restricted stock units, which vests as follows: (a) 25% vested on February 20, 2024 and (b) an additional 6.25% vests each quarter thereafter, subject to continued employment through the applicable vesting date.
+30
+`
+Option Exercises and Stock Vested Table for Fiscal Year 2023
+The following table shows information regarding exercises of options to purchase our Class A common stock and vesting of stock awards held by each of our NEOs during the fiscal year ended December 31, 2023.
+Option Awards
+Stock Awards
+Name
+Number of
+Shares
+Acquired
+on Exercise
+(#)
+Value Realized
+on Exercise
+(#)(1)
+Number of
+Shares
+Acquired
+on Vesting
+(#)
+Value Realized
+on Vesting
+($)(2)
+Anthony Casalena
+— | — | — | —
+Nathan Gooden
+— | — | 150,970 | 4,408,324
+Paul Gubbay
+— | — | 53,652 | 1,448,117
+Courtenay O'Connor
+6,993 | 200,419 | — | —
+— | — | 47,371 | 1,171,336
+(1)The value realized on exercise is based on the difference between the closing price of our Class A common stock on the date of exercise and the applicable exercise price of those options and does not represent actual amounts received by the individual as a result of the option exercises.
+(2)The value realized on vesting is calculated by multiplying the number of vested shares by the closing price of our Class A common stock on the applicable vesting date.
+31
+`
+REPORT OF THE COMPENSATION COMMITTEE OF THE BOARD OF DIRECTORS
+Our Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis required by Item 402(b) of Regulation S-K and contained within this proxy statement with management and, based on such review and discussions, our Compensation Committee recommended to our board of directors that the Compensation Discussion and Analysis be included in this proxy statement and incorporated into our Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+Submitted by the Compensation Committee of the board of directors:
+Jonathan Klein (Chair)
+Andrew Braccia
+Anton Levy
+32
+POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE IN CONTROL
+The following table summarizes the estimated payment and benefits that would be provided to our NEOs in connection with a termination by us "without cause" or by our NEOs for "good reason" outside of a change in control period and during a change in control period, assuming that the applicable triggering event took place on December 31, 2023.
+Upon Qualifying Termination - Outside of Change in Control Period | Upon Qualifying Termination - During Change in Control Period
+Name
+Cash Severance
+($) (1)
+Continuation of Medical Benefit
+($)(2)
+Value of Accelerated Vesting
+($) | Total
+($)
+Cash Severance
+($)(1)
+Continuation of Medical Benefit
+($)(2)
+Value of Accelerated Vesting
+($)(3)
+Total
+($)
+Anthony Casalena
+— | — | — | — | — | — | — | —
+Nathan Gooden
+750,000 | 31,297 | — | 781,297 | 750,000 | 31,297 | 15,216,752 | 15,998,049
+Paul Gubbay
+325,000 | 19,525 | — | 344,525 | 325,000 | 19,525 | 5,396,211 | 5,740,736
+Courtenay O'Connor
+275,000 | 15,649 | — | 290,649 | 275,000 | 15,649 | 4,884,061 | 5,174,710
+(1)This amount is based on each NEO’s base salary as was in effect on December 31, 2023 and represents the lump-sum payment of twelve (12) months of base salary to Mr. Gooden and six (6) months of base salary to Mr. Gubbay and Ms. O'Connor.
+(2)This amount represents the lump-sum payment of the cost of health, dental and vision insurance premiums under COBRA for twelve (12) months pursuant to Mr. Gooden’s employment agreement and six (6) months pursuant to Mr. Gubbay’s and Ms. O'Connor's employment agreements as applicable.
+(3)The value of the acceleration of equity awards is based on the closing price of $33.01 per share on December 29, 2023, the last trading day of 2023.
+The following is a description of our employment agreements with our NEOs, which includes a summary of each NEO's severance and change in control benefits.
+Employment Agreement with Mr. Casalena
+We entered into an employment agreement with Anthony Casalena, our Founder and Chief Executive Officer, on April 15, 2021, which became effective on May 10, 2021.
+The employment agreement provides that Mr. Casalena will receive an annual base salary of $1. The base salary is subject to periodic review by our Compensation Committee. The employment agreement does not provide for any severance payments or benefits upon a termination of Mr. Casalena’s employment.
+Employment Agreement with Mr. Gooden
+We entered into an employment agreement with Mr. Gooden, our Chief Financial Officer, on October 7, 2022, in connection with his commencement of employment with the company. Pursuant to his employment agreement, Mr. Gooden is entitled to an annual base salary of $750,000 and a one-time signing bonus of $500,000, which is described in more detail in “— Fiscal Year 2023 Executive Compensation — Sign-On Bonus” above.
+The employment agreement provides for payment and reimbursement of certain relocation expenses in connection with Mr. Gooden’s relocation to the east coast of the United States. These relocation expenses are subject to repayment if Mr. Gooden voluntarily terminates his employment with the company for any reason or is terminated by the company for “cause” (as defined in the employment agreement) on or before the one year anniversary of his relocation date.
+33
+The employment agreement provides that if Mr. Gooden’s employment with the company is terminated without cause, or he resigns for “good reason” (as described below), he will receive the following severance benefits: (a) continued payment of twelve (12) months of base salary, (b) payment of COBRA premiums to continue coverage for up to twelve (12) months following termination and (c) if the termination occurs during the period beginning three (3) months prior to, and ending twelve (12) months following, a change in control, then his then-unvested equity awards will be deemed immediately vested as of the date of such termination.
+For this purpose “good reason” means resignation by Mr. Gooden generally due to (a) any reduction of his base salary by more than ten percent (10%) (other than a general reduction that affects all comparable employees of the company), (b) a material reduction in his duties or (c) a change in the geographic location at which he must perform services to a facility or location of 50 miles or more from his current office location.
+Employment Agreement with Mr. Gubbay
+We entered into an employment agreement with Mr. Gubbay, our Chief Product Officer, on June 9, 2020, in connection with his commencement of employment with the company. Pursuant to his employment agreement, Mr. Gubbay was entitled to an annual base salary of $600,000 and a one-time signing bonus of $1 million. Mr. Gubbay received $525,000 of his bonus shortly after commencement of his employment in 2020. The remaining portion of his bonus was paid in January 2021. In March 2023, Mr. Gubbay’s annual base salary increased to $650,000.
+The employment agreement provides for payment and reimbursement of certain relocation expenses in connection with Mr. Gubbay’s relocation to our New York office so long as the relocation occurs within two years following his commencement of employment. Any of these relocation expenses that he ultimately receives are subject to repayment if Mr. Gubbay voluntarily terminates his employment with the company for any reason or is terminated by the company for “cause” (as defined in the employment agreement) on or before the one year anniversary of his relocation date.
+The employment agreement provides that if Mr. Gubbay’s employment with the company is terminated without cause, or he resigns for “good reason” (as described below), he will receive the following severance benefits: (a) continued payment of six (6) months of base salary following the date of termination, (b) payment of COBRA premiums to continue coverage for up to six (6) months following termination and (c) if the termination occurs during the period beginning three (3) months prior to, and ending twelve (12) months following, a change in control, then his then-unvested equity awards will be deemed immediately vested as of the date of such termination.
+For this purpose “good reason” means resignation by Mr. Gubbay generally due to (a) any reduction of his base salary by more than ten percent (10%) (other than a general reduction that affects all comparable employees of the company), (b) a material reduction in his duties or (c) a change in the geographic location at which he must perform services to a facility or location of 50 miles or more from his current office location.
+Employment Agreement with Ms. O'Connor
+We entered into an employment agreement with Ms. O'Connor, our General Counsel, on May 13, 2019. Pursuant to her employment agreement, Ms. O'Connor was entitled to an annual base salary of $400,000. In March 2023, Ms. O'Connor’s annual base salary increased to $550,000.
+The employment agreement provided that if Ms. O'Connor’s employment with the company was terminated without cause, or she resigned for “good reason” (as described below), she was to receive the following severance benefits: (a) continued payment of six (6) months of base salary following the date of termination, (b) payment of COBRA premiums to continue coverage for up to six (6) months following termination and (c) if the termination occurred during the period beginning three (3) months prior to, and ending twelve (12) months following, a change in control, then her then-unvested equity awards would be deemed immediately vested as of the date of such termination.
+For this purpose “good reason” means resignation by Ms. O'Connor generally due to (a) any reduction of her base salary by more than ten percent (10%) (other than a general reduction that affects all comparable employees of the company), (b) a material reduction in her duties or (c) a change in the geographic location at which she must perform services to a facility or location of 50 miles or more from her current office location.
+34
+SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS
+The following table provides information about shares of our Class A common stock that may be issued upon the exercise of options and that may vest pursuant to awards of restricted stock units under all of our existing equity compensation plans as of December 31, 2023.
+Plan Category | Number of Securities to
+be Issued Upon Exercise
+or Vesting of
+Outstanding Options,
+Restricted Stock Units,
+and Rights | Weighted Average
+Exercise Price of
+Outstanding Options,
+Restricted Stock Units
+and Rights | Number of Securities
+Remaining Available
+for Future Issuance
+Under Equity
+Compensation Plans
+Equity compensation plans approved by stockholders | 13,893,223
+(1)
+$2.56
+(2)
+21,889,390
+(3)
+Equity compensation plan not approved by stockholders | — | — | —
+________________________
+(1)Consists of 9,495,343 outstanding restricted stock units under the 2021 Equity Incentive Plan, 3,280,264 outstanding restricted stock units under the 2017 Equity Incentive Plan, and 1,117,616 outstanding options under the 2008 Equity Incentive Plan, respectively. This includes 2,750,000 restricted stock units granted under the 2017 Equity Incentive Plan to Anthony Casalena which provides Mr. Casalena with the ability to earn up to 2,750,000 shares of our Class A common stock based on achieving maximum performance.
+(2)Weighted average exercise price of outstanding options under the 2008 Equity Incentive Plan. The other outstanding awards do not have exercise prices and are accordingly excluded from this column.
+(3)Consists of shares available for future grant under the 2021 Equity Incentive Plan. The number of shares available is increased on January 1 of each fiscal year beginning on January 1, 2022 by a number of shares of Class A common stock equal to five percent (5%) of the total number of shares of all classes of our common stock outstanding on December 31st of the immediately preceding calendar year.
+35
+PAY VERSUS PERFORMANCE
+The disclosure included in this section is prescribed by SEC rules and does not necessarily align with how the company or the Compensation Committee view the link between the company’s performance and NEO pay. For additional information about our pay-for-performance philosophy and how we align executive compensation with company performance, please see the Compensation Discussion and Analysis section of this proxy statement.
+Required Tabular Disclosure of Pay Versus Performance
+The amounts set forth below under the headings “Compensation Actually Paid to PEO” and “Average Compensation Actually Paid to Non-PEO NEOs” have been calculated in a manner consistent with Item 402(v) of Regulation S-K. Use of the term “Compensation Actually Paid” is required by the SEC’s rules and, as a result of the calculation methodology required by the SEC, such amounts differ from compensation actually received by the individuals and the compensation decisions described in the Compensation Discussion and Analysis section of this proxy statement.
+Year
+Summary Compensation Table Total for PEO(1)
+Compensation Actually Paid to PEO(1)(2)
+Average Summary Compensation Table Total for Non-PEO NEOs(1)
+Average Compensation Actually Paid to Non-PEO NEOs(1)(2)
+Value of Initial Fixed $100 Investment Based On: | Net Income (in thousands)
+Revenue (in thousands) (4)
+Total Share-holder Return(3)
+Peer Group Total Share-holder Return(3)
+2023 | 552,146 | (128,253) | 4,180,927 | 6,780,300 | 76 | 144 | (7,081) | 1,012,336
+2022 | 350,288 | (673,694) | 5,189,500 | 3,019,330 | 51 | 92 | (252,221) | 866,972
+2021 | 84,116,118 | 227,094,606 | 1,956,793 | 598,195 | 68 | 130 | (249,149) | 784,038
+(1)The table reflects required disclosures for fiscal years 2023, 2022 and 2021, the year the company first became a reporting company pursuant to Section 13(a) or Section 15(d) of the Exchange Act. The PEO for each reporting year is Anthony Casalena. The non-PEO NEOs in the 2023 reporting year are Nathan Gooden, Paul Gubbay and Courtenay O'Connor. The non-PEO NEOs in the 2022 reporting year Nathan Gooden, Paul Gubbay and Marcela Martin (former Chief Financial Officer). The non-PEO NEOs in the 2021 reporting year are Paul Gubbay and Marcela Martin.
+(2)“Compensation Actually Paid” (“CAP”) is calculated by taking Summary Compensation Table total compensation: a) less the stock award values; b) plus the year over year change in the fair value of stock awards that are unvested as of the end of the year, or vested or were forfeited during the year. The Company has not paid dividends historically and does not sponsor any pension arrangements; thus no adjustments are made for these items. Reconciliation of the Summary Compensation Table total compensation and CAP is summarized in the following tables:
+36
+Adjustments to Determine PEO Compensation Actually Paid | 2023(i) | 2022(i) | 2021(i)
+Summary Compensation Table (SCT) amount | 552,146 | 350,288 | 84,116,118
+Less Amounts Reported under Stock Awards Column in SCT for the Covered Year | — | — | 83,545,000
+Plus Year-end Fair Value of Stock Awards Granted during Covered Year that Remain Unvested as of Year-end | — | — | 12,402,304
+Plus Change (positive or negative) in Fair Value from Prior Year-end to Covered Year-end of Stock Awards Granted Prior to Covered Year that were Outstanding and Unvested as of Covered Year-end | (680,399) | (1,023,982) | —
+Plus Fair Value on Vesting of Awards Granted during Covered Year that Vest during Covered Year | — | — | —
+Plus Change (positive or negative) in Fair Value from Prior Year-end to Vesting Date of Stock Awards Granted Prior to Covered Year that Vested during Covered Year | — | — | 214,121,184
+Less Fair Value of Stock Awards Forfeited during the Covered Year | — | — | —
+Total Compensation Actually Paid: | (128,253) | (673,694) | 227,094,606
+Adjustments to Determine Average Non-PEO NEOs Compensation Actually Paid | 2023 (i) | 2022 (i) | 2021 (i)
+Summary Compensation Table (SCT) amount | 4,180,927 | 5,189,500 | 1,956,793
+Less Amounts Reported under Stock Awards Column in SCT for the Covered Year | 3,404,349 | 4,694,591 | 980,962
+Plus Year-end Fair Value of Stock Awards Granted during Covered Year that Remain Unvested as of Year-end | 4,068,416 | 4,503,880 | 547,092
+Plus Change (positive or negative) in Fair Value from Prior Year-end to Covered Year-end of Stock Awards Granted Prior to Covered Year that were Outstanding and Unvested as of Covered Year-end | 1,454,941 | (277,455) | (849,823)
+Plus Fair Value on Vesting of Awards Granted during Covered Year that Vest during Covered Year | — | — | —
+Plus Change (positive or negative) in Fair Value from Prior Year-end to Vesting Date of Stock Awards Granted Prior to Covered Year that Vested during Covered Year | 480,364 | (49,482) | (74,905)
+Less Fair Value of Stock Awards Forfeited during the Covered Year | — | 1,652,521 | —
+Total Compensation Actually Paid: | 6,780,300 | 3,019,330 | 598,195
+(i) The fair value of performance share units used to calculate CAP was determined using a Monte Carlo simulation valuation model, in accordance with FASB ASC 718. The fair value of restricted stock units used to calculate CAP was determined using the grant date fair value, in accordance with FASB ASC 718.
+37
+(3)The peer group used for this purpose is the Standard & Poor’s Information Technology Index, which we also utilize in the stock performance graph required by Item 201(e) of Regulation S-K included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. The comparison assumes $100 was invested for the period starting May 19, 2021 (the date our Class A common stock commenced trading on the NYSE), through the end of the listed year in the Company and in the Standard & Poor’s Information Technology Index, respectively.
+(4)Our company-selected measure is Revenue, which is the measure we believe represents the most important financial performance measure we used to link compensation actually paid to our NEOs for fiscal year 2023 to our performance. We did not select stock price as our company-selected measure because it was not a performance measure we used to link compensation actually paid to our Non-PEO NEOs for fiscal year 2023 to our performance.
+Narrative Disclosure to Pay Versus Performance Table
+Description of Relationship Between PEO and Non-PEO NEO Compensation Actually Paid and Total Shareholder Return (“TSR”)
+The following chart sets forth the relationship between Compensation Actually Paid to our PEO, the average of Compensation Actually Paid to our Non-PEO NEOs, and the cumulative TSR over the three most recently completed fiscal years for the Company and the Standard & Poor’s Information Technology Index. TSR values begin with and are indexed to close of trading on May 19, 2021, the date of the Company’s first trading day.
+38
+Description of Relationship Between PEO and Non-PEO NEO Compensation Actually Paid and Net Income
+The following chart sets forth the relationship between Compensation Actually Paid to our PEO, the average of Compensation Actually Paid to our Non-PEO NEOs, and our Net Income during the three most recently completed fiscal years.
+Description of Relationship Between PEO and Non-PEO NEO Compensation Actually Paid and Company-Selected Measure
+The following chart sets forth the relationship between Compensation Actually Paid to our PEO, the average of Compensation Actually Paid to our Non-PEO NEOs, and our Revenue during the three most recently completed fiscal years.
+39
+Most Important Performance Measures for Fiscal Year 2023
+The following table sets forth an unranked list of the performance measures which we view as the “most important” measures for linking “Compensation Actually Paid” to our PEO and Other NEOs for 2023 to Squarespace's performance:
+Revenue
+Unlevered free cash flow (1)
+(1) Unlevered free cash flow is a non-GAAP financial measure that is defined as cash flow from operating activities, less cash paid for capital expenditures increased by cash paid for interest expense net of the associated tax benefit.
+40
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+Certain Relationships and Related Party Transactions
+Other than compensation arrangements for our directors and named executive officers, which are described elsewhere in the “Executive Officer and Director Compensation” section of this proxy statement, there were no transactions since January 1, 2023 to which we were a party or will be a party, in which:
+•the amounts involved exceeded or will exceed $120,000; and
+•any of our directors, executive officers, or holders of more than 5% of our capital stock, or any member of the immediate family of, or person sharing the household with, the foregoing persons, had or will have a direct or indirect material interest.
+Voting and Support Agreement
+On May 10, 2021, we entered into a voting and support agreement with our Founder and Chief Executive Officer, Anthony Casalena, certain entities affiliated with our Founder and certain entities affiliated with General Atlantic. Pursuant to the voting and support agreement, we agreed to include one director nominated by General Atlantic on the slate of nominees recommended by the board and use commercially reasonable best efforts to cause such nominee to be elected to the board prior to the third annual meeting following the effectiveness of the registration statement filed in connection with the Direct Listing. Our Founder and certain entities affiliated with our Founder are obligated to vote the shares of Class A common stock and Class B common stock held by our Founder and certain entities affiliated with our Founder for one director nominated by General Atlantic at a regular or special meeting of stockholders called for the purpose of the election or removal of directors of the board. The obligations of our Founder and certain entities affiliated with our Founder will terminate upon the earliest to occur of (i) such time that General Atlantic elects to terminate its rights, (ii) such time that General Atlantic ceases to own 9,772,914 shares of our common stock, (iii) immediately prior to the third annual meeting following the effectiveness of the registration statement filed in connection with the Direct Listing or (iv) immediately prior to the consummation of certain change of control transactions.
+If the voting and support agreement has not otherwise terminated, to the fullest extent permitted by law, we will include one director nominated by General Atlantic on the slate of nominees recommended by the board commencing with the third annual meeting following the effectiveness of the registration statement filed in connection with the Direct Listing. If the director nominated by General Atlantic is not elected to serve on the board, the company will invite such nominee to attend all meetings of the board of directors in a nonvoting observer capacity. The obligations of the company will terminate upon the earliest to occur of (i) such time that General Atlantic elects to terminate its rights, (ii) such time that General Atlantic ceases to own 9,772,914 shares of common stock or (iii) immediately prior to the consummation of certain change of control transactions.
+Registration Rights Agreement
+On May 10, 2021, we entered into a registration rights agreement with certain holders of our capital stock, including certain of our directors and executive officers and beneficial owners of more than 5% of a class of our capital stock. Pursuant to the registration rights agreement, certain holders of our capital stock are entitled to rights with respect to the registration of their shares under the Securities Act of 1933, as amended (the “Securities Act”). The registration rights agreement will terminate (i) five years following the effectiveness of the registration statement filed in connection with the Direct Listing or (ii) with respect to any particular stockholder, when such stockholder holds 2% or less of the company’s outstanding common stock and is able to sell all of its shares pursuant to Rule 144 of the Securities Act during any three month period. We will pay the registration expenses (other than underwriting discounts and commissions) of holders of our capital stock entitled to certain demand registration rights, “piggyback” registration rights and Form S-3 registration rights. In an underwritten offering, the underwriters have the right, subject to specified conditions, to limit the number of shares such holders may include.
+Our Policy Regarding Related Party Transactions
+Our board of directors recognizes the fact that transactions with related persons present a heightened risk of conflicts of interest (or the perception thereof). Our board of directors has adopted a written policy on transactions with related persons that is in conformity with the requirements for companies having common stock that is listed on the NYSE. This policy covers any transaction, arrangement or relationship, or any series of similar transactions, arrangements or relationships, that meets the disclosure requirements set forth in Item 404 of Regulation S-K under the Securities Act (“Item 404”), in which
+41
+we were or are to be a participant and in which a “related person,” as defined in Item 404, had, has or will have a direct or indirect material interest.
+42
+PROPOSAL NO. 1 — ELECTION OF DIRECTORS
+Director Nominees
+Based on the recommendation of the Nominating and Corporate Governance Committee of our board of directors, our board of directors has nominated Andrew Braccia, Anthony Casalena, Michael Fleisher, Jonathan Klein, Liza Landsman, Anton Levy and Neela Montgomery for election as directors to serve as directors until the 2025 annual meeting of stockholders and until their successors are duly elected and qualified, or until their earlier death, resignation or removal. Each of the nominees is a current member of our board of directors and has consented to serve if elected.
+Unless you direct otherwise through your proxy voting instructions, the persons named as proxies will vote all proxies received “FOR” the election of each nominee. If any nominee is unable or unwilling to serve at the time of the Annual Meeting, the persons named as proxies may vote for a substitute nominee chosen by the present board of directors. In the alternative, the proxies may vote only for the remaining nominees, leaving a vacancy on the board of directors. The board of directors may fill such vacancy at a later date or reduce the size of the board. We have no reason to believe that any of the nominees will be unwilling or unable to serve if elected as a director.
+Vote Required
+The election of directors requires a plurality of the voting power of our capital stock present at the meeting in person or represented by proxy and entitled to vote thereon to be approved.
+Recommendation of the Board of Directors
+THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE FOR THE ELECTION OF EACH OF THE DIRECTOR NOMINEES LISTED ABOVE.
+43
+PROPOSAL NO. 2 — RATIFICATION OF THE APPOINTMENT OF OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+We have appointed Ernst & Young LLP as our independent registered public accounting firm to perform the audit of our consolidated financial statements for the fiscal year ending December 31, 2024, and we are asking you and other stockholders to ratify this appointment. During our fiscal year ended December 31, 2023, Ernst & Young LLP served as our independent registered public accounting firm.
+The Audit Committee annually reviews the independent registered public accounting firm’s independence, including reviewing all relationships between the independent registered public accounting firm and us and any disclosed relationships or services that may impact the objectivity and independence of the independent registered public accounting firm, and the independent registered public accounting firm’s performance. As a matter of good corporate governance, the board of directors determined to submit to stockholders for ratification the appointment of Ernst & Young LLP. In the event that stockholders do not ratify the appointment of Ernst & Young LLP, we will review our future appointment of Ernst & Young LLP.
+We expect that a representative of Ernst & Young LLP will attend the Annual Meeting and the representative will have an opportunity to make a statement if he or she so chooses. The representative will also be available to respond to appropriate questions from stockholders.
+Audit Fees
+The following table sets forth the fees billed by Ernst & Young LLP for audit, audit-related, tax and all other services rendered for 2023 and 2022:
+Fee Category | 2023 | 2022
+Audit Fees(1)
+$3,655,000 | $1,838,000
+Audit-Related Fees(2)
+118,000 | —
+Tax Fees(3)
+$584,000 | $569,551
+Other Fees | — | —
+Total Fees | $4,357,000 | $2,407,551
+________________________
+(1)Audit fees consist of fees for professional services rendered for the audits of the company’s consolidated financial statements included in its Annual Reports on Form 10-K for fiscal years 2023 and 2022, and for the review of the company’s interim condensed consolidated financial statements included in its Quarterly Reports on Form 10-Q for fiscal years 2023 and 2022.
+(2)Audit-related fees consist of fees billed for assurance and related services that are reasonably related to the performance of the audit or review of the company’s consolidated financial statements and are not reported under “Audit Fees,” including fees for service organization control examinations.
+(3)Tax fees for the fiscal years 2023 and 2022 consist of fees related to tax compliance, transfer pricing, research and development and routine tax advisory services.
+Pre-Approval Policies and Procedures
+The Audit Committee is required to pre-approve all audit and non-audit services performed by Ernst & Young LLP to ensure that the provision of such services does not impair the public accounting firm’s independence. The Audit Committee pre-approved all of the services described above.
+Vote Required
+The ratification of the appointment of Ernst & Young LLP requires a majority of the voting power of our capital stock present at the meeting in person or represented by proxy and entitled to vote thereon.
+44
+Recommendation of the Board of Directors
+THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE “FOR” RATIFICATION OF THE APPOINTMENT OF ERNST & YOUNG LLP AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING DECEMBER 31, 2024.
+Report of the Audit Committee of the Board of Directors
+This report is submitted by the Audit Committee of the board of directors. None of the members of the Audit Committee is an officer or employee of Squarespace, and the board of directors has determined that each member of the Audit Committee is “independent” for audit committee purposes as that term is defined under Rule 10A-3 of the Exchange Act and the applicable NYSE rules. Each member of the Audit Committee meets the requirements for financial literacy under the applicable rules and regulations of the SEC and NYSE. The board of directors has determined that each of Michael Fleisher and Neela Montgomery is an “audit committee financial expert,” as defined under the applicable rules of the SEC. The Audit Committee operates under a written charter adopted by the board of directors.
+The Audit Committee’s general role is to assist the board of directors in monitoring our financial reporting process and related matters. Its specific responsibilities are set forth in its charter.
+The Audit Committee has reviewed the company’s audited consolidated financial statements for 2023 and met with management, as well as with representatives of Ernst & Young LLP, the company’s independent registered public accounting firm, to discuss the audited consolidated financial statements. The Audit Committee also discussed with members of Ernst & Young LLP the matters required to be discussed by the applicable requirements of the Public Company Accounting Oversight Board and the SEC.
+In addition, the Audit Committee received the written disclosures and the letter from Ernst & Young LLP required by applicable requirements of the Public Company Accounting Oversight Board regarding the independent accountant’s communications with the Audit Committee concerning independence, and discussed with members of Ernst & Young LLP its independence.
+Based on these discussions, the financial statement review, and other matters it deemed relevant, the Audit Committee recommended to the board of directors that the company’s audited consolidated financial statements for 2023 be included in its Annual Report on Form 10-K for 2023.
+Audit Committee
+Michael Fleisher (Chairperson)
+Liza Landsman
+Neela Montgomery
+45
+PROPOSAL NO. 3 — NON-BINDING ADVISORY VOTE ON THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS
+During the fiscal year ended December 31, 2023, we became a large, accelerated filer and exited “emerging growth company” status as defined in the Jumpstart Our Business Startups (the "JOBS Act"). As such, in accordance with the requirements of Section 14A of the Securities Exchange Act of 1934 (which was added by the Dodd-Frank Act), we are providing our stockholders with their first opportunity to cast a non-binding advisory vote to approve the compensation of our NEOs at the Annual Meeting. This proposal, commonly known as a “say-on-pay” proposal, gives our stockholders the opportunity to express their views on the design and operation of our executive officers compensation program.
+Our NEO's compensation program is designed to attract, reward and retain the caliber of executive officers needed to ensure our continued growth. This vote is not intended to address any specific item of compensation or the compensation of any specific NEO, but rather the overall compensation of all of our NEOs described in this proxy statement. The compensation of our NEOs is disclosed in the section of this proxy statement entitled " — Compensation Discussion and Analysis”, which consists of the Summary Compensation Table, the ancillary compensation tables, and the related narrative disclosure contained therein. We believe that our NEO compensation program is competitive within our industry and strongly aligned with the long-term interests of our stockholders. Our Compensation Committee regularly reviews the compensation program for our NEO compensation program to ensure that it achieves the desired goals of aligning our NEO compensation structure with our stockholders’ interests and current market practices.
+Recommendation of the Board of Directors
+THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE “FOR” THE APPROVAL OF THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS.
+46
+PROPOSAL NO. 4 — NON-BINDING ADVISORY VOTE ON FREQUENCY OF SAY-ON-PAY VOTE
+The requirements of Section 14A of the Securities Exchange Act of 1934 (which was added by the Dodd-Frank Act) enable our stockholders to indicate their preference at least once every six years regarding how frequently we should solicit a non-binding advisory vote on the compensation of our NEOs disclosed in our proxy statement. Accordingly, as required by these rules, the company is seeking the input of its stockholders on the frequency with which it will hold a non-binding, advisory vote on the compensation of its NEOs (commonly known as a “frequency of say-on-pay” proposal). In voting on this proposal, stockholders are provided with four choices. Stockholders may indicate their preference as to whether the advisory vote on the compensation of the company’s NEOs should occur (i) once every year, (ii) once every two years, (iii) once every three years, or (iv) the stockholders may abstain from voting on this proposal.
+After careful consideration, it is the opinion of the board of directors that the frequency of the stockholder vote on the compensation of the company’s NEOs should be once every year (i.e., annually). The board of director’s determination was influenced by the fact that the compensation of our NEOs is evaluated, adjusted and approved on an annual basis. By providing an advisory vote on executive compensation on an annual basis, our stockholders will be able to provide direct input on the company’s compensation policies and practices, and the resulting compensation for the NEOs, every year. Stockholders would have the opportunity to consider the company’s most recent compensation decisions in the context of its pay-for-performance philosophy and focus on increasing long-term stockholder value, and to provide feedback to the company in a timely way.
+While the board of directors recommends an annual vote, stockholders are not voting to approve or disapprove of the board of directors’ recommendation. Rather, stockholders are being provided with the opportunity to cast a non-binding advisory vote, via the enclosed proxy card, on whether the stockholder advisory vote on NEO compensation should occur every (i) one year, (ii) two years, (iii) three years, or (iv) to abstain from voting on the matter.
+As an advisory vote, this proposal is not binding on the company. Notwithstanding the advisory nature of this vote, the board of directors values the opinions expressed by stockholders in their vote on this proposal, and will consider the outcome of the vote when making a determination as to the frequency of future advisory votes on executive compensation. The board may decide that it is in the best interests of the stockholders that the company hold an advisory vote on executive compensation more or less frequently than the option preferred by the stockholders. The vote will not be construed to create or imply any change or addition to the fiduciary duties of the company or the board of directors. The alternative (every year, every two years or every three years) receiving the majority of the shares present in person or represented by proxy will be the frequency that stockholders approve. If no alternative receives a majority vote, then the frequency that receives the greatest number of votes will be the frequency that stockholders approve.
+Recommendation of the Board of Directors
+THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE “FOR 1 YEAR" ON THE FREQUENCY OF FUTURE ADVISORY VOTES TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS.
+47
+TRANSACTION OF OTHER BUSINESS
+The board of directors knows of no other matters that will be presented for consideration at the Annual Meeting. If any other matters are properly brought before the Annual Meeting, the persons appointed in the accompanying proxy intend to vote the shares represented thereby in accordance with their best judgment on such matters, under applicable laws.
+ADDITIONAL INFORMATION
+Procedures for Submitting Stockholder Proposals
+Requirements for Stockholder Proposals to be Considered for Inclusion in the Company’s Proxy Materials
+Stockholders who would like to have a proposal considered for inclusion in the proxy materials for our 2024 annual meeting of stockholders must submit the proposal in writing to our Secretary at c/o Squarespace, Inc., 225 Varick Street, 12th Floor, New York, New York 10014, by no later than December 23, 2024, and otherwise comply with the SEC’s requirements for stockholder proposals.
+Requirements for Stockholder Proposals to be Brought Before the 2025 Annual Meeting
+Stockholders who would like to bring a proposal before our 2025 annual meeting of stockholders, or to nominate directors for election, in accordance with the advance notice provisions of our amended and restated bylaws, must give timely written notice to our Secretary. To be considered timely, the notice must be delivered to our principal executive office at least 120 days, but not more than 150 days before the one-year anniversary of the previous year’s annual meeting. That means that to be timely, a notice must be received no later than February 4, 2025 nor earlier than January 5, 2025 (assuming the meeting is held not more than 25 days before or after the one-year anniversary date). The notice must describe the stockholder proposal in reasonable detail and otherwise comply with the requirements set forth in our amended and restated bylaws. Our amended and restated bylaws may be found on our website at https://investors.squarespace.com/governance/governance-documents/.
+Requirements for Stockholder Director Nominations to be Brought Before the 2025 Annual Meeting
+In addition to satisfying the requirements under our amended and restated bylaws, to comply with the universal proxy rules, stockholders who intend to solicit proxies in support of director nominees other than the company’s nominees must provide notice that sets forth the information required by Rule 14a-19 under the Securities Exchange Act of 1934 no later than April 5, 2025.
+Information Requests
+Our financial statements for our fiscal year ended December 31, 2023 are included in our Annual Report, which we will make available to stockholders at the same time as this Proxy Statement. Our proxy materials and our Annual Report are posted on the investor relations page on our website (https://investors.squarespace.com/home/) and are available from the SEC at its website at www.sec.gov. You may also obtain a copy of our Annual Report, free of charge, by sending a written request to 225 Varick Street, 12th Floor, New York, New York 10014, Attention: Investor Relations or send us an email at investors@squarespace.com. Information contained on, or that can be accessed through, our website is not intended to be incorporated by reference into this Proxy Statement, and references to our website address in this Proxy Statement are inactive textual references only.
+48

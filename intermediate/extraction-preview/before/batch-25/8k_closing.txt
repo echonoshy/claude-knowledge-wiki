@@ -1,0 +1,175 @@
+[SOURCE: SEC EDGAR | form: 8-K | filed: 2024-10-17 | accession: 0001140361-24-043631 | url: https://www.sec.gov/Archives/edgar/data/1496963/000114036124043631/ny20030653x27_8k.htm]
+
+false12-310001496963NYSE00014969632024-10-172024-10-17
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): October 17, 2024
+Squarespace, Inc.
+(Exact name of Registrant as Specified in Its Charter)
+Delaware
+(State or Other Jurisdiction of Incorporation)
+001-40393
+(Commission File Number)
+20-0375811
+(IRS Employer Identification No.)
+225 Varick Street,
+12th Floor
+New York, New York
+(Address of Principal Executive Offices)
+10014
+(Zip Code)
+(646) 580-3456
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities Registered under Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $0.0001 par value
+SQSP
+New York Stock Exchange
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Introductory Note
+On October 17, 2024, Spaceship Group MergerCo, Inc., a Delaware corporation (“Merger Sub”) and wholly owned subsidiary of Spaceship Purchaser, Inc., a Delaware corporation (“Parent”, and together
+with Merger Sub, the “Buyer Parties”), completed its merger (the “Merger”)
+with and into Squarespace, Inc., a Delaware corporation (“Squarespace” or the “Company”),
+pursuant to the terms of the Amended and Restated Agreement and Plan of Merger (the “A&R Merger Agreement”), dated September 9, 2024 (the “A&R Merger Agreement”), by and among Parent, Merger Sub, and the Company. The Company was the surviving corporation in the Merger and, as a result, is now a
+wholly owned subsidiary of Parent (the “Surviving Corporation”). Parent and Merger Sub were formed by affiliates of funds advised by Permira Advisers LLC. As
+previously disclosed in the Current Report on Form 8-K filed on September 9, 2024, with the Securities and Exchange Commission (the “SEC”) by the Company, the
+A&R Merger Agreement amends and restates the Agreement and Plan of Merger (the “Original Agreement”), dated as of May 13, 2024, by and among the Company
+and the Buyer Parties. Capitalized terms used herein but not otherwise defined have the meaning set forth in the A&R Merger Agreement.
+Pursuant to the A&R Merger Agreement, Merger Sub commenced a cash tender offer (the “Offer”) on September 16, 2024, to purchase all of the outstanding shares of Company Common Stock, par value $0.0001 per share (the “Shares”), at a price per share of $46.50, upon the terms and subject to the conditions set forth in the Offer to Purchase, dated as of September 16, 2024, as it may be amended, supplemented, or otherwise modified from time to
+time and in the related Letter of Transmittal, as it may be amended, supplemented, or otherwise modified from time to time.
+Pursuant to the A&R Merger Agreement, following the consummation of the Offer and the satisfaction or waiver of each of the
+applicable conditions set forth in the A&R Merger Agreement, Merger Sub merged with and into Squarespace, with Squarespace (the “Surviving Corporation”)
+surviving as a wholly owned subsidiary of Parent (the “Merger”).
+Item 1.01
+Entry into a Material Definitive Agreement.
+The information set forth in the Introduction to this Current Report on Form 8-K (the “Introduction”) is incorporated into this Item 1.01 by reference.
+Substantially concurrently with the closing of the Merger, Parent, as the borrower, and the Surviving Corporation, as a guarantor,
+entered into that certain Credit and Guaranty Agreement with Blue Owl Capital Corporation, as administrative agent, the lenders from time to time party thereto and the other guarantors from time to time party thereto (the “Credit Agreement”), which provides for (i) a term loan facility in an aggregate principal amount equal to $2,100,000,000, (ii) a delayed draw term loan facility in an aggregate
+principal amount equal to $300,000,000 and (iii) a revolving loan facility in an aggregate principal amount equal to $250,000,000. Parent is the borrower, and its direct parent company and certain of its subsidiaries are guarantors, under the Credit
+Agreement. The obligations under the Credit Agreement are secured on a first priority basis by substantially all assets of the borrower and the guarantors (subject to certain exclusions and exceptions). The Credit Agreement includes representations
+and warranties, covenants, events of default and other provisions that are customary for facilities of their respective types.
+Item 1.02
+Termination of a Material Definitive Agreement.
+The information set forth in the Introduction is incorporated into this Item 1.02 by reference.
+On October 17, 2024, in connection with the Merger, all outstanding indebtedness under that certain Amended and Restated Credit
+Agreement, dated December 11, 2020 (as amended prior to the closing of the Merger, the “Company Credit Agreement”), by and among the Company, as borrower, the lenders and issuing banks party thereto, and JPMorgan Chase Bank, N.A., as administrative
+agent and collateral agent, was repaid in full, all commitments thereunder were terminated and outstanding letters of credit thereunder were cash collateralized. Additionally, the guarantees and liens securing the indebtedness under the Company
+Credit Agreement were discharged and released.
+Item 2.01
+Completion of Acquisition or Disposition of Assets.
+The Offer expired as scheduled at one (1) minute after 11:59 p.m., New York City time, on October 11, 2024. The depositary for the Offer
+(the “Depository”) has indicated that, as of such time, a total of 46,971,451 shares of Class A Common Stock were validly tendered and not validly withdrawn
+pursuant to the Offer. The Shares validly tendered and not validly withdrawn pursuant to the Offer, together with the Shares constituting Owned Company Shares, satisfy the Minimum Condition. Specifically, (i) 46,971,451 Shares were validly tendered
+(within the meaning of Section 251(h) of the DGCL) and not validly withdrawn, which together with the Owned Company Shares represents approximately 97.5% of the aggregate voting power of all issued and outstanding Shares, (ii) 46,015,331 Shares
+beneficially owned, directly or indirectly, by the Unaffiliated Company Stockholders were validly tendered (within the meaning of Section 251(h) of the DGCL) and not validly withdrawn, which represent approximately 77.7% of the aggregate voting power
+of all issued and outstanding Shares beneficially owned, directly or indirectly, by the Unaffiliated Company Stockholders, (iii) the shares of Class B Common Stock constituting Owned Company Shares represent 100% of the aggregate voting power of all
+issued and outstanding shares of Class B Common Stock, and (iv) 46,971,451 shares of Class A Common Stock were validly tendered (within the meaning of Section 251(h) of the DGCL) and not validly withdrawn, which, together with the shares of Class A
+Common Stock constituting Owned Company Shares represent approximately 84.4% of the aggregate voting power of all issued and outstanding shares of Class A Common Stock, in each case as of the Offer Acceptance Time, but excluding any Shares held in
+treasury by Squarespace as of the expiration of the Offer or any other Shares acquired by Squarespace prior to the expiration of the Offer (including any Shares acquired in connection with payment of the exercise price for the exercise of Squarespace
+Stock Options, and Tax withholding in connection with the exercise of Squarespace Stock Options or the settlement of Squarespace PSUs or Squarespace RSUs).
+The number of Shares validly tendered and not validly withdrawn pursuant to the Offer satisfied the Minimum Condition. As all conditions
+to the Offer were satisfied or waived, Parent irrevocably accepted for payment all such Shares validly tendered into and not validly withdrawn from the Offer and will promptly pay for all such Shares in accordance with the Offer.
+As a result of its acceptance of the Shares tendered in the Offer, Parent acquired a sufficient number of Shares to complete the Merger
+without a vote of the stockholders of Squarespace pursuant to Section 251(h) of the DGCL. On October 17, 2024 (the “Closing Date”), Parent effected the Merger
+under Section 251(h) of the DGCL. Merger Sub merged with and into Squarespace, with Squarespace surviving as a wholly owned subsidiary of Parent. At the Effective Time, each Share issued and outstanding immediately prior to the Effective Time, other
+than Shares irrevocably accepted for purchase by Parent in the Offer and certain Shares specified in the Merger Agreement (including Rollover Shares and Shares as to which the holder thereof has properly and validly exercised their statutory rights
+of appraisal in respect of such Shares in accordance with Section 262 of the DGCL), were converted automatically into the right to receive $46.50 in cash, net to the holder of such Share in cash, without interest, but subject to any applicable
+withholding taxes (which is the same amount per Share paid in the Offer).
+In addition, at the Effective Time, each outstanding Squarespace Stock Option (other than Out-of-the-Money Options) that had vested by
+its terms as of the Effective Time was cancelled and converted into the right to receive a lump sum cash payment, without interest, equal to the product of the excess of the Offer Price over the applicable exercise price per Share subject to such
+Squarespace Stock Option multiplied by the number of Shares subject to such Squarespace Stock Option. This amount (less any required withholding and other taxes) will be paid to the applicable holder no later than the second regularly scheduled
+payroll date following the Closing Date.
+At the Effective Time, each outstanding Squarespace RSU and Squarespace PSU that had vested by its terms as of the Effective Time or was
+held by a non-employee of Squarespace was converted into the right to receive a lump sum cash payment, without interest, equal to the product of the Offer Price multiplied by the number of Shares subject to the applicable Squarespace RSU (subject to
+any prorated vesting) or Squarespace PSU. This amount (less any required withholding and other taxes) will be paid to the applicable holder no later than the second regularly scheduled payroll date following the Closing Date.
+Immediately prior to the Effective Time, each Squarespace Stock Option (other than any Out-of-the-Money Option) that was then
+outstanding and not vested by its terms (other than any such award held by a non-employee of Squarespace) was cancelled and converted as of the Effective Time into an award providing the holder with the opportunity to be paid an amount in cash equal
+to the product of the excess, if any, of the Offer Price over the applicable exercise price per Share subject to such Squarespace Stock Option multiplied by the number of Shares subject to such Squarespace Stock Option (the “Converted Option Award”). Each Converted Option Award remains subject to the same vesting terms and conditions that applied to the associated Squarespace Stock Option immediately
+prior to the Effective Time.
+2
+Immediately prior to the Effective Time, each outstanding Squarespace RSU and Squarespace PSU (other than Forfeited Squarespace PSUs, as
+defined below) that had not vested by its terms as of the Effective Time (other than any such award held by a non-employee of Squarespace) was converted into an award providing the holder with the opportunity to be paid an amount in cash equal to the
+product of the Offer Price multiplied by the number of Shares subject to the applicable Squarespace RSU or Squarespace PSU (with the number of Shares subject to Squarespace PSUs determined in accordance with the applicable award agreement prior to
+the closing) (each, a “Converted Full Value Award”). Each Converted Full Value Award remains subject to the same vesting terms and conditions that applied to
+the associated Squarespace RSU or Squarespace PSU, as applicable, immediately prior to the Effective Time.
+Notwithstanding the foregoing, each Out-of-the-Money Option, whether vested or unvested, was automatically cancelled as of the Effective
+Time for no consideration, and each outstanding Squarespace PSU that was scheduled to be automatically forfeited as of the Effective Time pursuant to its terms and the Merger Agreement was forfeited as of the Effective Time for no consideration
+(each, a “Forfeited Squarespace PSU”).
+The description of the Offer and the Merger does not purport to be complete and is qualified in its entirety by reference to the A&R
+Merger Agreement, which was filed as Exhibit 2.1 to the Company’s Current Report on Form 8-K filed on September 9, 2024 and is incorporated herein by reference. The information set forth in the Introductory Note of this Current Report on Form 8-K is
+also incorporated herein by reference.
+Item 3.01
+Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+On October 17, 2024, in connection with the completion of the Merger, the Company notified the New York Stock Exchange (the “NYSE”) that the Merger had been completed and requested that the NYSE suspend trading of the Class A Common Stock on the NYSE and withdraw the Class A Common Stock
+from listing on the NYSE prior to the opening of trading on October 17, 2024. The Company has requested that the NYSE file a notification of removal from listing on Form 25 with the SEC with respect to the Class A Common Stock in order to effect the
+delisting of such shares from the NYSE. Such delisting will result in the deregistration of the Class A Common Stock under Section 12(b) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). The Company intends to file a Form 15 requesting the deregistration of the Class A Common Stock under Section 12(g) of the Exchange Act, which will suspend the Company’s reporting obligations
+under Sections 13(a) and 15(d) of the Exchange Act with respect to the Class A Common Stock.
+The information set forth in the Introductory Note and Item 2.01 of this Current Report on Form 8-K is incorporated herein by reference.
+Item 3.03
+Material Modification to Rights of Security Holders.
+The information set forth in the Introductory Note, Item 2.01, Item 3.01 and Item 5.03 of this Current Report on Form 8-K is
+incorporated herein by reference.
+3
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+In connection with the Merger, at the Effective Time, each of the directors of the Company (Anthony Casalena, Andrew Braccia, Michael
+Fleisher, Jonathan Klein, Liza Landsman, Anton Levy and Neela Montgomery) resigned as directors of the Company.
+The information set forth in the Introductory Note of this Current Report on Form 8-K is incorporated herein by reference.
+Item 5.03
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+Pursuant to the terms of the A&R Merger Agreement, at the Effective Time, the certificate of incorporation of the Company, as in
+effect immediately prior to the Merger, was amended and restated to be in the form of the certificate of incorporation attached as Exhibit 3.1 to this Current Report on Form 8-K, which is incorporated herein by reference.
+In addition, at the Effective Time, the bylaws of the Company, as in effect immediately prior to the Merger, were amended and restated
+to be in the form of the bylaws attached as Exhibit 3.2 to this Current Report on Form 8-K, which are incorporated herein by reference.
+Item 7.01
+Regulation FD Disclosure.
+On October 17, 2024, Merger Sub issued a press release announcing the completion of the Merger. A copy of this press release is attached
+as Exhibit 99.1 and is incorporated herein by reference.
+Item 9.01
+Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+2.1
+Amended and Restated Agreement and Plan of Merger, dated September 9, 2024, between the Buyer Parties and Squarespace (incorporated by reference to
+Exhibit 2.1 to the Form 8-K filed by Squarespace with the SEC on September 9, 2024)
+3.1
+Amended and Restated Certificate of Incorporation of Squarespace, Inc.
+3.2
+Amended and Restated By-Laws of Squarespace, Inc.
+99.1
+Press Release of Squarespace, Inc., issued October 17, 2024
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+4
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+SQUARESPACE, INC.
+By:
+/s/ Courtenay O’Connor
+Courtenay O’Connor
+General Counsel and Secretary
+Date: October 17, 2024

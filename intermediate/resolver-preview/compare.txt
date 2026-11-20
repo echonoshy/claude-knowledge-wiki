@@ -1,0 +1,22 @@
+补查前后对照
+
+before/ 把还没补查时的结构做成了一个小例子。问题页每行一题，指标还是分散在各自来源里。为了方便对着看，evidence.md 把这几条现有指标抄到了一起。after/ 节选自当前本地 Wiki，来源链接改成了从示例目录也能打开的路径。
+
+补查助手怎么做
+    把各文档留下的问题放进同一个队列，先查对交易判断最重要的。Notebook 默认最多处理 10 个。
+    对每一题，先找其他批次已写进 Wiki 的内容。证据不够，再去查可能回答这题的原文。
+    能回答就把事实和出处补进实体、关系或指标页，再给原问题标 RESOLVED，加上答案链接。
+    已查过、这批资料仍答不了，就标 CONFIRMED UNRESOLVABLE，并写清还缺什么。
+
+先看 Q-02 两个贷款数字是怎么回事
+    问题在 before/open_questions/8k-closing.md 只有一行。
+    线索在 before/evidence.md。5 月是顾问讨论稿里的 21 亿，8 月是融资承诺里的 23 亿，10 月是签署协议里的 21 亿。
+    对比 after/open_questions/8k-closing.md。原问题加了 RESOLVED 和答案链接。
+    对比 before/entities/closing-credit-agreement.md 和 after/entities/closing-credit-agreement.md。后者多了一条说明，指出 8 月的 23 亿属于融资承诺阶段。
+
+再看 Q-03 能不能查到 2025 年实际营收
+    对比 before/open_questions/board-deck-cii.md 和 after/open_questions/board-deck-cii.md。
+    材料给的是 2025E 预测。当前 Wiki 记下了需要交割后的 2025 年度合并报表，并标 CONFIRMED UNRESOLVABLE。
+
+最后看还留在清单里的 Q-15
+    after/open_questions/8k-closing.md 的下一行仍是 OPEN。厘清两个额度各自出自哪个阶段以后，额度变化的原因和实际提款额仍需要另外查。

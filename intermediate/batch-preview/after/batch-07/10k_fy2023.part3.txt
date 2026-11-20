@@ -1,0 +1,782 @@
+[SOURCE: SEC EDGAR | form: 10-K | filed: 2024-02-28 | accession: 0001496963-24-000010 | url: https://www.sec.gov/Archives/edgar/data/1496963/000149696324000010/sqsp-20231231.htm | part 3 of 4]
+
+ket values deteriorating subsequent to the Tock acquisition as well as the result of a change in product strategy during the fourth quarter of 2022 as the result of the departure of certain members of management. See “Item 8. Financial Statements and Supplementary Data, Note 9. Goodwill and Intangible Assets, Net” for further information on the impairment charge.
+Interest expense
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2023 | 2022 | Amount | %
+Interest expense | $ | (36,768) | $ | (18,207) | $ | (18,561) | 101.9 | %
+Percentage of total revenue | (3.6) | % | (2.1) | %
+Interest expense increased $18.6 million, or 101.9%, for the year ended December 31, 2023 compared to the same period in 2022, primarily due to higher interest rates, driven by increased benchmark rates on our total debt outstanding, as well as additional term loan commitments received during the year ended December 31, 2023.
+Other income, net
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2023 | 2022 | Amount | %
+Other income, net | $ | 3,362 | $ | 5,030 | $ | (1,668) | (33.2) | %
+Percentage of total revenue | 0.3 | % | 0.6 | %
+Other income, net was $3.4 million for the year ended December 31, 2023 compared to $5.0 million for the same period in 2022. The decrease is primarily due to decreased unrealized and realized gains of $7.3 million due to unfavorable foreign exchange rates, partially offset by increased interest income of $5.8 million due to increased cash equivalents balances as well as higher interest rates during the year ended December 31, 2023 compared to the same period in 2022.
+Provision for income taxes
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2023 | 2022 | Amount | %
+Income/(loss) before provision for income taxes | $ | 50,322 | $ | (224,991) | $ | 275,313 | (122.4) | %
+Provision for income taxes | $ | (57,403) | $ | (27,230) | $ | (30,173) | 110.8 | %
+Effective tax rate | (114.1) | % | 12.1 | % | (126.2) | %
+The provision for income taxes increased for the year ended December 31, 2023 compared to the same period in 2022, primarily driven by an increase in profitability as compared to a loss for the year ended December 31, 2022. In addition, the utilization of available tax attributes, including net operating loss and research and development tax credits, decreased for the year ended December 31, 2023 as compared to the same period in 2022.
+44
+Table of Contents
+Comparison of the Years Ended December 31, 2022 and 2021
+Revenue
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+Presence | $ | 597,300 | $ | 554,523 | $ | 42,777 | 7.7 | %
+Commerce | 269,672 | 229,515 | $ | 40,157 | 17.5 | %
+Total revenue | $ | 866,972 | $ | 784,038 | $ | 82,934 | 10.6 | %
+Percentage of total revenue:
+Presence | 68.9 | % | 70.7 | %
+Commerce | 31.1 | % | 29.3 | %
+Total revenue | 100.0 | % | 100.0 | %
+Presence revenue
+Presence revenue increased $42.8 million, or 7.7%, for the year ended December 31, 2022 compared to the same period in 2021. This increase was primarily the result of the growth of our unique subscriptions, which contributed $60.3 million, or 141.3%, driven by retention of existing subscriptions and continued acquisition of new subscriptions across our presence offerings. Additionally, price increases across our website subscription plans contributed $5.9 million, or 13.9%, to the year-over-year presence revenue growth. These increases were partially offset by the unfavorable effect of foreign currency translation adjustments of $23.4 million, or 54.7%.
+Commerce revenue
+Commerce revenue increased $40.2 million, or 17.5%, for the year ended December 31, 2022 compared to the same period in 2021. This increase was primarily the result of the growth of our unique subscriptions, which contributed approximately $32.8 million, or 81.6%, driven by retention of existing subscriptions and continued acquisition of new subscriptions across our commerce offerings, including subscriptions for our scheduling and hospitality services.
+Cost of revenue and gross profit
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+Cost of revenue | $ | 152,655 | $ | 126,631 | $ | 26,024 | 20.6 | %
+Gross profit | $ | 714,317 | $ | 657,407 | $ | 56,910 | 8.7 | %
+Percentage of total revenue:
+Cost of revenue | 17.6 | % | 16.2 | %
+Gross profit | 82.4 | % | 83.8 | %
+Cost of revenue
+Cost of revenue increased $26.0 million, or 20.6%, for the year ended December 31, 2022 compared to the same period in 2021. The increase was primarily due to increased payment processing fees of $9.0 million, hosting costs of $4.9 million and domain name registration fees of $2.7 million associated with our growing subscription base as well as payroll and associated benefit expenses of $8.7 million for customer support.
+Gross profit
+Gross profit increased $56.9 million, or 8.7%, for the year ended December 31, 2022 compared to the same period in 2021. As a percentage of total revenue, gross profit was 82.4% and 83.8% for the years ended December 31, 2022 and 2021, respectively.
+45
+Table of Contents
+Operating expenses:
+Research and product development
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+Research and product development | $ | 227,297 | $ | 190,371 | $ | 36,926 | 19.4 | %
+Percentage of total revenue | 26.2 | % | 24.3 | %
+Research and product development expenses increased $36.9 million, or 19.4%, for the year ended December 31, 2022 compared to the same period in 2021. The increase was primarily due to payroll and associated benefit expenses of $37.0 million related to increased headcount, partially offset by capitalized internally developed software costs of $4.5 million, in support of our product development roadmap, and the addition of hospitality services.
+Marketing and sales
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+Marketing and sales | $ | 322,051 | $ | 339,965 | $ | (17,914) | (5.3) | %
+Percentage of total revenue | 37.1 | % | 43.4 | %
+Marketing and sales expenses decreased $17.9 million, or 5.3%, for the year ended December 31, 2022 compared to the same period in 2021, primarily due to decreased advertising expenses of $33.0 million mainly related to decreased brand spend channels, partially offset by increased direct response channels. Additionally, this decrease was partially offset by increased payroll and associated benefit expenses of $13.4 million related to increased headcount in support of our expanded marketing operations including hospitality services.
+General and administrative
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+General and administrative | $ | 151,620 | $ | 367,945 | $ | (216,325) | (58.8) | %
+Percentage of total revenue | 17.5 | % | 46.9 | %
+General and administrative expenses decreased $216.3 million, or 58.8%, for the year ended December 31, 2022 compared to the same period in 2021, primarily due to one-time expenses related to our Direct Listing in May 2021, which included a $229.3 million expense for stock-based compensation associated with the vesting conditions of a grant to our Chief Executive Officer of shares of Class B common stock upon consummation of the listing and professional fees of $25.3 million, partially offset by increased payroll and benefits expense of $22.0 million, indirect tax expense of $8.9 million, software costs related to business operations of $2.7 million and rent expense as a result of impairments of certain right-of-use assets of $2.1 million.
+Impairment charge
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+Impairment charge | $ | 225,163 | $ | — | $ | 225,163 | 100.0 | %
+Percentage of total revenue | 26.0 | % | — | %
+We incurred an impairment charge of $225.2 million for the year ended December 31, 2022 which represents a non-cash goodwill impairment charge primarily due to market values deteriorating subsequent to the Tock acquisition as well as the result of a change in product strategy during the fourth quarter of 2022 as the result of the departure of certain members of management. See “Item 8. Financial Statements and Supplementary Data, Note 9. Goodwill and Intangible Assets, Net” for further information on the impairment charge.
+46
+Table of Contents
+Interest expense
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+Interest expense | $ | (18,207) | $ | (11,081) | $ | (7,126) | 64.3 | %
+Percentage of total revenue | (2.1) | % | (1.4) | %
+Interest expense increased $7.1 million, or 64.3%, for the year ended December 31, 2022 compared to the same period in 2021, due to higher interest rates, driven by increased LIBOR rates on our total debt outstanding related to our amended credit agreement.
+Other income, net
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+Other income, net | $ | 5,030 | $ | 6,631 | $ | (1,601) | (24.1) | %
+Percentage of total revenue | 0.6 | % | 0.8 | %
+Other income, net was $5.0 million for the year ended December 31, 2022 compared to $6.6 million for the same period in 2021. The decrease was primarily due to decreased unrealized and realized gains of $3.1 million due to unfavorable foreign exchange rates, partially offset by increased interest earned on cash and cash equivalents of $1.1 million due to higher interest rates for the year ended December 31, 2022 compared to the same period in 2021.
+Provision for income taxes
+Years Ended December 31, | Change
+($ in thousands, except percentages) | 2022 | 2021 | Amount | %
+Loss before provision for income taxes | $ | (224,991) | $ | (245,324) | $ | 20,333 | (8.3) | %
+Provision for income taxes | $ | (27,230) | $ | (3,825) | $ | (23,405)
+Effective tax rate | 12.1 | % | 1.6 | % | 10.5 | %
+The provision for income taxes increased for the year ended December 31, 2022 compared to the same period in 2021, primarily driven by capitalization and amortization of research and development expenditures and an increase in GILTI.
+Quarterly Results of Operations
+The following tables set forth selected unaudited quarterly statements of operations data for each of the eight fiscal quarters ended December 31, 2023, as well as the percentage of revenues that each line item represents for each quarter. The information for each of these quarters has been prepared in accordance with generally accepted accounting principles in the United States ("GAAP") on the same basis as our audited historical consolidated financial information and includes, in the opinion of management, all adjustments, consisting only of normal recurring adjustments, necessary for the fair statement of the results of operations for these periods. This data should be read in conjunction with our consolidated financial statements included elsewhere in this Annual Report on Form 10-K. These quarterly results are not necessarily indicative of our results of operations to be expected for any future period.
+47
+Table of Contents
+Three Months Ended (Unaudited)
+($ in thousands) | December 31,
+2023 | September 30,
+2023 | June 30,
+2023 | March 31,
+2023 | December 31,
+2022 | September 30,
+2022 | June 30,
+2022 | March 31,
+2022
+Revenue | $ | 270,718 | $ | 257,061 | $ | 247,529 | $ | 237,028 | $ | 228,812 | $ | 217,696 | $ | 212,702 | $ | 207,762
+Cost of revenue(1)
+69,650 | 51,753 | 43,167 | 42,950 | 40,106 | 38,907 | 36,993 | 36,649
+Gross profit | 201,068 | 205,308 | 204,362 | 194,078 | 188,706 | 178,789 | 175,709 | 171,113
+Operating expenses:
+Research and product development(1)
+61,715 | 60,491 | 61,412 | 58,570 | 56,828 | 54,312 | 58,829 | 57,328
+Marketing and sales(1)
+91,513 | 81,016 | 75,373 | 101,672 | 66,154 | 74,248 | 68,743 | 112,906
+General and administrative(1)
+29,922 | 36,155 | 30,909 | 32,340 | 37,942 | 38,507 | 39,190 | 35,981
+Impairment charge | — | — | — | — | 225,163 | — | — | —
+Total operating expenses | 183,150 | 177,662 | 167,694 | 192,582 | 386,087 | 167,067 | 166,762 | 206,215
+Operating income/(loss) | 17,918 | 27,646 | 36,668 | 1,496 | (197,381) | 11,722 | 8,947 | (35,102)
+Interest expense | (10,718) | (9,321) | (8,635) | (8,094) | (7,230) | (5,209) | (3,319) | (2,449)
+Other (loss)/income, net | (4,163) | 6,327 | 2,038 | (840) | (9,567) | 6,869 | 6,217 | 1,511
+Income/(loss) before benefit from/(provision for) income taxes | 3,037 | 24,652 | 30,071 | (7,438) | (214,178) | 13,382 | 11,845 | (36,040)
+Benefit from/(provision for) income taxes | 2,219 | (41,151) | (26,411) | 7,940 | (19,784) | (3,277) | 52,651 | (56,820)
+Net income/(loss) | $ | 5,256 | $ | (16,499) | $ | 3,660 | $ | 502 | $ | (233,962) | $ | 10,105 | $ | 64,496 | $ | (92,860)
+Net income/(loss) per share attributable to Class A, Class B, and Class C common stockholders, basic | $ | 0.04 | $ | (0.12) | $ | 0.03 | $ | 0.00 | $ | (1.72) | $ | 0.07 | $ | 0.46 | $ | (0.67)
+Net income/(loss) per share attributable to Class A, Class B, and Class C common stockholders, dilutive | $ | 0.04 | $ | (0.12) | $ | 0.03 | $ | 0.00 | $ | (1.72) | $ | 0.07 | $ | 0.45 | $ | (0.67)
+Weighted-average shares used in computing net income/(loss) per share attributable to Class A, Class B, and Class C common stockholders, basic | 136,153,002 | 135,736,599 | 135,302,409 | 134,917,610 | 136,340,283 | 137,832,634 | 140,082,038 | 139,423,228
+Weighted-average shares used in computing net income/(loss) per share attributable to Class A, Class B, and Class C common stockholders, dilutive | 139,387,350 | 135,736,599 | 138,771,613 | 137,182,268 | 136,340,283 | 139,667,719 | 142,133,303 | 139,423,228
+__________________
+(1)Includes stock-based compensation as follows:
+Three Months Ended (Unaudited)
+($ in thousands) | December 31,
+2023 | September 30,
+2023 | June 30,
+2023 | March 31,
+2023 | December 31,
+2022 | September 30,
+2022 | June 30,
+2022 | March 31,
+2022
+Cost of revenue | $ | 1,451 | $ | 1,484 | $ | 1,549 | $ | 1,052 | $ | 944 | $ | 1,000 | $ | 846 | $ | 624
+Research and product development | 13,868 | 14,601 | 15,650 | 10,687 | 11,099 | 9,462 | 11,508 | 10,168
+Marketing and sales | 2,921 | 3,019 | 3,045 | 1,871 | 2,450 | 2,252 | 2,395 | 1,599
+General and administrative | 9,587 | 9,213 | 9,235 | 8,516 | 12,989 | 11,380 | 12,111 | 11,706
+Total stock-based compensation | $ | 27,827 | $ | 28,317 | $ | 29,479 | $ | 22,126 | $ | 27,482 | $ | 24,094 | $ | 26,860 | $ | 24,097
+48
+Table of Contents
+The following table sets forth our consolidated statements of operations information as a percentage of total revenue for the three month periods indicated below:
+Three Months Ended (Unaudited)
+December 31,
+2023 | September 30,
+2023 | June 30,
+2023 | March 31,
+2023 | December 31,
+2022 | September 30,
+2022 | June 30,
+2022 | March 31,
+2022
+Revenue | 100.0 | % | 100.0 | % | 100.0 | % | 100.0 | % | 100.0 | % | 100.0 | % | 100.0 | % | 100.0 | %
+Cost of revenue(1)
+25.7 | % | 20.1 | % | 17.4 | % | 18.1 | % | 17.5 | % | 17.9 | % | 17.4 | % | 17.6 | %
+Gross profit | 74.3 | % | 79.9 | % | 82.6 | % | 81.9 | % | 82.5 | % | 82.1 | % | 82.6 | % | 82.4 | %
+Operating expenses:
+Research and product development(1)
+22.8 | % | 23.5 | % | 24.8 | % | 24.7 | % | 24.8 | % | 24.9 | % | 27.7 | % | 27.6 | %
+Marketing and sales(1)
+33.8 | % | 31.5 | % | 30.5 | % | 42.9 | % | 28.9 | % | 34.1 | % | 32.3 | % | 54.3 | %
+General and administrative(1)
+11.1 | % | 14.1 | % | 12.5 | % | 13.6 | % | 16.6 | % | 17.7 | % | 18.4 | % | 17.3 | %
+Impairment charge | — | % | — | % | — | % | — | % | 98.4 | % | — | % | — | % | — | %
+Total operating expenses | 67.7 | % | 69.1 | % | 67.8 | % | 81.2 | % | 168.7 | % | 76.7 | % | 78.4 | % | 99.2 | %
+Operating income/(loss) | 6.6 | % | 10.8 | % | 14.8 | % | 0.7 | % | (86.2) | % | 5.4 | % | 4.2 | % | (16.8) | %
+Interest expense | (4.0) | % | (3.6) | % | (3.5) | % | (3.4) | % | (3.2) | % | (2.4) | % | (1.6) | % | (1.2) | %
+Other (loss)/income, net | (1.5) | % | 2.5 | % | 0.8 | % | (0.4) | % | (4.2) | % | 3.2 | % | 2.9 | % | 0.7 | %
+Income/(loss) before benefit from/(provision for) income taxes | 1.1 | % | 9.7 | % | 12.1 | % | (3.1) | % | (93.6) | % | 6.2 | % | 5.5 | % | (17.3) | %
+Benefit from/(provision for) income taxes | 0.8 | % | (16.0) | % | (10.7) | % | 3.3 | % | (8.6) | % | (1.5) | % | 24.8 | % | (27.3) | %
+Net income/(loss) | 1.9 | % | (6.3) | % | 1.4 | % | 0.2 | % | (102.2) | % | 4.7 | % | 30.3 | % | (44.6) | %
+Quarterly Trends
+Our business is impacted by seasonal fluctuations. We typically register a greater number of new unique subscriptions during the first quarter of a year. We believe this is related to, among other things, our customers’ buying habits and our increased marketing and sales spend in the first quarter of most years. In the future, seasonal trends may cause fluctuations in our quarterly results, which may impact the predictability of our business and results of operations.
+Liquidity and Capital Resources
+To date, we have primarily financed our operations through cash flows from operations.
+As of December 31, 2023, we had cash and cash equivalents of $257.7 million and $17.7 million of available borrowing capacity under our Revolving Credit Facility, as defined below. Our principal commitments consist of payments for our Credit Facility, operating leases and purchase commitments related to cloud-computing services. See “Item 8. Financial Statements and Supplementary Data, Note 11. Debt” for further information on our Credit Facility.
+On January 1, 2022, a provision of the Tax Cuts and Jobs Act of 2017 went into effect which eliminates the option to deduct research and development costs in the year incurred and instead requires taxpayers to amortize such costs over 5 years and 15 years for domestic and foreign costs, respectively. While we paid significantly higher cash tax payments during 2023, the adverse cash flow impact will diminish in future years as our capitalized research and development expenditures continue to amortize. In addition, during the year ended December 31, 2023, we received $8.7 million in federal tax refund claims of which $4.0 million related to a research and development tax credit carryback to 2018 and $4.7 million related to a 2020 tax overpayment. As of December 31, 2023, we had accrued $11.7 million of unrecognized tax benefits related to uncertain tax positions. At this time, we are unable to reasonably estimate the timing of the long-term payments or the amount by which the liability will increase or decrease over time.
+On May 10, 2022, the board of directors authorized a general share repurchase program of the Company’s Class A common stock of up to $200.0 million, with no fixed expiration (the "Stock Repurchase Plan"). During the year ended December 31, 2023, the Company repurchased 1.3 million shares and paid cash of $26.0 million, through open market purchases at a weighted-average price per share of $22.17. As of December 31, 2023, approximately $53.8 million remained available for stock repurchase.
+We believe our existing cash and cash equivalents will be sufficient to meet our operating working capital and capital expenditure requirements over the next 12 months. Our future financing requirements will depend on many factors, including our growth rate, subscription renewal activity, the timing and extent of spending to support development of our platform and products, the expansion of marketing and sales activities and any future investments or acquisitions we may make. See “Item 1A. Risk Factors.”
+49
+Table of Contents
+The following table summarizes our operating, investing and financing activities for the years ended December 31, 2023, 2022 and 2021:
+Years Ended December 31,
+($ in thousands) | 2023 | 2022 | 2021
+Net cash provided by/(used in):
+Operating activities | $ | 231,117 | $ | 164,219 | $ | 123,157
+Investing activities | $ | (161,879) | $ | (12,031) | $ | (207,730)
+Financing activities | $ | (8,187) | $ | (152,836) | $ | 260,713
+Net cash provided by operating activities
+Net cash provided by operating activities during the year ended December 31, 2023 was $231.1 million, which reflected our net loss of $7.1 million, offset by certain non-cash items primarily consisting of a $107.7 million of stock-based compensation and $43.9 million of depreciation and amortization, partially offset by $2.3 million of non-cash lease income.
+Cash provided by operating activities during the year ended December 31, 2023 included $61.4 million in deferred revenue, primarily reflective of our growth in unique subscriptions as well as price increases across several of our subscription plans, $33.5 million of accounts payable and accrued liabilities, primarily related to the timing of payments, including payments for product-related expenses, $5.2 million in other operating assets and liabilities, and $3.8 million in funds payable to customers, primarily related to increased reservations on our hospitality platform. Cash provided by operating activities was partially offset by $15.7 million in accounts receivables and due from vendors, primarily related to cash in-transit, and $0.5 million in prepaid expenses and other current assets, primarily related to increased prepaid domain name registration fees, partially offset by decreased prepaid income taxes.
+Net cash provided by operating activities during the year ended December 31, 2022 was $164.2 million, which reflected our net loss of $252.2 million, offset by certain non-cash items primarily consisting of $225.2 million impairment charge, $102.5 million of stock-based compensation, $31.6 million of depreciation and amortization and $2.2 million of non-cash lease expense.
+Cash provided by operating activities during the year ended December 31, 2022 included $39.5 million in deferred revenue, primarily reflective of our growth in unique subscriptions as well as price increases across several of our subscription plans, $9.1 million in other operating assets and liabilities, primarily related to increased income tax liabilities, partially offset by increased cloud software implementation fees, $8.7 million in funds payable to customers, primarily related to increased reservations on our hospitality platform, and $3.7 million in prepaid expenses and other current assets, primarily related to decreased prepaid marketing expenses, partially offset by increased prepaid referral fees. Cash provided by operating activities was partially offset by $5.5 million of accounts receivable and due from vendors, primarily related to the timing of payments received, and $2.2 million of accounts payable and accrued liabilities, primarily related to the timing of payments.
+Net cash provided by operating activities during the year ended December 31, 2021 was $123.2 million, which reflected our net loss of $249.1 million, offset by certain non-cash items primarily consisting of $307.9 million of stock-based compensation, $32.7 million of depreciation and amortization and $3.2 million of deferred tax expense.
+Cash provided by operating activities during the year ended December 31, 2021 included $29.4 million of deferred revenue, primarily reflective of our growth in unique subscriptions, $14.5 million in accounts payable and accrued liabilities, primarily related to the timing of payments, $10.7 million in funds payable to customers, primarily related to reservations on our hospitality platform, and $8.4 million of deferred rent and lease incentives, primarily related to increased tenant improvement allowances. Cash provided by operating activities was partially offset by $35.4 million in prepaid expenses and other current assets, primarily related to increased marketing expenses.
+Net cash used in investing activities
+Net cash used in investing activities during the year ended December 31, 2023 was $161.9 million, which reflected $176.7 million used for the Google Domains Asset Acquisition, $17.0 million used in connection with the purchase of property and equipment, including $13.0 million of capitalized software development costs in support of our product development, and $7.8 million used to purchase marketable securities. Cash used in investing activities was offset by $39.7 million in proceeds from the sale and maturities of marketable securities.
+Net cash used in investing activities during the year ended December 31, 2022 was $12.0 million, which reflected $27.7 million used to purchase marketable securities, $11.5 million used in connection with the purchase of property and
+50
+Table of Contents
+equipment, including $3.9 million of capitalized software development costs in support of our product development. Cash used in investing activities was offset by $27.2 million in proceeds from the sale and maturities of marketable securities.
+Net cash used in investing activities during the year ended December 31, 2021 was $207.7 million, which reflected $202.2 million, net of acquired cash, used to pay for the acquisition of Tock, $28.7 million used to purchase marketable securities, and $11.0 million used in connection with the purchase of property and equipment, including $2.8 million of capitalized software development costs in support of our product development. Cash used in investing activities was offset by $34.2 million in proceeds from the sale and maturities of marketable securities.
+Net cash (used in)/provided by financing activities
+Net cash used in financing activities during the year ended December 31, 2023 was $8.2 million, which reflected $44.9 million in principal term loan payments, $36.4 million in payments for taxes related to net share settlement of equity awards, $26.0 million in payments for repurchase and retirement of Class A common stock and $0.6 million in payments of debt issuance costs related to additional term loan borrowings used for the Google Domains Asset Acquisition. Cash used in financing activities was partially offset by $99.4 million in cash received from additional term loan borrowings used for the Google Domains Asset Acquisition.
+Net cash used in financing activities during the year ended December 31, 2022 was $152.8 million, which primarily reflected $120.2 million in payments for repurchase and retirement of Class A common stock, $21.3 million in payments for taxes related to net share settlement of equity awards and $13.6 million in principal term loan payments. Cash used in financing activities was offset by $2.2 million of proceeds from exercise of stock options.
+Net cash provided by financing activities during the year ended December 31, 2021 was $260.7 million, which primarily reflected $304.4 million in proceeds from the issuance of 4,452,023 shares of Class C common stock, net of issuance costs, and $4.8 million of proceeds from exercise of stock options. Cash provided by financing activities was partially offset by $34.5 million in payments for taxes related to net share settlement of equity awards and $13.6 million in principal term loan payments.
+Indebtedness
+On December 12, 2019, we entered into a credit agreement with various financial institutions that provided for a $350.0 million term loan (the “2019 Term Loan”) and a $25.0 million revolving credit facility (“Revolving Credit Facility”), which included a $15.0 million letter of credit sub-facility. On December 11, 2020, we amended the credit agreement (as amended, the “2020 Credit Agreement”) to increase the size of the 2019 Term Loan to $550.0 million (as amended, the “2020 Term Loan”) and extend the maturity date for the 2019 Term Loan and the Revolving Credit Facility to December 11, 2025. On June 15, 2023, we amended the 2020 Credit Agreement (as amended, the “Credit Agreement”) to increase the total size of the 2020 Term Loan to $650.0 million (the “Term Loan”) upon the closing of the Google Domains Asset Acquisition and, effective June 30, 2023, replaced LIBOR as the benchmark rate with SOFR.
+The borrowings under the 2019 Term Loan were used to provide for the repurchase, and subsequent retirement, of outstanding capital stock. The borrowings under the 2020 Term Loan were used to provide for a dividend on all outstanding capital stock. The additional borrowings of $100.0 million under the Term Loan were used to partially fund the Google Domains Asset Acquisition, together with cash on hand. See “Item 8. Financial Statements and Supplementary Data, Note 4. Acquisitions" for further information.
+Borrowings under the 2020 Credit Agreement were subject to an interest rate equal to, at our option, LIBOR or the bank's alternative base rate (the "ABR"), in either case, plus an applicable margin prior to June 30, 2023. Effective June 30, 2023, under the Credit Agreement, LIBOR as the benchmark rate was replaced with SOFR. The ABR is the greater of the prime rate, the federal funds effective rate plus the applicable margin or the SOFR quoted rate plus the applicable margin. The applicable margin is based on an indebtedness to consolidated EBITDA ratio as prescribed under the Credit Agreement and ranges from 1.25% to 2.25% on applicable SOFR loans and 0.25% to 1.25% on ABR loans. In addition, the Revolving Credit Facility is subject to an unused commitment fee, payable quarterly, of 0.20% to 0.25% of the unutilized commitments (subject to reduction in certain circumstances). Consolidated EBITDA is defined in the Credit Agreement and is not comparable to our definition of adjusted EBITDA used elsewhere in the Annual Report on Form 10-K since the Credit Agreement allows for additional adjustments to net loss including the exclusion of transaction costs, changes in deferred revenue and other costs that may be considered non-recurring. Further, consolidated EBITDA, as defined in the Credit Agreement, may be different from similarly titled EBITDA financial measures used by other companies. The definition of consolidated EBITDA is contained in Section 1.1 of the Credit Agreement.
+As of December 31, 2023, $571.4 million was outstanding under the Term Loan. The Term Loan requires scheduled quarterly principal payments beginning March 31, 2021 in aggregate annual amounts equal to 2.50% for 2021 and 2022,
+51
+Table of Contents
+7.50% for 2023 and 2024 and 10.0% for 2025, in each case, on the Term Loan principal amount, with the balance due at maturity. In addition, the Credit Agreement includes certain customary prepayment requirements for the Term Loan, which are triggered by events such as asset sales, incurrence of indebtedness and sale leasebacks.
+As of December 31, 2023, $7.3 million was outstanding under the Revolving Credit Facility in the form of outstanding letters of credit and $17.7 million remained available for borrowing by us. The outstanding letters of credit relate to security deposits for certain of our leased locations.
+The Credit Agreement contains certain customary affirmative covenants and events of default. The negative covenants in the Credit Agreement include, among others, limitations on our ability (subject to negotiated exceptions) to incur additional indebtedness or issue additional preferred stock, incur liens on assets, enter into agreements related to mergers and acquisitions, dispose of assets or pay dividends and distributions. The Credit Agreement contains certain negative covenants for an indebtedness to consolidated EBITDA ratio, as defined by the Credit Agreement, and commencing with December 31, 2020 and all fiscal quarters thereafter through maturity. For the fiscal quarter ended December 31, 2023, and each fiscal quarter thereafter, the Company is required to maintain an indebtedness to consolidated EBITDA ratio of not more than 3.75 (the “Financial Covenant”), subject to customary equity cure rights. The Financial Covenant is subject to a 0.50 step-up in the event of a material permitted acquisition, which we can elect to implement up to two times during the life of the facility. As of December 31, 2023, we have not elected to implement this step-up as a result of any of our acquisitions. If we are not in compliance with the covenants under the Credit Agreement or we otherwise experience an event of default, the lenders would be entitled to take various actions, including acceleration of amounts due under the Credit Agreement. As of December 31, 2023, 2022 and 2021, we were in compliance with all applicable covenants, including the Financial Covenant.
+The obligations under the Credit Agreement are guaranteed by our wholly-owned domestic subsidiaries and are secured by substantially all of the assets of the guarantors, subject to certain exceptions.
+Total interest expense related to our indebtedness was $36.8 million, $18.2 million and $11.1 million for the years ended December 31, 2023, 2022 and 2021, respectively.
+Key Performance Indicators and Non-GAAP Financial Measures
+We review the following key performance indicators and non-GAAP financial measures to evaluate our business, measure our performance, identify trends affecting our business, formulate financial projections and make strategic decisions. Increases or decreases in our key performance indicators and non-GAAP financial measures may not correspond with increases or decreases in our revenue and our key performance indicators and non-GAAP financial measures may be calculated in a manner different from similar key performance indicators and non-GAAP financial measures, respectively, used by other companies.
+Years Ended December 31,
+2023 | 2022 | 2021
+Unique subscriptions (in thousands) | 4,631 | 4,204 | 4,086
+Total bookings (in thousands) | $ | 1,075,096 | $ | 906,056 | $ | 813,060
+ARRR (in thousands) | $ | 1,105,743 | $ | 931,708 | $ | 835,194
+ARPUS | $ | 228.02 | $ | 209.16 | $ | 202.54
+Adjusted EBITDA (in thousands) | $ | 235,404 | $ | 147,499 | $ | 125,088
+Unlevered free cash flow (in thousands) | $ | 241,013 | $ | 165,550 | $ | 122,387
+GMV (in thousands) | $ | 6,211,823 | $ | 6,058,832 | $ | 5,781,681
+Unique subscriptions. Unique subscriptions represent the number of unique sites, standalone scheduling subscriptions, Unfold (social) subscriptions and hospitality subscriptions, as of the end of a period. A unique site represents a single subscription and/or group of related subscriptions, including a website subscription and/or a domain subscription, and other subscriptions related to a single website or domain. Every unique site contains at least one domain subscription or one website subscription. For instance, an active website subscription, a custom domain subscription and a Google Workspace subscription that represent services for a single website would count as one unique site, as all of these subscriptions work together and are in service of a single entity’s online presence. Unique subscriptions do not account for one-time purchases in Unfold or hospitality services or for the Acquired Domain Assets. The total number of unique subscriptions is a key indicator of the scale of our business and is a critical factor in our ability to increase our revenue base.
+52
+Table of Contents
+Unique subscriptions increased 0.4 million, or 10.2%, and 0.1 million, or 2.9%, as of December 31, 2023 and 2022 compared to the same period in 2022 and 2021, respectively, primarily a result of stable retention of existing subscriptions and the continued acquisition of new subscriptions.
+Total bookings. Total bookings includes cash receipts for all subscriptions purchased, as well as payments due under the terms of contractual agreements for obligations to be fulfilled. In the case of multi-year contracts, total bookings only includes one year of committed revenue. Total bookings provides insight into the sales of our solutions and the performance of our business because, for a large portion of our business, we collect payment at the time of sale and recognize revenue ratably over the term of our subscription agreements.
+Total bookings increased $169.0 million, or 18.7%, for the year ended December 31, 2023 compared to the same period in 2022 primarily as a result of the increase in our unique subscriptions, price increases across several of our website plans, as well as the impact of the Acquired Domain Assets. Total bookings increased $93.0 million, or 11.4%, for the year ended December 31, 2022 compared to the same period in 2021 primarily a result of an increase in our unique subscriptions, price increases across several of our website plans, as well as the growth of our hospitality services.
+Annual run rate revenue (“ARRR”). We calculate ARRR as the monthly revenue from subscription fees and revenue generated in conjunction with associated fees (fees taken or assessed in conjunction with commerce transactions) in the last month of the period multiplied by 12. We believe that ARRR is a key indicator of our future revenue potential. However, ARRR should be viewed independently of revenue, and does not represent our GAAP revenue on an annualized basis, as it is an operating metric that can be impacted by subscription start and end dates and renewal rates. ARRR is not intended to be a replacement or forecast of revenue.
+ARRR increased $174.0 million, or 18.7%, as of December 31, 2023 compared to the same period in 2022 primarily a result of the increase in our unique subscriptions, the impact of the Acquired Domain Assets, and price increases across several of our subscription plans. ARRR increased $96.5 million, or 11.6%, as of December 31, 2022 compared to the same period in 2021 primarily a result of an increase in our unique subscriptions and an increase in our hospitality services.
+Average revenue per unique subscription (“ARPUS”). We calculate ARPUS as the total revenue during the preceding 12-month period divided by the average of the number of total unique subscriptions at the beginning and end of the period. ARPUS does not account for the Acquired Domain Assets or the revenue from the Acquired Domain Assets. We believe ARPUS is a useful metric in evaluating our ability to sell higher-value plans and add-on subscriptions.
+ARPUS increased $18.86, or 9.0%, as of December 31, 2023 compared to the same period in 2022 primarily as the result of the increase in revenue associated with our increase in unique subscriptions and price increases across several of our subscription plans. ARPUS increased $6.62, or 3.3%, as of December 31, 2022 compared to the same period in 2021 primarily as the result of increased prices across several of our subscription plans, an increased mix of higher tiered plans across our website subscriptions, the continued growth of our commerce offerings and attached products, as well as the addition and subsequent growth of our hospitality services.
+Adjusted EBITDA. Adjusted EBITDA is a supplemental performance measure that our management uses to assess our operating performance. We calculate adjusted EBITDA as net loss excluding interest expense, other income, net, provision for income taxes, depreciation and amortization, stock-based compensation expense and other items that we do not consider indicative of our ongoing operating performance. The following is a reconciliation of adjusted EBITDA to the most comparable GAAP measure, net loss:
+Years Ended December 31,
+($ in thousands) | 2023 | 2022 | 2021
+Net loss | $ | (7,081) | $ | (252,221) | $ | (249,149)
+Interest expense | 36,768 | 18,207 | 11,081
+Provision for income taxes | 57,403 | 27,230 | 3,825
+Depreciation and amortization | 43,927 | 31,617 | 32,720
+Stock-based compensation expense | 107,749 | 102,533 | 307,924
+Other income, net | (3,362) | (5,030) | (6,631)
+Impairment charge | — | 225,163 | —
+Direct listing costs | — | — | 25,318
+Adjusted EBITDA | $ | 235,404 | $ | 147,499 | $ | 125,088
+Adjusted EBITDA increased $87.9 million, or 59.6%, for the year ended December 31, 2023 compared to the same period in 2022 primarily due to the increase in revenue, partially offset by increases in domain name registration fees and cash-based payroll and associated benefits. Adjusted EBITDA increased $22.4 million, or 17.9%, for the year ended December 31, 2022 compared to the same period in 2021. The increase is primarily due to the increase in revenue and a
+53
+Table of Contents
+reduction in marketing and sales spend, partially offset by an increase in cash-based payroll and associated benefits related to increases in headcount in research and product development and the addition of hospitality services.
+Unlevered free cash flow. Unlevered free cash flow is a supplemental liquidity measure that our management uses to evaluate our core operating business and our ability to meet our current and future financing and investing needs. We define unlevered free cash flow as cash flow from operating activities less cash paid for capital expenditures increased by cash paid for interest expense net of the associated tax benefit. The following is a reconciliation of unlevered free cash flow to the most comparable GAAP measure, cash flows from operating activities:
+Years Ended December 31,
+($ in thousands) | 2023 | 2022 | 2021
+Cash flows from operating activities | $ | 231,117 | $ | 164,219 | $ | 123,157
+Cash paid for capital expenditures
+(16,998) | (11,543) | (11,021)
+Free cash flow | $ | 214,119 | $ | 152,676 | $ | 112,136
+Cash paid for interest, net of the associated tax benefit | 26,894 | 12,874 | 10,251
+Unlevered free cash flow | $ | 241,013 | $ | 165,550 | $ | 122,387
+Unlevered free cash flow increased $75.5 million, or 45.6%, for the year ended December 31, 2023 compared to the same period in 2022 primarily driven by the increase in bookings, which was partially offset by increases in cash-based payroll and associated benefits, prepaid domain name registration fees, as well as the timing of other payments. Unlevered free cash flow increased $43.2 million, or 35.3%, for the year ended December 31, 2022 compared to the same period in 2021 primarily driven by a reduction in spend related to costs associated with the Direct Listing and advertising costs, partially offset by increased spend in research and development in support of our product development roadmap.
+Gross Merchandise Value. GMV represents the value of physical goods, content and time sold, including hospitality services, net of refunds, on our platform over a given period of time.
+GMV processed on our platform increased $0.2 billion, or 2.5%, for the year ended December 31, 2023 compared to the same period in 2022 primarily due to GMV related to our scheduling product as well as our hospitality services. GMV processed on our platform increased $0.3 billion, or 4.8%, for the year ended December 31, 2022 compared to the same period in 2021 primarily due to certain hospitality services as well as our scheduling product.
+Critical Accounting Policies and Estimates
+The preparation of the consolidated financial statements in conformity with U.S. GAAP requires management to make estimates, judgments and assumptions that affect the amounts reported in the consolidated financial statements. Management’s estimates are based on historical experience and on various other market-specific and relevant assumptions that management believes to be reasonable under the circumstances. Actual results could differ from those estimates. See “Item 8. Financial Statements and Supplemental Data, Note 2. Summary of Significant Accounting Policies,” as it describes the significant accounting policies and methods used in the preparation of our consolidated financial statements. The accounting policies and estimates below have been identified by our management as those that are most critical to our consolidated financial statements as they require management to make significant judgments and estimates about inherently uncertain matters.
+Revenue recognition
+We primarily derive revenue from annual and monthly subscriptions. Revenue is also derived from non-subscription services including fixed percentages or fixed-fees earned on revenue share arrangements with third-parties and on sales made through our customers’ websites.
+Revenue is recognized when control of the promised services is transferred to the customer, in an amount reflecting the consideration we expect to be entitled to in exchange for those services. Revenue is recognized net of expected refunds and any sales or indirect taxes collected from customers, which are subsequently remitted to governmental authorities. We typically receive payment at the time of sale and our customer arrangements do not include a significant financing component. The majority of our customer arrangements and the period between customer payment and transfer of control of the service is expected to be one year or less. Payments received in advance of transfer of control or satisfaction of the related performance obligation are recorded as deferred revenue with the aggregate amount representing the transaction price allocated to those performance obligations that are partially or fully unsatisfied. Subscription plans automatically renew unless advance notice is provided to us.
+Arrangements with our customers do not represent a license and do not provide our customers with the right to take possession of the software supporting our SaaS-based technology platform at any time.
+54
+Table of Contents
+We determine revenue recognition through the following steps:
+•identification of the contract, or contracts, with a customer;
+•identification of the performance obligations in the contract;
+•determination of the transaction price;
+•allocation of the transaction price to the performance obligations in the contract; and
+•recognition of revenue when, or as, we satisfy a performance obligation.
+Subscription and domain managed services revenues are generally recognized over-time with the exception of cases where we act as a reseller of third-party software solutions. We have determined that subscriptions to our platform represent a stand-ready obligation to perform over the subscription term. These performance obligations are satisfied over time as the customer simultaneously receives and consumes the benefits. Subscription revenues related to third-party software solutions are recognized on a net basis at a point in time, upon purchase of the software solution, which is when we satisfy our obligation to facilitate the transfer between the customer and the third-party developer. Domain managed services revenue consists of consideration received from customers in exchange for domain registration and management services. We recognize consideration received from domain managed services on a gross basis over the subscription term since we are obligated to manage our customers’ domains over a contractual period, which is typically one year.
+Revenue associated with non-subscription offerings is primarily recognized at a point in time. Included in non-subscription revenue are revenue share arrangements with payment processors and third-party business applications (together “Commerce Partners”). Consideration received from Commerce Partners is recognized at a point in time as we are acting as an agent and facilitating the sale of products between our customers and third-parties. We also earn transaction fee revenue based on a fixed-fee for GMV processed on our business plans and for certain hospitality offerings. In addition, non-subscription revenue includes processing fees earned in exchange for use of certain hospitality services as well as our native payment processing solution. These transaction and processing fee revenues are recognized at a point in time, when the sale has been completed.
+Business combinations
+Assets acquired and liabilities assumed as part of a business combination are recorded at their fair value at the date of acquisition. The purchase price is allocated to the identifiable net assets acquired, including intangible assets and liabilities assumed, based on estimated fair values at the date of acquisition. The excess of the purchase price over the fair value of assets acquired and liabilities assumed, if any, is recorded as goodwill.
+Unanticipated events and circumstances that occur could affect the accuracy or validity of such assumptions, estimates or actual results. All subsequent changes to the estimated fair values of the acquired assets and liabilities assumed that occur within the measurement period and are based on facts and circumstances that existed at the acquisition date are recognized as an adjustment to goodwill.
+Determining the fair value of assets acquired and liabilities assumed requires significant judgment, including the selection of a valuation methodology, the estimate of future revenues and cash flows and discount rates. The assets purchased and liabilities assumed are reflected in our consolidated balance sheet and the results are included in the consolidated statements of operations from the date of acquisition. We have amortized intangible assets over their estimated useful lives on a straight-line basis.
+Acquisition-related transaction costs, including legal and accounting fees and other external costs that are directly related to the acquisition, are recognized separately from the acquisition and are expensed as incurred, primarily in general and administrative expense in the consolidated statements of operations.
+We record estimates as of the acquisition date and reassess the estimates at each reporting period up to one year after the acquisition date. Changes in estimates made prior to finalization of purchase accounting are recorded to goodwill.
+Asset acquisitions
+The Company evaluates whether substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar identifiable assets to determine whether a transaction is accounted for as a business combination or an asset acquisition.
+The Company accounts for asset acquisitions using a cost accumulation model whereby the cost of the acquisition, including direct transaction costs, is allocated to the acquired assets based on their relative fair values. The asset acquisition cost or consideration transferred on the acquisition date is generally used in determining the fair value of the net assets
+55
+Table of Contents
+acquired. The Company allocates the consideration transferred between the asset acquired and any separate related transactions on a relative fair value basis. Goodwill is not recognized in an asset acquisition and any excess consideration transferred over the fair value of the net assets acquired is allocated to the identifiable assets based on relative fair values.
+Goodwill and intangible assets
+Goodwill
+Goodwill
+Balance at December 31, 2021
+$ | 435,601
+Impairment charge | (225,163)
+Balance at December 31, 2022
+$ | 210,438
+Balance at December 31, 2023
+$ | 210,438
+Goodwill represents the excess of the purchase price over the estimated fair value of net tangible and identifiable intangible assets acquired in business combinations. The recognition of goodwill represents the strategic and synergistic benefits we expect to realize from acquisitions. During 2022, our goodwill balance was allocated between our two reporting units, Squarespace and Tock. We allocated goodwill generated directly from the acquisition of Tock which occurred in March 2021 to the Tock reporting unit. Goodwill allocated to the Squarespace reporting unit represented the goodwill from previous acquisitions that had been integrated into our operations. During the year ended December 31, 2023, the Company revised its operating segments to reflect changes to the manner in which the chief operating decision maker (“CODM”) assesses performance and makes resource allocations. As a result of these changes, as of December 31, 2023, the Company is operating as one operating segment with one reportable segment.
+Our goodwill balance is tested for impairment at least annually during the fourth quarter for our identified reporting units. If events or indicators of impairment occur between annual impairment analysis, we perform an impairment analysis of goodwill as of that date. These events or circumstances could include a significant change in the economic environment, legal factors, operating performance indicators, competition or sale or disposition of a significant asset.
+The process of evaluating the potential impairment of goodwill is subjective and requires significant judgment at many points during the analysis, including the identification of reporting units, identification and allocation of the assets and liabilities to reporting units and determination of fair value. In conducting the annual impairment test, we first review qualitative factors to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying amount. If factors indicate that the fair value of the reporting unit is less than its carrying amount, a quantitative assessment is performed and the fair value of the reporting unit is estimated using a combination of the income approach and the market valuation approach which uses publicly traded multiples in similar businesses. This analysis requires significant judgments and estimates, including estimation of future cash flows based on internally developed forecasts, long-term growth rates for the business and the determination of the weighted-average cost of capital adjusted for the reporting unit being tested. If the carrying value of the reporting unit continues to exceed its fair value, the implied fair value of the reporting unit’s goodwill is calculated and an impairment loss equal to the excess is recorded. Changes in judgment on these assumptions and estimates could result in goodwill impairment charges.
+Fiscal year 2023 goodwill impairment test
+During the fourth quarter of 2023, based on a qualitative impairment assessment, we determined that it was more likely than not that the fair value of our reporting unit was greater than its carrying amount. As a result, no further quantitative test of recoverability was required and no goodwill impairment charge was recorded during the year ended December 31, 2023.
+Fiscal year 2022 goodwill impairment test
+During the fourth quarter of 2022, we elected to bypass the optional qualitative test for impairment and proceeded to a quantitative test of the recoverability of our goodwill balance for each of our two reporting units, and as a result, recognized an impairment charge of $225.2 million for our Tock reporting unit for the year ended December 31, 2022. The charge was primarily due to market values deteriorating subsequent to the Tock acquisition as well as the result of a change
+56
+Table of Contents
+in product strategy during the fourth quarter of 2022 as the result of the departure of certain members of management. The following were key assumptions used in determining the fair value of each of our reporting unit’s goodwill:
+Squarespace | Tock
+Weighted average cost of capital | 11% | 16%
+Terminal value | 4.3x | 3%
+Revenue growth rates | 10% to 11% | 10% to 35%
+After the impairment of $225.2 million for our Tock reporting unit, the fair value of the reporting unit approximated its carrying value. Our analysis did not indicate impairment of our Squarespace reporting unit and the fair value of the reporting unit was approximately 53 times its carrying value.
+We believe that the assumptions and estimates utilized were appropriate based on the information that was available to management. Unfavorable changes in certain of these key assumptions may affect future testing results. For example, a 50-basis point change in the weighted average cost of capital for our Tock reporting unit would change our impairment by approximately $5.0 million. However, given the amount by which the fair value exceeds the carrying value of the Squarespace reporting unit, changes in assumptions would not have significantly impacted the results of our impairment test.
+Intangible assets
+Intangible assets with finite lives are amortized or depreciated over their estimated useful life on a straight-line basis. We monitor conditions related to these assets to determine whether the events and circumstances warrant a revision to the remaining amortization period. We test these assets for potential impairment whenever we conclude events or changes in circumstances (triggering event) indicate that the carrying amount may not be recoverable. The impairment test requires a comparison of the estimated undiscounted future cash flows expected to be generated over the useful life of an asset group to the carrying amount of the asset group. An asset group is generally established by identifying the lowest level of cash flows generated by a group of assets that are largely independent of the cash flows of other assets. If the carrying amount of an asset group exceeds the estimated undiscounted future cash flows, an impairment is measured as the difference between the fair value of the asset group and the carrying amount of the asset group. Determining whether a long-lived asset is impaired requires various estimates and assumptions, including whether a triggering event occurred, the identification of asset groups, estimates of future cash flows and the discount rate used to determine fair values.
+Capitalized software costs
+We capitalize certain costs in obtaining or developing software for internal use when (i) the preliminary project stage is completed, (ii) management has authorized further allocation of resources for the completion of the project and (iii) it is probable that the project will be completed and the software will be used to perform its intended function. These capitalized costs include personnel and related expenses for employees as well as costs of third-party contractors who are directly associated with and who devote time to internal-use software projects. These development stage costs exclude costs associated with training personnel and time spent on data conversion. Capitalization of these costs cease once the project is substantially complete and the software is ready for its intended function. Costs incurred for post-configuration training, maintenance and minor modifications are expensed as incurred. Costs incurred for significant upgrades and enhancements are capitalized. Capitalized software development costs are amortized using the straight-line method over an estimated useful life of three years. Capitalized software costs are tested for impairment when events or changes in circumstances occur that could impact the recoverability of the assets. Capitalized costs related to internally developed software are recorded as property and equipment, net in the consolidated balance sheets.
+Stock-based compensation
+Stock-based compensation cost for service-based and performance based awards, including restricted stock units, are measured at fair value on the grant date and recognized over the requisite service period, net of forfeitures. Forfeitures are recorded as they occur. The fair value of restricted stock units are estimated on the date of grant based on the fair value of our common stock. Compensation costs for performance-based awards are recognized when the achievement of a performance target becomes probable. Quarterly, we reassess the probability of each possible outcome and, if applicable, recognizes a cumulative adjustment for any changes to the previously determined expectation using the grant date fair value of the award.
+Stock-based compensation costs for market-based awards are measured based on the fair value of the awards at the grant date. The Company determines the grant date fair value using equity valuation models, such as the Monte Carlo simulation, using assumptions and judgments made by management and third-party valuation specialists. The Company
+57
+Table of Contents
+recognizes stock-based compensation expense for market-based awards using the accelerated attribution method over the longer of (i) the period of time the market condition is expected to be met (i.e., the derived service period) or (ii) the service vesting condition period.
+Income taxes
+We recognize deferred income tax assets and liabilities for the expected future tax consequences attributable to both differences between financial statement carrying amounts of existing assets and liabilities and their respective tax basis as well as the existence of any net operating losses and certain income tax credit carryforwards. Income tax assets and liabilities are determined based on the differences between the financial statement and the tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse as well as the expected income tax effects of net operating loss and certain income tax credit carryforwards. Valuation allowances are established, when necessary, to reduce deferred tax assets when we expect the amount of tax benefit to be realized is less than the carrying value of the deferred tax asset. The need for a valuation allowance requires an assessment of both positive and negative evidence when determining whether it is more-likely-than-not that deferred tax assets are recoverable. Such assessment is required on a jurisdiction-by-jurisdiction basis. In making such assessment, significant weight is given to evidence that can be objectively verified.
+We account for uncertainty in income taxes using a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by the taxing authorities. The amount recognized is measured as the largest amount of benefit that has a greater than 50% likelihood of being realized upon ultimate audit settlement.
+Indirect Taxes
+We are subject to indirect taxation laws in some, but not all, of the various U.S. states and foreign jurisdictions in which we conduct business. Therefore, we have an obligation to charge, collect and remit Value Added Tax (“VAT”) or Goods and Services Tax (“GST”) in connection with certain foreign sales transactions and sales and use tax in connection with eligible sales to subscribers in certain U.S. states. U.S. states and foreign jurisdictions have and continue to enact laws which expand tax collection and remittance obligations that could apply to a platform like ours. Given the scope of our operations, taxing authorities continue to provide regulations that increase the complexity and risks to comply with such laws and could result in substantial liabilities, prospectively as well as retrospectively.
+We establish accruals for contingencies, including uncertainties related to taxes not based on income, when we believe it is probable that a loss has been incurred and the amount of the loss can be reasonably estimated. Based on the information available, we continue to evaluate and assess the jurisdictions in which indirect tax nexus exists and believe that the indirect tax liabilities are adequate and reasonable. However, due to the complexity and uncertainty around the application of these rules by taxing authorities, results may vary materially from our expectations.
+Recently Issued Accounting Standards
+A discussion of recent accounting pronouncements is included in “Item 8. Financial Statements and Supplemental Data, Note 2. Summary of Significant Accounting Policies” to our audited consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+Foreign currency exchange risk
+While we generate the majority of our revenue in U.S. dollars, a portion of our revenue is denominated in Euros. For the years ended December 31, 2023, 2022 and 2021, 71.7%, 71.8% and 69.4% of our revenue was denominated in U.S. dollars, respectively. For the years ended December 31, 2023, 2022 and 2021, 28.3%, 28.2% and 30.6% of our revenue was denominated in Euros, respectively. As a result, changes in foreign currency exchange rates can have an impact on our results of operations. Transaction (losses)/gains for the years ended December 31, 2023, 2022 and 2021 were $(4.0) million, $3.3 million and $6.4 million, respectively, and are included in other income, net in the consolidated statements of operations. As we expand globally, we will be further exposed to fluctuations in currency exchange rates.
+The assets and liabilities of our international subsidiaries are denominated in the local currencies of the countries in which they operate. Accordingly, assets and liabilities of our subsidiaries are translated into U.S. dollars at exchange rates in effect on the applicable balance sheet date. Income and expense items are translated at average exchange rates for the
+58
+Table of Contents
+applicable period. Foreign currency translation adjustments are included in accumulated other comprehensive loss in the consolidated balance sheets.
+We currently do not hedge foreign currency exposure. We may in the future hedge our foreign currency exposure and may use currency forward contracts, currency options or other common derivative financial instruments to reduce foreign currency risk. It is difficult to predict the effect that future hedging activities would have on our results of operations.
+Interest rate sensitivity
+We had cash equivalents totaling $194.2 million as of December 31, 2023. Our cash equivalents are held for working capital purposes. Any investments in marketable securities are made for capital preservation purposes. We do not enter into investments for trading or speculative purposes. Our cash equivalents and any portfolio of marketable securities are subject to market risk due to changes in interest rates. Fixed rate securities may have their market value adversely affected due to a rise in interest rates. Our future investment income may fall short of our expectations due to changes in interest rates or we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates.
+Borrowings under the Credit Agreement were subject to an interest rate equal to, at our option, LIBOR or ABR, in either case, plus an applicable margin. Effective June 30, 2023, LIBOR as the benchmark rate was replaced with SOFR. Based on the outstanding balance of the Credit Agreement as of December 31, 2023, for every 100 basis point increase in SOFR or ABR, we would incur approximately $5.7 million of additional annual interest expense. We currently do not hedge interest rate exposure. We may in the future hedge our interest rate exposure and may use swaps, caps, collars, structured collars or other common derivative financial instruments to reduce interest rate risk. It is difficult to predict the effect that future hedging activities would have on our results of operations.
+Credit risk
+We maintain components of our cash and cash equivalents balance in various accounts, which from time to time exceed the federal depository insurance coverage limit. In addition, substantially all of our cash and cash equivalents are held by four financial institutions that we believe are of high credit quality. We have not experienced any losses on our deposits of cash and cash equivalents and accounts are monitored by our management team to mitigate risk. We are exposed to credit risk in the event of default by the financial institution holding our cash and cash equivalents or an event of default by the issuers of any corporate bonds and commercial paper we could potentially hold.
+59
+Table of Contents
+Item 8. Financial Statements and Supplementary Data
+SQUARESPACE, INC.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Page
+Reports of Independent Registered Public Accounting Firm (PCAOB ID: 42)
+61
+Consolidated Balance Sheets as of December 31, 2023 and 2022
+64
+Consolidated Statements of Operations for the Fiscal Years Ended December 31, 2023, 2022 and 2021
+65
+Consolidated Statements of Comprehensive Loss for the Fiscal Years Ended December 31, 2023, 2022 and 2021
+66
+Consolidated Statements of Changes in Redeemable Convertible Preferred Stock and Stockholders’ Deficit for the Fiscal Years Ended December 31, 2023, 2022 and 2021
+67
+Consolidated Statements of Cash Flows for the Fiscal Years Ended December 31, 2023, 2022 and 2021
+68
+Notes to Consolidated Financial Statements
+69
+60
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and the Board of Directors of Squarespace, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Squarespace, Inc. (the Company) as of December 31, 2023 and 2022, the related consolidated statements of operations, comprehensive loss, changes in redeemable convertible preferred stock and stockholders' deficit and cash flows for each of the three years in the period ended December 31, 2023, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2023 and 2022, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2023, in conformity with U.S. generally accepted accounting principles.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2023, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated February 28, 2024 expressed an unqualified opinion thereon.
+Adoption of ASU No. 2016-02
+As discussed in Note 2 to the consolidated financial statements, the Company changed its method of accounting for leases in 2022 due to the adoption of ASU No. 2016-02, Leases (Topic 842), and the related amendments.
+Basis for Opinion
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated
+61
+Table of Contents
+financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
+Revenue Recognition
+Description of the Matter
+For the year ended December 31, 2023, the Company recognized revenue of $1.01 billion. As disclosed in Note 2 to the consolidated financial statements, the Company primarily derives revenue from annual and monthly subscriptions. Revenue is also derived from non-subscription services, including fixed percentages or fixed-fees earned on revenue share arrangements with third-parties and on sales made through the Company’s customers’ sites.
+Auditing management’s recognition of revenue was challenging because of the higher extent of audit effort as a result of the high volume of the Company’s revenue contracts.
+How We Addressed the Matter in Our Audit | To test the Company’s revenue recognition, our audit procedures included, among others, performing correlation analysis between revenues recognized and cash receipts. Additionally, we tested the Company’s reconciliation of revenues recognized to cash received, tested a sample of revenue transactions by recalculating the amount of revenue recognized based upon the contract terms, and inspected a sample of contracts.
+/s/ Ernst & Young LLP
+We have served as the Company’s auditor since 2015.
+New York, New York
+February 28, 2024
+62
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and the Board of Directors of Squarespace, Inc.
+Opinion on Internal Control Over Financial Reporting
+We have audited Squarespace, Inc.’s internal control over financial reporting as of December 31, 2023, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Squarespace, Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2023, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2023 and 2022, the related consolidated statements of operations, comprehensive loss, changes in redeemable convertible preferred stock and stockholders' deficit and cash flows for each of the three years in the period ended December 31, 2023, and the related notes and our report dated February 28, 2024 expressed an unqualified opinion thereon.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+New York, New York
+February 28, 2024
+63
+Table of Contents
+SQUARESPACE, INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share and per share data)
+December 31, 2023 | December 31, 2022
+Assets
+Current assets:
+Cash and cash equivalents | $ | 257,702 | $ | 197,037
+Restricted cash | 36,583 | 35,583
+Investment in marketable securities | — | 31,757
+Accounts receivable | 24,894 | 10,748
+Due from vendors | 6,089 | 4,442
+Prepaid expenses and other current assets | 48,947 | 48,326
+Total current assets | 374,215 | 327,893
+Property and equipment, net | 58,211 | 51,633
+Operating lease right-of-use assets | 77,764 | 86,824
+Goodwill | 210,438 | 210,438
+Intangible assets, net | 190,103 | 42,808
+Other assets | 11,028 | 10,921
+Total assets | $ | 921,759 | $ | 730,517
+Liabilities, Redeemable Convertible Preferred Stock and Stockholders’ Deficit
+Current liabilities:
+Accounts payable | $ | 12,863 | $ | 12,987
+Accrued liabilities | 99,435 | 64,360
+Deferred revenue | 333,191 | 269,689
+Funds payable to customers | 42,672 | 38,845
+Debt, current portion | 48,977 | 40,758
+Operating lease liabilities, current portion | 12,640 | 11,514
+Total current liabilities | 549,778 | 438,153
+Deferred income taxes, non-current portion | 1,039 | 788
+Debt, non-current portion | 519,816 | 473,167
+Operating lease liabilities, non-current portion | 97,714 | 110,169
+Other liabilities | 13,764 | 11,231
+Total liabilities | 1,182,111 | 1,033,508
+Commitments and contingencies (see Note 13)
+Redeemable convertible preferred stock, par value of $0.0001; zero shares authorized as of December 31, 2023 and 2022, respectively; zero shares issued and outstanding as of December 31, 2023 and 2022, respectively
+— | —
+Preferred stock, par value of $0.0001; 100,000,000 shares authorized as of December 31, 2023 and 2022, respectively; zero shares issued and outstanding as of December 31, 2023 and 2022, respectively
+— | —
+Stockholders’ deficit:
+Class A common stock, par value of $0.0001; 1,000,000,000 shares authorized as of December 31, 2023 and 2022, respectively; 88,545,012 and 87,754,534 shares issued and outstanding as of December 31, 2023 and 2022, respectively
+9 | 8
+Class B common stock, par value of $0.0001; 100,000,000 shares authorized as of December 31, 2023 and 2022, respectively; 47,844,755 shares issued and outstanding as of December 31, 2023 and 2022, respectively
+5 | 5
+Class C common stock (authorized March 15, 2021), par value of $0.0001; zero shares authorized as of December 31, 2023 and 2022, respectively; zero shares issued and outstanding as of December 31, 2023 and 2022, respectively
+— | —
+Class C common stock (authorized May 10, 2021), par value of $0.0001; 1,000,000,000 shares authorized as of December 31, 2023 and 2022, respectively; zero shares issued and outstanding as of December 31, 2023 and 2022, respectively
+— | —
+Additional paid in capital | 924,634 | 875,737
+Accumulated other comprehensive loss | (843) | (1,665)
+Accumulated deficit | (1,184,157) | (1,177,076)
+Total stockholders’ deficit | (260,352) | (302,991)
+Total liabilities, redeemable convertible preferred stock and stockholders’ deficit | $ | 921,759 | $ | 730,517
+The accompanying notes are an integral part of these consolidated financial statements.
+64
+Table of Contents
+SQUARESPACE, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except share and per share data)
+Years Ended December 31,
+2023 | 2022 | 2021
+Revenue | $ | 1,012,336 | $ | 866,972 | $ | 784,038
+Cost of revenue | 207,520 | 152,655 | 126,631
+Gross profit | 804,816 | 714,317 | 657,407
+Operating expenses:
+Research and product development | 242,188 | 227,297 | 190,371
+Marketing and sales | 349,574 | 322,051 | 339,965
+General and administrative | 129,326 | 151,620 | 367,945
+Impairment charge | — | 225,163 | —
+Total operating expenses | 721,088 | 926,131 | 898,281
+Operating income/(loss) | 83,728 | (211,814) | (240,874)
+Interest expense | (36,768) | (18,207) | (11,081)
+Other income, net | 3,362 | 5,030 | 6,631
+Income/(loss) before provision for income taxes | 50,322 | (224,991) | (245,324)
+Provision for income taxes | (57,403) | (27,230) | (3,825)
+Net loss | $ | (7,081) | $ | (252,221) | $ | (249,149)
+Less: accretion of redeemable convertible preferred stock to redemption value | — | — | (969)
+Net loss attributable to Class A, Class B, Class C common stockholders, basic and dilutive | (7,081) | (252,221) | (250,118)
+Net loss per share attributable to Class A, Class B and Class C common stockholders, basic and dilutive | $ | (0.05) | $ | (1.82) | $ | (2.60)
+Weighted-average shares used in computing net loss per share attributable to Class A, Class B and Class C common stockholders, basic and dilutive | 135,531,363 | 138,409,491 | 96,234,381
+The accompanying notes are an integral part of these consolidated financial statements.
+65
+Table of Contents
+SQUARESPACE, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+(in thousands)
+Years Ended December 31,
+2023 | 2022 | 2021
+Net loss | $ | (7,081) | $ | (252,221) | $ | (249,149)
+Other comprehensive income/(loss):
+Foreign currency translation adjustment | 606 | (1,279) | (2,511)
+Unrealized gain/(loss) on marketable securities, net of income taxes | 216 | (178) | (152)
+Total other comprehensive income/(loss) | 822 | (1,457) | (2,663)
+Total comprehensive loss | $ | (6,259) | $ | (253,678) | $ | (251,812)
+The accompanying notes are an integral part of these consolidated financial statements.
+66
+Table of Contents
+SQUARESPACE, INC.
+CONSOLIDATED STATEMENTS OF CHANGES IN REDEEMABLE CONVERTIBLE
+PREFERRED STOCK AND STOCKHOLDERS’ DEFICIT
+(in thousands, except share data)
+Redeemable
+Convertible
+Preferred
+Stock
+Class A
+Common Stock
+Class B
+Common Stock
+Class C
+Common Stock
+Additional Paid
+in Capital
+Accumulated Other Comprehensive Income/(Loss)
+Accumulated
+Deficit
+Total
+Stockholders’ Deficit
+Shares | Amount | Shares | Amount | Shares | Amount | Shares | Amount
+Balance at December 31, 2020
+104,446,332 | $ | 131,390 | 8,903,770 | $ | 1 | 14,368,532 | $ | 1 | — | $ | — | $ | 9,043 | $ | 2,455 | $ | (675,706) | $ | (664,206)
+Stock-based compensation | — | — | — | — | — | — | — | — | 308,304 | — | — | 308,304
+Stock option exercises | — | — | 1,551,185 | — | 1,775,171 | — | — | — | 4,760 | — | — | 4,760
+Vested RSUs converted to common shares
+— | — | 1,661,752 | — | — | — | — | — | — | — | — | —
+Taxes paid related to net share settlement of equity awards
+— | — | (737,715) | — | — | — | — | — | (34,503) | — | — | (34,503)
+Conversion of convertible preferred stock to Class A and Class B common stock in connection with the direct listing | (104,446,332) | (132,359) | 54,862,435 | 6 | 49,583,897 | 5 | — | — | 132,348 | — | — | 132,359
+Conversion of Class B common stock to Class A common stock in connection with the direct listing | — | — | 17,382,845 | 1 | (17,382,845) | (1) | — | — | — | — | — | —
+Conversion of Class C common stock to Class A common stock in connection with the direct listing | — | — | 7,202,353 | 1 | — | — | (7,202,353) | (1) | — | — | — | —
+Issuance of Class C common stock, net of issuance costs | — | — | — | — | — | — | 4,452,023 | — | 304,409 | — | — | 304,409
+Issuance of Class C common stock for acquisition | — | — | — | — | — | — | 2,750,330 | 1 | 188,178 | — | — | 188,179
+Accretion of redeemable convertible preferred stock
+— | 969 | — | — | — | — | — | — | (969) | — | — | (969)
+Net loss | — | — | — | — | — | — | — | — | — | — | (249,149) | (249,149)
+Total other comprehensive loss, net of taxes | — | — | — | — | — | — | — | — | — | (2,663) | — | (2,663)
+Balance at December 31, 2021
+— | $ | — | 90,826,625 | $ | 9 | 48,344,755 | $ | 5 | — | $ | — | $ | 911,570 | $ | (208) | $ | (924,855) | $ | (13,479)
+Stock-based compensation | — | — | — | — | — | — | — | — | 103,513 | — | — | 103,513
+Stock option exercises | — | — | 674,773 | — | — | — | — | — | 2,251 | — | — | 2,251
+Vested RSUs converted to common shares | — | — | 2,209,501 | — | — | — | — | — | — | — | — | —
+Taxes paid related to net share settlement of equity awards
+— | — | (925,179) | — | — | — | — | — | (21,404) | — | — | (21,404)
+Repurchase and retirement of Class A common stock | — | — | (5,531,186) | (1) | — | — | — | — | (120,193) | — | — | (120,194)
+Conversion of Class B common stock to Class A common stock | — | — | 500,000 | — | (500,000) | — | — | — | — | — | — | —
+Net loss | — | — | — | — | — | — | — | — | — | — | (252,221) | (252,221)
+Total other comprehensive loss, net of taxes | — | — | — | — | — | — | — | — | — | (1,457) | — | (1,457)
+Balance at December 31, 2022
+— | $ | — | 87,754,534 | $ | 8 | 47,844,755 | $ | 5 | — | $ | — | $ | 875,737 | $ | (1,665) | $ | (1,177,076) | $ | (302,991)
+Stock-based compensation | — | — | — | — | — | — | — | — | 111,689 | — | — | 111,689
+Stock option exercises | — | — | 63,911 | — | — | — | — | — | 188 | — | — | 188
+Vested RSUs converted to common shares | — | — | 3,363,291 | 1 | — | — | — | — | — | — | — | 1
+Taxes paid related to net share settlement of equity awards | — | — | (1,357,468) | — | — | — | — | — | (36,707) | — | — | (36,707)
+Repurchase and retirement of Class A common stock | — | — | (1,279,256) | — | — | — | — | — | (25,989) | — | — | (25,989)
+Excise tax on repurchase of Class A common stock | — | — | — | — | — | — | — | — | (284) | — | — | (284)
+Net loss | — | — | — | — | — | — | — | — | — | — | (7,081) | (7,081)
+Total other comprehensive income, net of taxes | — | — | — | — | — | — | — | — | — | 822 | — | 822
+Balance at December 31, 2023
+— | $ | — | 88,545,012 | $ | 9 | 47,844,755 | $ | 5 | — | $ | — | $ | 924,634 | $ | (843) | $ | (1,184,157) | $ | (260,352)
+The accompanying notes are an integral part of these consolidated financial statements.
+67
+Table of Contents
+SQUARESPACE, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Years Ended December 31,
+2023 | 2022 | 2021
+OPERATING ACTIVITIES:
+Net loss | $ | (7,081) | $ | (252,221) | $ | (249,149)
+Adjustments to reconcile net loss to net cash provided by operating activities:
+Depreciation and amortization | 43,927 | 31,617 | 32,720
+Stock-based compensation | 107,749 | 102,533 | 307,924
+Impairment charge | — | 225,163 | —
+Deferred income taxes | 251 | 788 | 3,196
+Non-cash lease (income)/expense | (2,286) | 2,227 | —
+Other | 831 | 832 | 1,181
+Changes in operating assets and liabilities:
+Accounts receivable and due from vendors | (15,678) | (5,461) | 712
+Prepaid expenses and other current assets | (458) | 3,699 | (35,423)
+Accounts payable and accrued liabilities | 33,519 | (2,215) | 14,525
+Deferred revenue | 61,364 | 39,464 | 29,364
+Funds payable to customers | 3,827 | 8,707 | 10,726
+Other operating assets and liabilities | 5,152 | 9,086 | 7,381
+Net cash provided by operating activities | 231,117 | 164,219 | 123,157
+INVESTING ACTIVITIES:
+Proceeds from the sale and maturities of marketable securities | 39,664 | 27,193 | 34,155
+Purchases of marketable securities | (7,824) | (27,681) | (28,694)
+Cash paid for acquisitions, net of acquired cash
+(176,721) | — | (202,170)
+Purchase of property and equipment | (16,998) | (11,543) | (11,021)
+Net cash used in investing activities | (161,879) | (12,031) | (207,730)
+FINANCING ACTIVITIES:
+Borrowings on Term Loan | 99,444 | — | —
+Payments of debt issuance costs | (637) | — | —
+Principal payments on debt | (44,867) | (13,586) | (13,586)
+Payments for repurchase and retirement of Class A common stock | (25,989) | (120,193) | —
+Taxes paid related to net share settlement of equity awards | (36,366) | (21,268) | (34,503)
+Proceeds from exercise of stock options | 228 | 2,211 | 4,760
+Proceeds from issuance of Class C (authorized on March 15, 2021) common stock, net of issuance costs | — | — | 304,409
+Dividends paid | — | — | (367)
+Net cash (used in)/provided by financing activities | (8,187) | (152,836) | 260,713
+Effect of exchange rate changes on cash, cash equivalents and restricted cash | 614 | (412) | (351)
+Net increase/(decrease) in cash, cash equivalents and restricted cash | 61,665 | (1,060) | 175,789
+Cash, cash equivalents and restricted cash at the beginning of the period | 232,620 | 233,680 | 57,891
+Cash, cash equivalents and restricted cash at the end of the period | $ | 294,285 | $ | 232,620 | $ | 233,680
+Reconciliation of cash, cash equivalents and restricted cash:
+Cash and cash equivalents | $ | 257,702 | $ | 197,037 | $ | 203,247
+Restricted cash | 36,583 | 35,583 | 30,433
+Cash, cash equivalents and restricted cash at the end of the period | $ | 294,285 | $ | 232,620 | $ | 233,680
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW
+Cash paid during the year for interest | $ | 35,668 | $ | 17,088 | $ | 10,251
+Cash paid during the year for income taxes, net of refunds | $ | 41,747 | $ | 10,664 | $ | 1,929
+SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES
+Purchases of property and equipment included in accounts payable and accrued liabilities | $ | 129 | $ | 1,784 | $ | 1,994
+Accrued taxes related to net share settlement of equity awards
+$ | 377 | $ | 176 | $ | —
+Non-cash leasehold improvements | $ | — | $ | (5,864) | $ | —
+Capitalized stock-based compensation | $ | 3,940 | $ | 980 | $ | 380
+Issuance of Class C (authorized on March 15, 2021) common stock for acquisition | $ | — | $ | — | $ | 188,179
+The accompanying notes are an integral part of these consolidated financial statements.
+68
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+1
+1. Description of Business
+Squarespace, Inc. and its subsidiaries (the “Company”) is a leading all-in-one platform for businesses and independent creators to build an online presence, grow their brands and manage their businesses across the internet. The Company offers websites, domains, e-commerce, tools for managing a social media presence, marketing tools, scheduling and hospitality services. The Company is headquartered in New York, NY, with additional offices operating in Chicago, IL, Dublin, Ireland and Aveiro, Portugal.
+Direct Listing
+On May 19, 2021, the Company completed a direct listing of its Class A common stock (the “Direct Listing”) on the NYSE. The Company incurred fees related to financial advisory service, audit and legal expenses in connection with the Direct Listing and recorded in general and administrative expenses in the consolidated statement of operations of $25,318 for the year ended December 31, 2021.
+Emerging Growth Company Status
+Upon the completion of the Direct Listing, the Company qualified as an emerging growth company (“EGC”), as defined in the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”). As an EGC, the Company elected to delay the adoption of new or revised accounting standards issued subsequent to the enactment of the JOBS Act until such standards applied to private companies.
+On June 30, 2023, the last business day of the Company’s most recently completed second fiscal quarter, the Company had a public float in excess of $700,000. Effective December 31, 2023, the Company became a large accelerated filer and no longer qualified as an EGC under the JOBS Act. As a result, the Company is required to comply with the adoption requirements of new or revised accounting standards applicable to public companies.
+Acquisitions
+Google Domains Asset Acquisition
+On September 7, 2023, the Company closed an asset purchase agreement with Google LLC ("Google") to acquire, among other things, Google's domain assets, including all domain names for which Google was the registrar or reseller, for a total amount paid of $180,721 (the "Google Domains Asset Acquisition").
+Acquisition of Tock, Inc
+On March 31, 2021, the Company acquired all of the equity interests in Tock, Inc. (“Tock”), a reservation platform for prepaid reservations, access to restaurant management data and other customization features, for a total consideration of $425,710.
+See “Note 4. Acquisitions” for further information on the Google Domains Asset Acquisition and the acquisition of Tock.
+2. Summary of Significant Accounting Policies
+Basis of Presentation and Consolidation
+The Company’s consolidated financial statements and related notes have been prepared in accordance with generally accepted accounting principles in the United States (“U.S. GAAP”) and include the Company’s wholly-owned subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation.
+Functional Currency
+As of December 31, 2023, the Company had six international subsidiaries. The Company wholly owns Squarespace Ireland Limited ("Limited"), based in Ireland, which is the parent of the Company’s major international subsidiaries. The functional currency of the Company’s international subsidiaries is their local currency. Assets and liabilities of Limited are translated into U.S. dollars at exchange rates in effect on the balance sheet date. Retained earnings and other equity items are translated at historical rates, and revenue and expense items are translated at weighted average exchange rates for the period. The resulting translation adjustments are recorded as a component of accumulated other comprehensive loss in
+69
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+stockholders' deficit with the majority of the adjustments derived from Limited. Foreign currency impact on the statement of cash flows is translated into U.S. dollars using average exchange rates for the period, which approximates the timing of cash flows. The Company reports the effect of exchange rate changes on cash, cash equivalents and restricted cash balances held in foreign currencies as a separate item in the reconciliation of the changes in cash, cash equivalents and restricted cash during the period. Transactions denominated in currencies other than the functional currency are remeasured to the functional currency at the exchange rate on the transaction date. Monetary assets and liabilities denominated in currencies other than the functional currency are re-measured at period-end using the period-end exchange rate. Gains and losses resulting from remeasurement are recorded in other income, net in the consolidated statements of operations. Transaction (losses)/gains for the years ended December 31, 2023, 2022 and 2021 were $(3,678), $3,299 and $6,356, respectively.
+Use of Estimates
+The preparation of the consolidated financial statements in conformity with U.S. GAAP requires management to make estimates, judgments and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. Management’s estimates are based on historical experience and on various other market-specific and relevant assumptions that management believes to be reasonable under the circumstances. Actual results could differ from those estimates.
+Significant estimates include but are not limited to (i) the recognition and measurement of loss contingencies; (ii) the inputs used in the valuation of acquired intangible assets; (iii) the inputs used in the quantitative assessment over goodwill impairment (iii) the grant date fair value of stock-based awards; (iv) the recognition, measurement and valuation of current and deferred income taxes; (v) amount of applicable indirect tax nexus in different jurisdictions and associated indirect tax liabilities; and (vi) the incremental borrowing rate for operating lease liabilities. The Company evaluates its assumptions and estimates on an ongoing basis and adjusts prospectively, if necessary.
+Operating Segments and Reporting Units
+Operating segments are defined as components of an enterprise for which separate financial information is evaluated regularly by the chief operating decision maker (“CODM”), who makes decisions about allocating resources and assessing performance. The Company defines its CODM as its Chief Executive Officer (“CEO”). An operating segment is determined to be a reporting unit if all of its components are similar or if it consists of a single component. A component consists of a business within an operating segment for which discrete financial information is available and regularly reviewed by the CODM.
+During the year ended December 31, 2023, the Company revised its operating segments to reflect changes to the manner in which the CODM assesses performance and makes resource allocations. As a result of these changes, the Company is operating as one operating segment with one reportable segment. As of December 31, 2022, the Company’s business operated in two operating segments which, due to the assessed immateriality of its Tock reporting unit, were consolidated into one reportable segment. Therefore, all required segment information as of December 31, 2023, 2022 and 2021 can be found in the consolidated financial statements.
+Concentration of Risks Related to Credit, Interest Rates and Foreign Currencies
+The Company is subject to credit risk, interest rate risk on its outstanding indebtedness, market risk on investments and foreign currency risk in connection with the Company’s operations internationally.
+The Company maintains the components of its cash and cash equivalents balance in various accounts, which from time to time exceed the federal depository insurance coverage limit. In addition, substantially all cash and cash equivalents are held by four financial institutions. The Company has not experienced any concentration losses related to its cash, cash equivalents and marketable securities to date.
+During the years ended December 31, 2023, 2022 and 2021, no single customer accounted for more than 10% of the Company’s revenue. As of December 31, 2023, one customer accounted for 37% of the Company’s accounts receivable. As of December 31, 2022, no single customer accounted for more than 10% of the Company’s accounts receivable.
+The Company is also subject to foreign currency risks that arise from normal business operations. Foreign currency risks include the translation of local currency and intercompany balances established in local customer currencies sold through the Company’s international subsidiaries.
+70
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Cash and Cash Equivalents
+Cash and cash equivalents are stated at fair value. The Company considers all highly liquid investments purchased with an original maturity date of 90 days or less from the date of original purchase to be cash equivalents. Interest income on cash and cash equivalents was $7,394, $1,632 and $536 for the years ended December 31, 2023, 2022 and 2021, respectively, and was included in other income, net in the consolidated statements of operations.
+Restricted Cash and Payment Processing Transactions
+The Company holds funds and processes certain payments for its hospitality services on behalf of its customers consisting of prepayments and associated sales taxes for restaurant reservations, to-go orders and events. While the Company does not have any contractual obligations to hold such cash as restricted, the prepayments for hospitality services were included in restricted cash in the consolidated balance sheets as of December 31, 2023 and 2022. The associated sales taxes processed by the Company were included in cash and cash equivalents in the consolidated balance sheet as of December 31, 2023 and in restricted cash in the consolidated balance sheet as of December 31, 2022.
+In addition, the Company recognized the liability due to restaurant customers in funds payable to customers and the associated sales tax payable in accrued liabilities in the consolidated balance sheets as of December 31, 2023 and 2022. Funds are remitted to the restaurant customers based on the stipulated contract terms. In addition to restricted cash held on behalf of restaurant customers, the Company recognizes in-transit receivables from certain third-party vendors which assist in processing and settling payment transactions due to a clearing period before the related cash is received or settled. In-transit receivables are included in due from vendors in the consolidated balance sheets as of December 31, 2023 and 2022.
+The following table represents the assets and liabilities related to payment processing transactions:
+December 31, 2023 | December 31, 2022
+Restricted cash | $ | 36,583 | $ | 35,583
+Due from vendors | 6,089 | 4,442
+Total payment processing assets | 42,672 | 40,025
+Funds payable to customers | (42,672) | (38,845)
+Sales tax payable | — | (1,180)
+Total payment processing liabilities | (42,672) | (40,025)
+Total payment processing transactions, net | $ | — | $ | —
+Investment in Marketable Securities
+The Company classifies its investment in marketable securities as available for sale securities which are stated at fair value, as determined by quoted market prices. Unrealized gains and losses are included in accumulated other comprehensive loss. Unrealized losses are evaluated for impairment and those considered other than temporarily impaired are included in other income, net in the consolidated statements of operations. Subsequent gains or losses realized upon redemption or sale of these securities in excess or below their adjusted cost basis are also included in other income, net in the consolidated statements of operations. The cost of securities sold is based upon the specific identification method.
+The Company considers all of its investment in marketable securities, irrespective of the maturity date, as available for use in current operations, and therefore classifies these securities within current assets in the consolidated balance sheet.
+Fair Value of Financial Instruments
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs. Accounting Standards Codification (“ASC”) Topic 820,
+71
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Fair Value Measurement, describes a fair value hierarchy based on three levels of inputs, of which the first two are considered observable and the last unobservable, that may be used to measure fair value.
+The three-level hierarchy for fair value measurements is defined as follows:
+Level 1 Inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets;
+Level 2 Inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the asset or liability other than quoted prices, either directly or indirectly, including inputs in markets that are not considered to be active; and
+Level 3 Inputs to the valuation methodology are unobservable and significant to the fair value measurement.
+Accounts Receivable
+Accounts receivable consists of receivables from third-party credit card processors and other trade receivables. Accounts receivable are recorded at the invoiced amount and do not bear interest. There was no allowance for doubtful accounts as of December 31, 2023 and 2022.
+Property and Equipment, net
+Property and equipment is carried at cost and is depreciated over its estimated useful life using the straight-line method beginning on the date the asset is placed in service. Leasehold improvements are amortized using the straight-line method over the shorter of the remaining lease term or the estimated useful life. The Company regularly evaluates the estimated remaining useful lives of its property and equipment to determine whether events or changes in circumstances warrant a revision to the remaining period of depreciation. Cost and the related accumulated depreciation and amortization are deducted from property and equipment, net in the consolidated balance sheets upon retirement. Maintenance and repairs are charged to expense when incurred.
+Capitalized Software Development Costs
+The Company capitalizes certain software development costs, including employee-related expenses such as salaries and stock-based compensation, incurred in connection with adding functionality to its platform, as well as internal-use projects during the application development stage. These capitalized costs are included in property and equipment, net in the consolidated balance sheets and are amortized on a straight-line basis over an estimated useful life of three years.
+Software development costs incurred during planning and maintenance and minor upgrades and enhancements of software without additional functionality are expensed as incurred.
+Business Combinations and Asset Acquisitions
+The Company evaluates whether substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar identifiable assets to determine whether a transaction is accounted for as a business combination or an asset acquisition.
+The Company accounts for business combinations under the acquisition method of accounting. The Company includes the results of operations of acquired businesses in its consolidated financial statements as of the respective dates of acquisition. The purchase price is allocated to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values as of the acquisition date, with the excess recorded to goodwill. Critical estimates used in valuing certain acquired intangible assets include, but are not limited to, future expected cash flows (e.g., from customer relationships or technology) and discount rates. The determination of the acquisition date fair value of tangible and intangible assets acquired requires considerable judgment and is sensitive to changes in underlying assumptions. During the measurement period, which will not exceed one year from closing, the Company will continue to obtain information to assist in finalizing the acquisition date fair values. Any qualifying changes to preliminary estimates will be recorded as adjustments to the respective assets and liabilities, with any residual amounts allocated to goodwill. Transaction costs are expensed as incurred.
+The Company accounts for asset acquisitions using a cost accumulation model whereby the cost of the acquisition, including direct transaction costs, is allocated to the acquired assets based on their relative fair values. The asset acquisition cost or consideration transferred on the acquisition date is generally used in determining the fair value of the net assets
+72
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+acquired. The Company allocates the consideration transferred between the asset acquired and any separate related transactions on a relative fair value basis. Goodwill is not recognized in an asset acquisition and any excess consideration transferred over the fair value of the net assets acquired is allocated to the identifiable assets based on relative fair values.
+Goodwill
+Goodwill represents the excess of the purchase price over the estimated fair value of net tangible and identifiable intangible assets acquired in business combinations. The recognition of goodwill represents the strategic and synergistic benefits the Company expects to realize from acquisitions. Goodwill is not amortized to earnings, rather, assessed for impairment annually during the fourth quarter for its reporting units. The Company also performs an assessment at other times if events or changes in circumstances indicate the carrying value of the assets may not be recoverable.
+In conducting the annual impairment test, the Company first reviews qualitative factors to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying amount. If factors indicate that the fair value of the reporting unit is less than its carrying amount, a quantitative assessment is performed and the fair value of the reporting unit is estimated using a combination of a discounted cash flow methodology and the market valuation approach using publicly traded multiples in similar businesses. This analysis requires significant judgments and estimates, including estimation of future cash flows based on internally developed forecasts, long-term growth rates for the business and the determination of the weighted-average cost of capital adjusted for the reporting unit being tested. If the carrying value of the reporting unit continues to exceed its fair value, the implied fair value of the reporting unit’s goodwill is calculated and an impairment loss equal to the excess is recorded.
+The Company’s analyses did not indicate impairment of goodwill during the years ended December 31, 2023 and 2021. During the year ended December 31, 2022, the Company recorded a goodwill impairment charge of $225,163. See “Note 9. Goodwill and Intangible Assets, Net” for further information.
+Intangible Assets
+The Company’s intangible assets are finite-lived and are amortized on a straight-line basis over their estimated useful lives, which are aligned to the economic benefit of the asset.
+Long-Lived Assets
+Long-lived assets or asset groups are reviewed periodically for impairment whenever events or changes in circumstances indicate the carrying amount of an asset or asset group may not be fully recoverable. Upon occurrence, recoverability is measured by comparing the sum of the undiscounted expected future cash flows the asset or asset group is expected to generate to its carrying amount. If the carrying amount of the asset or asset group exceeds its undiscounted expected future cash flows, an impairment loss is recognized in the amount of the excess of the carrying amount over the fair value. Any impairments are treated as permanent reductions in the carrying amount of the respective asset.
+There were no material impairments of long-lived assets recorded during the years ended December 31, 2023 and 2021. See “Note 8. Property and Equipment, Net” and “Note 14. Leases” for further information on impairments of long-lived assets recorded during the year ended December 31, 2022.
+As of December 31, 2023 and 2022, the Company did not have material long-lived assets located outside of the United States.
+Leases
+ASC Topic 842, Leases
+The Company adopted ASC Topic 842, Leases ("ASC Topic 842"), as of January 1, 2022. The Company determines if an arrangement is or contains a lease at inception by assessing whether the arrangement conveys the right to control the use of an identified asset. The Company classifies, measures and recognizes a lease liability on the lease commencement date based on the present value of lease payments over the remaining lease term. As of December 31, 2023 and 2022, the Company’s leases were classified as operating leases. The Company uses an estimated incremental borrowing rate based on information available at the lease commencement date in determining the present value of future payments as the rate implicit in the lease is not generally known. The incremental borrowing rate is based on the rate of interest the Company would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment. Operating right-of-use assets related to operating lease liabilities equal the amount of the
+73
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+initial measurement of the lease liability adjusted for any initial direct costs, prepaid rent and lease incentives received. Lease terms that are used in determining operating lease liabilities at lease inception may include options to extend or terminate the leases and when it is reasonably certain that the Company will exercise such options. Operating lease expense is recorded on a straight-line basis over the lease term. The straight-line expense is allocated in the consolidated statements of operations based on departmental employee headcount. Variable lease costs are recognized as incurred and allocated in the consolidated statements of operations based on departmental employee headcount. The Company has applied practical expedients for lease agreements with lease and non-lease components, and in such cases, accounts for the components as a single lease component. The Company has also elected not to recognize operating right-of-use assets and operating lease liabilities for any lease with an original lease term of less than one year.
+Operating lease right-of-use assets are included in non-current assets in the consolidated balance sheets for the entire lease term. The Company includes the portion of the total lease payments, net of implicit interest, that are due in the next 12 months in current liabilities and the remaining portion in non-current liabilities in the consolidated balance sheets. The difference between straight-line lease expense and the cash paid for leases is included as non-cash lease expense in the adjustments to reconcile net loss to net cash provided by operating activities in the consolidated statements of cash flows.
+Operating sublease income is recognized on a straight-line basis over the sublease term and is allocated in the consolidated statements of operations based on departmental employee headcount.
+ASC Topic 840, Leases
+Prior to the adoption of ASC Topic 842, the Company categorized leases at their inception as either operating or capital leases in accordance with ASC Topic 840, Leases. In the ordinary course of business, the Company enters into long term operating leases for office space. In addition to the Company’s headquarters located in New York, NY, the Company had office leases in Portland, OR, Los Angeles, CA, Chicago, IL and Dublin, Ireland as of December 31, 2021, all of which included varying commencement and expiration dates. The Company recognized rent expense on a straight-line basis over the lease period and accrued for rent expense as incurred, but not paid. Any related lease incentives were recorded as a reduction in rent expense on a straight-line basis over the lease term. The Company classified deferred rent and lease incentives as current based on the rent expense that would have been recognized during the succeeding twelve-month period from the balance sheet date. All other deferred rent and lease incentives were recorded as non-current in the consolidated balance sheets. The Company recognized any sublease rental income on a straight-line basis as an offset to rent expense.
+Revenue Recognition
+The Company primarily derives revenue from annual and monthly subscriptions. Revenue is also derived from non-subscription services, including fixed percentages or fixed-fees earned on revenue share arrangements with third-parties and on sales made through the Company’s customers’ sites.
+Revenue is recognized when control of the promised services is transferred to the customer, in an amount reflecting the consideration the Company expects to be entitled to in exchange for those services. Revenue is recognized net of expected refunds and any sales or indirect taxes collected from customers, which are subsequently remitted to governmental authorities. The Company typically receives payment at the time of sale and its customer arrangements do not include a significant financing component. The majority of the Company’s customer arrangements and the period between customer payment and transfer of control of the service is expected to be one year or less. Payments received in advance of transfer of control or satisfaction of the related performance obligation are recorded as deferred revenue with the aggregate amount representing the transaction price allocated to those performance obligations that are partially or fully unsatisfied. Subscription plans automatically renew unless advance notice is provided to the Company.
+Arrangements with the Company’s customers do not represent a license and do not provide the customer with the right to take possession of the software supporting the Company’s SaaS-based technology platform or products at any time.
+The Company determines revenue recognition through the following steps:
+•identification of the contract, or contracts, with a customer;
+•identification of the performance obligations in the contract;
+•determination of the transaction price;
+•allocation of the transaction price to the performance obligations in the contract; and
+74
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+•recognition of revenue when, or as, the Company satisfies a performance obligation.
+Subscription and domain managed services revenues are generally recognized over-time with the exception of cases where the Company acts as a reseller of third-party software solutions. The Company has determined that subscriptions represent a stand-ready obligation to perform over the subscription term. These performance obligations are satisfied over time as the customer simultaneously receives and consumes the benefits. Subscription revenues related to third-party software solutions are recognized on a net basis, at a point in time. The Company determined that it satisfies its performance obligation by facilitating the transfer between the customer and the third-party developer. Domain managed services revenue consists of consideration received from customers in exchange for domain registration and management services. The Company recognizes consideration received from domain managed services on a gross basis over the subscription term since the Company is obligated to manage its customers’ domains over a contractual period, which is typically one year.
+Revenue associated with non-subscription offerings is primarily recognized at a point in time. Included in non-subscription revenue are revenue share 

@@ -1,0 +1,20 @@
+2023 年报切片对照
+
+before/ 放的是分批前的完整文本，after/ 放的是分批函数实际生成的 4 个切片。
+每段开头保留原来的来源信息，加上段号，下面接按字符切出来的原文。
+
+分批前，第 374 行（节选）
+    is uncertain and may result in unanticipated obligations or restrictions relating to the use of our platform. In t
+
+分批后，第 1 段结尾（after/batch-05/10k_fy2023.part1.txt）
+    is uncertain and may result in unanticipated obligat
+分批后，第 2 段开头（after/batch-06/10k_fy2023.part2.txt）
+    ions or restrictions relating to the use of our platform. In t
+
+完整切片和正文字符数
+    after/batch-05/10k_fy2023.part1.txt    120,000 字符
+    after/batch-06/10k_fy2023.part2.txt    120,000 字符
+    after/batch-07/10k_fy2023.part3.txt    120,000 字符
+    after/batch-08/10k_fy2023.part4.txt    111,262 字符
+
+把四段正文按顺序拼回去，和分批前文本去掉第一行来源头后的内容完全一致。

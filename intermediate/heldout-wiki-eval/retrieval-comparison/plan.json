@@ -1,0 +1,336 @@
+{
+  "encoding": "o200k_base",
+  "version": "tiktoken==0.12.0",
+  "rule": "对同样十题做有已知答案的定向检索回放。候选证据范围以原始文本行给出，证据包含路径、行号和原行。只查原文组直接定位；混合组先给 Wiki 相关行或已找到的原文入口，缺关键事实才把指定原文行加进证据包。用相同分词器统计相同封装格式中各题证据的 token，排除题目、系统提示、答案以及搜索在后台扫描但未返回的文字。",
+  "questions": [
+    {
+      "n": 1,
+      "label": "Google Domains 收购",
+      "wiki": [
+        [
+          "wiki/entities/10k-fy2023.md",
+          23,
+          23
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/10k_fy2023.txt",
+          625,
+          625
+        ],
+        [
+          "data_room/docs/10k_fy2023.txt",
+          1717,
+          1718
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/10k_fy2023.txt",
+          625,
+          625
+        ]
+      ],
+      "gap": "卖方法律名称"
+    },
+    {
+      "n": 2,
+      "label": "订阅运营指标",
+      "wiki": [
+        [
+          "wiki/entities/10k-fy2023.md",
+          15,
+          15
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/10k_fy2023.txt",
+          1028,
+          1033
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/10k_fy2023.txt",
+          1028,
+          1033
+        ]
+      ],
+      "gap": "两年订阅数和 ARPUS"
+    },
+    {
+      "n": 3,
+      "label": "Tock 收购与减值",
+      "wiki": [
+        [
+          "wiki/entities/tock.md",
+          14,
+          14
+        ],
+        [
+          "wiki/entities/10k-fy2022.md",
+          22,
+          22
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/10k_fy2023.txt",
+          1721,
+          1721
+        ],
+        [
+          "data_room/docs/10k_fy2022.txt",
+          1800,
+          1800
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/10k_fy2023.txt",
+          1721,
+          1721
+        ]
+      ],
+      "gap": "收购总对价"
+    },
+    {
+      "n": 4,
+      "label": "一季度现金流调节",
+      "wiki": [
+        [
+          "wiki/metrics/10q-q1-2024.md",
+          8,
+          9
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/10q_q1_2024.txt",
+          1179,
+          1186
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/10q_q1_2024.txt",
+          1182,
+          1185
+        ]
+      ],
+      "gap": "资本开支和调节项目"
+    },
+    {
+      "n": 5,
+      "label": "股东大会和投票权",
+      "wiki": [
+        [
+          "wiki/entities/def14a-2024.md",
+          22,
+          22
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/def14a_2024.txt",
+          32,
+          32
+        ],
+        [
+          "data_room/docs/def14a_2024.txt",
+          38,
+          38
+        ],
+        [
+          "data_room/docs/def14a_2024.txt",
+          474,
+          474
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/def14a_2024.txt",
+          32,
+          32
+        ],
+        [
+          "data_room/docs/def14a_2024.txt",
+          38,
+          38
+        ]
+      ],
+      "gap": "大会日期和股权登记日"
+    },
+    {
+      "n": 6,
+      "label": "两版终止费",
+      "wiki": [
+        [
+          "wiki/metrics/8k-merger-announcement.md",
+          6,
+          7
+        ],
+        [
+          "wiki/metrics/8k-amended-agreement.md",
+          6,
+          7
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/8k_merger_announcement.txt",
+          67,
+          67
+        ],
+        [
+          "data_room/docs/8k_merger_announcement.txt",
+          69,
+          69
+        ],
+        [
+          "data_room/docs/8k_amended_agreement.txt",
+          129,
+          130
+        ],
+        [
+          "data_room/docs/8k_amended_agreement.txt",
+          132,
+          133
+        ]
+      ],
+      "fallback": [],
+      "gap": ""
+    },
+    {
+      "n": 7,
+      "label": "Centerview DCF",
+      "wiki": [
+        [
+          "wiki/entities/centerview-partners.md",
+          15,
+          15
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/defm14a_merger_proxy.txt",
+          1449,
+          1449
+        ],
+        [
+          "data_room/docs/defm14a_merger_proxy.txt",
+          1452,
+          1452
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/defm14a_merger_proxy.txt",
+          1449,
+          1449
+        ],
+        [
+          "data_room/docs/defm14a_merger_proxy.txt",
+          1452,
+          1452
+        ]
+      ],
+      "gap": "折现率、终值倍数、估值区间"
+    },
+    {
+      "n": 8,
+      "label": "要约四项条件",
+      "wiki": [
+        [
+          "wiki/entities/amended-merger-agreement.md",
+          15,
+          15
+        ],
+        [
+          "wiki/entities/8k-closing.md",
+          21,
+          22
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/8k_amended_agreement.txt",
+          105,
+          113
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/8k_amended_agreement.txt",
+          109,
+          113
+        ]
+      ],
+      "gap": "A、B 的计票分子及排除范围"
+    },
+    {
+      "n": 9,
+      "label": "旧信贷终止",
+      "wiki": [
+        [
+          "wiki/entities/8k-closing.md",
+          25,
+          25
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/8k_closing.txt",
+          76,
+          79
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/8k_closing.txt",
+          77,
+          78
+        ]
+      ],
+      "gap": "旧协议的行政代理"
+    },
+    {
+      "n": 10,
+      "label": "年度审计费用",
+      "wiki": [
+        [
+          "wiki/entities/def14a-2024.md",
+          15,
+          15
+        ]
+      ],
+      "raw": [
+        [
+          "data_room/docs/def14a_2024.txt",
+          1019,
+          1019
+        ],
+        [
+          "data_room/docs/def14a_2024.txt",
+          1024,
+          1032
+        ]
+      ],
+      "fallback": [
+        [
+          "data_room/docs/def14a_2024.txt",
+          1019,
+          1019
+        ],
+        [
+          "data_room/docs/def14a_2024.txt",
+          1024,
+          1032
+        ]
+      ],
+      "gap": "审计方和三项金额"
+    }
+  ]
+}

@@ -3,10 +3,13 @@
 ## Where to start（从这里开始）
 
 - 找成交价和交易时间线 → [私有化交易](entities/squarespace-take-private.md)。
-- 查买方股权链 → [Spaceship Purchaser](entities/spaceship-purchaser.md) → [Topco](entities/spaceship-parent.md) → [Permira](entities/permira.md)。
+- 查买方股权链和投资载体 → [Purchaser 与 Topco 的持股链](entities/spaceship-purchaser.md) · [Permira 投资载体名单](entities/permira.md)。
 - 对照财务与 EBITDA → [Squarespace](entities/squarespace.md) · [2023 年报指标](metrics/10k-fy2023.md) · [虚构笔记指标](metrics/analyst-note.md)。
 - 看签约前报价和 2025 预测 → [董事会讨论材料](entities/board-deck-cii.md) · [演示稿指标](metrics/board-deck-cii.md)。
-- 查费用、赔偿上限和融资阶段 → [疑点与复核优先级](escalations.md) · [交割信贷协议](entities/closing-credit-agreement.md)。
+- 查股权承诺、贷款额度和贷款方 → [融资指标](metrics/defm14a-merger-proxy.md) · [债务承诺方和交割信贷](entities/closing-credit-agreement.md)。
+- 查基金持股、表决权和滚存 → [Accel 六基金](entities/accel.md) · [GA SQRS II](entities/general-atlantic-sqrs-ii.md)。
+- 查顾问费和支付条件 → [Centerview](entities/centerview-partners.md) · [J.P. Morgan](entities/jp-morgan-securities.md)。
+- 查赔偿上限和其他待复核事项 → [疑点与复核优先级](escalations.md)。
 - 了解建库怎么跑、哪些问题仍缺资料 → [构建与核对记录](_build-report.md)。
 
 ## 来源、关系、指标和问题

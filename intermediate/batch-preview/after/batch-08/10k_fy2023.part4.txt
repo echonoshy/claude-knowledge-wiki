@@ -1,0 +1,1215 @@
+[SOURCE: SEC EDGAR | form: 10-K | filed: 2024-02-28 | accession: 0001496963-24-000010 | url: https://www.sec.gov/Archives/edgar/data/1496963/000149696324000010/sqsp-20231231.htm | part 4 of 4]
+
+arrangements with third-party payment processors and business applications (together “Commerce Partners”). Consideration received from reseller arrangements with its Commerce Partners is recognized at a point in time as the Company is acting as an agent and facilitating the sale of products between its customers and third-parties. The Company also earns transaction fee revenue based on a fixed-fee of gross merchandise value (“GMV”) processed on the Company’s Business plan and for certain hospitality offerings. GMV represents the total dollar value of orders processed through the Company’s platform in the period, net of refunds and fraudulent orders. In addition, non-subscription revenue includes processing fees earned in exchange for use of certain hospitality services. These transaction and processing fee revenues are recognized at a point in time, when the sale has been completed.
+Performance Obligations
+Certain customer arrangements include multiple performance obligations which consist of access or use of some or all of the Company’s products. For arrangements that include multiple performance obligations, the transaction price to each of the underlying performance obligations is allocated based on its relative stand-alone selling price (“SSP”) and other factors. The Company determines SSP based on the price at which the distinct service is sold separately. If the SSP is not observable through past transactions, the Company estimates the SSP by taking into account available information such as market conditions, internally approved pricing and cost-plus expected margin guidelines related to the performance obligations. For new customers, the Company offers certain products free of charge for the first year. The Company has determined that this offer is a material right and accordingly, the transaction price is allocated to these performance obligations and recognized as the respective performance obligation is satisfied.
+Revenue by Product Type
+The following summarizes the Company’s revenue recognition policy for its disaggregated product types:
+Presence
+Presence revenue primarily consists of fixed-fee subscriptions to the Company’s plans that offer core platform functionalities, currently branded “Personal” and “Business” plans. Presence revenue also consists of fixed-fee subscriptions related to additional entry points for starting online such as domain managed services and social media stories. Additionally, presence revenue is derived from third-party solutions related to email services and access to third-party content to enhance online presence. For customers in need of a larger scale solution, the Company has an enterprise offering, and revenue is recognized over the life of the contract.
+Commerce
+Commerce revenue primarily consists of fixed-fee subscriptions to the Company’s plans that offer all the features of presence plans as well as additional features that support end to end commerce transactions, currently branded “Basic” and “Advanced” plans. Commerce revenue also includes fixed-fee subscriptions to a number of other tools that support running an online business such as marketing, memberships, courses, scheduling and hospitality tools. Non-subscription revenue is derived from fixed-fees earned on revenue share arrangements with commerce partners as well as fixed transaction fees earned on GMV processed through the Company’s native payment processing solution, Business plan sites and certain hospitality offerings. Commerce revenue also includes payment processing fees received for use of the Company’s hospitality services.
+75
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Assets Recognized from Contract Costs
+The Company capitalizes customer arrangement origination costs related to affiliate fees on customer referrals (“referral fees”), costs related to fees on sales of the Company’s social media tools on third-party platforms (“app fees”) and commissions paid to internal sales personnel relating to certain customer contracts ("sales commissions"). Amounts expected to be recognized within one year of the balance sheet date are recorded as prepaid expenses and other current assets, with the remaining portion recorded as other assets in the consolidated balance sheets. Capitalized referral, app fees and sales commissions are considered to be incremental and recoverable costs of obtaining a contract with a customer.
+Referral fees and sales commissions are deferred and amortized on a straight-line basis over the future benefit period of approximately two to four years and are included within marketing and sales in the consolidated statements of operations. App fees are also deferred and amortized on a straight-line basis over the future benefit of approximately one year and are included within cost of revenue in the consolidated statements of operations. The period of benefit was estimated by considering factors such as historical customer attrition rates, the useful life of the Company’s technology and the impact of competition in its industry. No referral fees and sales commissions are paid to third-parties for renewals.
+The Company’s fulfillment costs (such as setup costs) are expensed as incurred as these do not generate or enhance resources of the Company that will be used in satisfying future performance obligations and do not meet the criteria for capitalization. No other material contract costs were capitalized during the period.
+The Company periodically reviews the estimated benefit period so that the amortization is consistent with the transfer of services to the customer to which the asset relates.
+Cost of Revenue
+Cost of revenue primarily consists of domain name registration fees, credit card and payment processing fees, customer support employee related expenses, web hosting costs, amortization of acquisition-related intangible assets associated with acquired technology and capitalized software development costs, and allocated shared costs. Employee-related expenses consist of salaries, taxes, benefits and stock-based compensation.
+Research and Product Development
+Research and product development expenses are primarily employee-related expenses, costs associated with continuously developing new solutions and enhancing and maintaining our technology platform as well as allocated shared costs. These costs are expensed as incurred. Employee-related expenses consist of salaries, taxes, benefits and stock-based compensation. We capitalize employee-related expenses relating to software development costs incurred in connection with adding functionality to our platform, as well as internal-use projects during the application development stage.
+Marketing and Sales
+Marketing and sales expenses include costs related to advertisements used to drive customer acquisition, employee-related expenses, amortization of acquisition-related intangible assets associated with acquired customer relationships, customer acquisition and creative assets, affiliate fees on customer referrals and allocated shared costs. Employee-related expenses consist of salaries, sales commissions, taxes, benefits and stock-based compensation. Allocated shared costs include customer support costs related to assistance provided by our customer service team to customers during their trial periods on our platform. Depending on the nature of the advertising, costs are expensed at the time a commercial initially airs, when a promotion first appears in the media or as incurred. Affiliate fees on customer referrals are deferred and recognized ratably over the expected period of our relationship with the new customer. Sales commissions paid to internal sales personnel relating to obtaining customer contracts are capitalized and amortized ratably over the expected life of the new customer.
+The Company’s advertising costs for the years ended December 31, 2023, 2022 and 2021 were $251,879, $241,904 and $274,919, respectively.
+General and Administrative
+General and administrative expenses are primarily employee-related expenses, which consist of salaries, taxes, benefits and stock-based compensation associated with supporting business operations. General and administrative expenses also include software and subscription services, external accounting and legal professional service fees, indirect
+76
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+taxes, as well as insurance. The functional elements included in general and administrative are finance, people, legal, information technology and overall corporate support.
+Stock-based Compensation
+Stock-based compensation is allocated on a specific identification basis for each individual employee recipient and included in the same line item as the related employee’s cash compensation and benefits in the consolidated statements of operations.
+Service-based and Performance-based Awards
+Stock-based compensation costs related to stock awards with a service-based or performance-based vesting condition are measured based on the fair value of the awards at the grant date. Prior to the Direct Listing, the grant date fair value of the Company’s shares of Class A and Class B common stock underlying the awards was determined by the board of directors with input from management and independent third-party valuation specialists, as there was no public market for the Company’s Class A and Class B common stock. The board of directors determined the fair value of the Class A and Class B common stock by considering a number of objective and subjective factors including: (i) the fair value of the Company’s Class A and Class B common stock, (ii) the expected Class A and Class B common stock price volatility over the expected life of the award, (iii) the expected term of the award, (iv) risk-free interest rates, (v) the exercise price, (vi) the expected dividend yield of the Company’s Class A and Class B common stock and (vii) general and industry specific economic outlook, amongst other factors. Subsequent to the Direct Listing, the grant date fair value is determined by the closing price of the Company’s Class A common stock as reported on the date of grant.
+For awards with performance-based vesting conditions, the Company begins recognizing stock-based compensation costs when the achievement of a performance target becomes probable. Quarterly, the Company reassesses the probability of each possible outcome and, if applicable, recognizes a cumulative adjustment for any changes to the previously determined expectation using the grant date fair value of the award.
+The Company recognizes stock-based compensation expense for service-based and performance-based awards ratably, net of forfeitures, over the requisite service period, which is the vesting period. Forfeitures are recorded as they occur.
+Market-based Awards
+Stock-based compensation costs related to stock awards with market-based vesting conditions are measured based on the fair value of the awards at the grant date. The Company determines the grant date fair value using equity valuation models, such as the Monte Carlo simulation, using assumptions and judgments made by management and third-party valuation specialists. The Company recognizes stock-based compensation expense for market-based awards using the accelerated attribution method over the longer of (i) the period of time the market condition is expected to be met (i.e., the derived service period) or (ii) the service vesting condition period.
+Other Income, Net
+Other income, net is primarily comprised of net investment income and realized and unrealized foreign currency gains and losses.
+Income Taxes
+The Company accounts for income taxes under the asset and liability method, and deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying values of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates in effect for the year in which those temporary differences are expected to be recovered or settled. The Company recognizes deferred tax assets to the extent it believes these assets are more likely than not to be realized. In making such a determination, the Company considers all positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax planning strategies and recent results of operations. A valuation allowance is provided if it is determined that it is more likely than not that the deferred tax asset will not be realized.
+The Company recognizes tax benefits from uncertain tax positions only if it is more likely than not that the tax positions will be sustained on examination by the tax authority. The tax benefits recognized in the financial statements from such positions are measured based on the largest amount that is more than 50% likely to be realized upon ultimate
+77
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+settlement. The Company recognizes interest and penalties, where appropriate, related to unrecognized tax benefits in income tax expense.
+Accretion of Redeemable Convertible Preferred Stock
+The carrying value of the Series A-2 and Series B redeemable convertible preferred stock is accreted to redemption value from the date of issuance to the earliest redemption date using the effective interest method. Increases to the carrying value of redeemable convertible preferred stock recognized in each period are charged to retained earnings, or in the absence of retained earnings, to additional paid in capital, or in the absence of additional paid in capital, to accumulated deficit.
+Share Repurchases and Retirement
+Repurchases and retirements of shares are reflected as a reduction to additional paid in capital, or in the absence of additional paid in capital, to accumulated deficit.
+Net Income/(Loss) Per Share Attributable to Class A, Class B and Class C Common Stockholders
+The Company calculates net income/(loss) per share attributable to Class A, Class B and Class C common stockholders using the two-class method required for companies with participating securities. The Company considers redeemable convertible preferred stock to be participating securities as holders of such securities have non-forfeitable dividend rights in the event of the Company’s declaration of a dividend for shares of Class A, Class B and Class C common stock. During periods when the Company is in a net loss position, the net loss attributable to Class A, Class B and Class C common stockholders is not allocated to the redeemable convertible preferred stock and unvested Class A, Class B and Class C common stock under the two-class method as these securities do not have a contractual obligation to share in the Company’s losses. Payment in excess of the carrying value on the redemption of redeemable convertible preferred stock represents a deemed dividend to the redeemable convertible preferred stockholder. Accordingly, the difference between the amount paid upon redemption and the carrying value of the redeemable convertible preferred stock is deducted from (if a premium) or added to (if a discount) net income to arrive at net income/(loss) available to Class A, Class B and Class C common stockholders.
+Distributed and undistributed earnings allocated to participating securities are subtracted from net income/(loss) in determining net income/(loss) attributable to Class A, Class B and Class C common stockholders.
+Basic net income/(loss) per share is computed by dividing net income/(loss) attributable to Class A, Class B and Class C common stockholders by the weighted-average number of shares of the Company’s Class A, Class B and Class C common stock outstanding.
+Diluted net income per share attributable to Class A, Class B and Class C common stockholders is computed by giving effect to all dilutive securities. During periods when there is a net loss attributable to Class A, Class B and Class C common stockholders, potentially dilutive Class A, Class B and Class C common stock equivalents are excluded from the calculation as their effect is anti-dilutive. Diluted net income per share attributable to Class A, Class B and Class C common stockholders is computed by dividing the net income attributable to Class A, Class B and Class C common stockholders by the resulting weighted-average number of fully diluted Class A, Class B and Class C common shares outstanding. The Company used the if-converted method as though the conversion, exchange or vesting, respectively, had occurred as of the beginning of the period or the original date of issuance, if later. If the effect of a conversion of an instrument is neutral to net income per share, the Company considers the security to be dilutive.
+Recently Issued Accounting Pronouncements
+Accounting Pronouncements Recently Adopted
+In October 2021, the FASB issued ASU 2021-08, Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers ("ASU 2021-08"). This standard requires that an entity recognize and measure contract assets and contract liabilities acquired in a business combination in accordance with ASC Topic 606, Revenue from Contracts with Customers, as if the acquirer had originated the contracts. ASU 2021-08 is effective for fiscal years and interim periods in those years beginning after December 15, 2022 for public entities with early adoption permitted. The Company adopted this standard as of January 1, 2023, however, as the Company has not
+78
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+completed any transactions subject to ASU 2021-08 subsequent to the date of adoption, the adoption of this standard did not have a material impact on the Company’s consolidated financial statements.
+In December 2022, the FASB issued ASU No. 2022-06, Reference Rate Reform (Topic 848): Deferral of the Sunset Date of Topic 848 (“ASU 2022-06”). This standard defers the sunset date of Topic 848 from December 31, 2022, to December 31, 2024, after which entities will no longer be permitted to apply the relief in Topic 848. ASU 2022-06 is effective upon issuance of this update for all entities that have contracts, hedging relationships and other transactions that reference LIBOR or another reference rate expected to be discontinued because of reference rate reform. The Company adopted this standard as of December 31, 2022. Effective June 30, 2023, the Company replaced LIBOR as the benchmark rate with SOFR. See “Note 11. Debt" for further information. The adoption of this standard did not have a material impact on the Company’s consolidated financial statements.
+Accounting Pronouncements Pending Adoption
+In October 2023, the FASB issued ASU No. 2023-06, Disclosure Improvements: Codification Amendments in Response to the SEC’s Disclosure Update and Simplification Initiative (“ASU 2023-06”). This standard modifies the disclosure or presentation requirements of a variety of topics in the ASC and aligns the ASC’s requirements with the SEC’s existing disclosure requirements. ASU 2023-06 is effective on the date each amendment is removed from Regulation S-X or Regulation S-K with early adoption prohibited. The amendments in ASU 2023-06 will be applied prospectively in the consolidated financial statements. The Company is currently evaluating the timing of its adoption of this standard and the impact in its consolidated financial statements.
+In November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures (“ASU 2023-07”). This standard improves reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. ASU 2023-07 is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, with early adoption permitted. The amendments in ASU 2023-07 will be applied retrospectively to all prior periods presented in the consolidated financial statements. The Company is currently evaluating the timing of its adoption of this standard and the impact in its consolidated financial statements.
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosure (“ASU 2023-09”). This standard provides transparency to income tax disclosures related to the rate reconciliation and income taxes paid information. ASU 2023-09 is effective for fiscal years beginning after December 15, 2024 for public entities with early adoption permitted. The amendments in ASU 2023-09 will be applied prospectively in the consolidated financial statements. The Company is currently evaluating the timing of its adoption of this standard and the impact in its consolidated financial statements.
+3. Revenue
+The Company has disaggregated revenue from contracts with customers by product type, subscription type, revenue recognition pattern and geography as these categories depict the nature, amount, timing and uncertainty of revenue and how cash flows are affected by economic factors.
+Revenue by Product Type, Subscription Type and Revenue Recognition Pattern
+The following tables summarize revenue by product type, subscription type and revenue recognition pattern for the periods presented:
+Year Ended December 31, 2023
+Presence | Commerce | Total
+Subscription revenue
+Transferred over time | $ | 684,576 | $ | 230,157 | $ | 914,733
+Transferred at a point in time | 16,523 | — | 16,523
+Non-subscription revenue
+Transferred over time | 2,990 | 3,475 | 6,465
+Transferred at a point in time | 260 | 74,355 | 74,615
+Total revenue | $ | 704,349 | $ | 307,987 | $ | 1,012,336
+79
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Year Ended December 31, 2022
+Presence | Commerce | Total
+Subscription revenue
+Transferred over time | $ | 581,427 | $ | 198,297 | $ | 779,724
+Transferred at a point in time | 13,670 | — | 13,670
+Non-subscription revenue
+Transferred over time | 1,857 | 3,596 | 5,453
+Transferred at a point in time | 346 | 67,779 | 68,125
+Total revenue | $ | 597,300 | $ | 269,672 | $ | 866,972
+Year Ended December 31, 2021
+Presence | Commerce | Total
+Subscription revenue
+Transferred over time | $ | 539,767 | $ | 170,308 | $ | 710,075
+Transferred at a point in time | 11,972 | — | 11,972
+Non-subscription revenue
+Transferred over time | 2,008 | 2,570 | 4,578
+Transferred at a point in time | 776 | 56,637 | 57,413
+Total revenue | $ | 554,523 | $ | 229,515 | $ | 784,038
+Revenue by Geography
+Revenue by geography is based on the customer’s self-reported country identifier or, if not available, the billing address or IP address, and was as follows:
+Years Ended December 31,
+2023 | 2022 | 2021
+United States | $ | 726,027 | $ | 622,796 | $ | 544,500
+International | 286,309 | 244,176 | 239,538
+Total revenue | $ | 1,012,336 | $ | 866,972 | $ | 784,038
+Currently no individual country contributes greater than 10% of total international revenue.
+Deferred Revenue
+The deferred revenue balance as of December 31, 2023 and 2022 represents the Company’s aggregate remaining performance obligations that are expected to be recognized as revenue in subsequent periods. Generally, the Company’s contracts are for one year or less and the value for contracts with terms greater than one year is not material. The change in deferred revenue primarily reflects cash payments received during the period for which the performance obligation was not satisfied prior to the end of the period partially offset by $269,689, $233,999 and $210,371 of revenues recognized during the years ended December 31, 2023, 2022 and 2021, respectively.
+Capitalized Contract Costs
+Assets capitalized related to contract costs consisted of the following:
+December 31, 2023 | December 31, 2022
+Capitalized referral fees, current | $ | 7,626 | $ | 6,368
+Capitalized referral fees, non-current | 9,715 | 8,168
+Capitalized app fees, current | 750 | 971
+Sales commissions, current | 496 | 479
+Sales commissions, non-current | 144 | 159
+Total capitalized contract costs | $ | 18,731 | $ | 16,145
+Amortization of capitalized contract costs was $12,853, $10,674 and $8,556 for the years ended December 31, 2023, 2022 and 2021, respectively, and is included in marketing and sales in the consolidated statements of operations.
+80
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+There were no impairment charges recognized related to capitalized contract costs for the years ended December 31, 2023, 2022 and 2021.
+Obligations for Returns, Refunds and Other Similar Obligations
+The Company did not have any material change in revenue recognition from a previous period due to refunds, change in transaction price or other consideration variables. As of December 31, 2023 and 2022, obligations for refunds were $518 and $400, respectively, and were included in accrued liabilities in the consolidated balance sheets.
+4. Acquisitions
+Google Domains
+On June 15, 2023, the Company entered into an asset purchase agreement (the "Google Domains APA") between the Company and Google to acquire, among other things, Google's domain assets, including all domain names for which Google was the registrar or reseller. The Google Domains Asset Acquisition closed on September 7, 2023 (the “Closing Date”) subsequent to certain regulatory approvals and customary closing conditions.
+The Company recognized the transaction as an asset acquisition. The total amount paid for the Google Domains Asset Acquisition was $180,721, including direct transaction costs of $721, which was paid on the Closing Date. The Company funded the asset acquisition with cash on hand as well as the proceeds from additional term loan commitments of $100,000 which were funded on the Closing Date. See “Note 11. Debt” for further information on the additional term loan commitments funded during the year ended December 31, 2023. Based on the relative fair values of the assets acquired in the Google Domains APA, $176,721 was allocated to the asset classified as customer relationships and included in intangible assets, net in the consolidated balance sheet. The identifiable finite-lived intangible asset is being amortized over its useful life, which was estimated to be 4 years as of the Closing Date, and is included in marketing and sales in the consolidated statement of operations. The remaining $4,000 of the total amount paid was related to a transaction service agreement (the "Google TSA") between the Company and Google and is included within prepaid expenses and other current assets in the consolidated balance sheet as of December 31, 2023. The Google TSA is being amortized over the expected service period which was estimated to be 8 months as of the Closing Date with expenses allocated to research and product development expenses and cost of revenue in the consolidated statement of operations based on the nature of the services being provided to the Company.
+As of December 31, 2023, the Company reimbursed Google $11,719 for deposits it assumed for domain name registration fees remaining at certain third-party registries as of the Closing Date. As of December 31, 2023, the Company had $3,895 of deposits for domain name registration fees remaining at certain third-party registries included in prepaid expenses and other current assets in the consolidated balance sheet.
+Tock, Inc.
+On March 31, 2021 (the "Tock Acquisition Date"), the Company acquired all of the equity interests in Tock, a reservation platform for prepaid reservations, access to restaurant management data and other customization features. The purpose of the acquisition was to expand the Company’s complementary suite of services available with a platform for reservations, take-out, delivery and events for the hospitality industry. The total consideration for the transaction was $425,710, consisting of $226,821 of cash, $188,179 of the Company’s Class C common stock and $10,710 of net working capital adjustments. The Company recognized this transaction as a business combination.
+The Company finalized the purchase accounting, including the identification and allocation of consideration to assets acquired, and the purchase price allocation as of March 31, 2022. Goodwill associated with the acquisition of Tock is not amortizable for tax purposes.
+81
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+The following table sets forth the allocation of the purchase price to the fair value of the identifiable tangible and intangible assets acquired and liabilities assumed, with the excess recorded to goodwill:
+Tock
+Net tangible assets acquired | $ | 13,004
+Deferred income tax liability | (724)
+Customer relationships – restaurants | 37,000
+Customer relationships – enterprise | 16,000
+Tradename | 5,000
+Developed technology | 3,000
+Net assets acquired | 73,280
+Consideration | 425,710
+Goodwill | $ | 352,430
+Amount
+Consideration transferred | $ | 425,710
+Less: Issuances of Class C common stock | (188,179)
+Less: Cash acquired | (18,350)
+Less: Restricted cash | (17,011)
+Cash paid for acquisitions, net of acquired cash | $ | 202,170
+The Company did not acquire any businesses during the year ended December 31, 2022.
+See “Note 9. Goodwill and Intangible Assets, Net” for further information on the Company's goodwill and intangible assets.
+5. Investment in Marketable Securities
+The Company did not own any available-for-sale (“AFS”) marketable securities as of December 31, 2023.
+The following tables represent the amortized cost, gross unrealized gains and losses and fair market value of the Company’s AFS marketable securities as of December 31, 2022:
+December 31, 2022
+Amortized
+Cost
+Gross
+Unrealized
+Gains
+Gross
+Unrealized
+Losses
+Aggregate
+Fair
+Value
+Corporate bonds and commercial paper | $ | 19,849 | $ | — | $ | (74) | $ | 19,775
+Asset backed securities | 2,219 | 1 | (12) | 2,208
+U.S. treasuries | 9,905 | — | (131) | 9,774
+Total investment in marketable securities | $ | 31,973 | $ | 1 | $ | (217) | $ | 31,757
+The Company's gross unrealized losses and fair values for those investments that were in an unrealized loss position as of December 31, 2022, aggregated by investment category and the length of time that individual securities have been in a continuous loss position were as follows:
+December 31, 2022
+Less than 12 months | 12 months or Greater | Total
+Aggregate
+Fair Value
+Gross
+Unrealized
+Losses
+Aggregate
+Fair Value
+Gross
+Unrealized
+Losses
+Aggregate
+Fair Value
+Gross
+Unrealized
+Losses
+Corporate bonds and commercial paper | $ | 14,768 | $ | (25) | $ | 5,007 | $ | (49) | $ | 19,775 | $ | (74)
+Asset backed securities | 2,208 | (12) | — | — | 2,208 | (12)
+U.S. treasuries | 3,873 | (29) | 5,901 | (102) | 9,774 | (131)
+Total investment in marketable securities | $ | 20,849 | $ | (66) | $ | 10,908 | $ | (151) | $ | 31,757 | $ | (217)
+The Company recognized unrealized gains/(losses) of $216 and $(178) with respect to its AFS marketable securities during the years ended December 31, 2023 and 2022. The unrealized losses were due to changes in market rates and were
+82
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+determined to be temporary in nature. These unrealized losses were classified in accumulated other comprehensive loss in the consolidated balance sheets as of December 31, 2023 and 2022.
+The Company reviews AFS marketable securities on a recurring basis to evaluate whether or not any securities have experienced an other-than-temporary decline in fair value. Some factors considered in establishing an expected credit loss on AFS marketable securities are the length of time and extent to which the market value has been less than the cost, the financial condition and near-term prospects of the issuer, the Company's intent to sell, and whether it is more likely than not the Company will be required to sell the investment before recovery of the investments amortized cost basis. The Company did not have any AFS marketable securities for which an expected credit loss has been recorded as the Company's AFS marketable securities with an amortized cost basis lower than fair value were not considered other-than-temporary declines in fair value. In the instance that the Company has AFS marketable securities at an amortized cost basis lower than fair value, the Company does not intend to sell, nor is it more-likely-than not the Company would be required to sell the AFS marketable security prior to recovery.
+The contractual maturities of the investments classified as marketable securities were as follows:
+December 31, 2022
+Due within 1 year | $ | 28,564
+Due in 1 year through 5 years | 3,193
+Total investment in marketable securities | $ | 31,757
+Investment Income
+Investment income consists of interest income and accretion income/amortization expense on the Company’s cash, cash equivalents and marketable securities, and is recorded in other income, net in the consolidated statements of operations. The components of investment income were as follows:
+Years Ended December 31,
+2023 | 2022 | 2021
+Interest income
+$ | 7,394 | $ | 1,632 | $ | 536
+Accretion (expense)/income
+(274) | 29 | (277)
+Total investment income
+$ | 7,120 | $ | 1,661 | $ | 259
+6. Fair Value of Financial Instruments
+A summary of the Company’s investments in marketable securities (including, if applicable, those marketable securities classified as cash and cash equivalents) were as follows:
+December 31, 2023
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents
+Money market funds
+$ | 194,210 | $ | — | $ | — | $ | 194,210
+Total
+$ | 194,210 | $ | — | $ | — | $ | 194,210
+December 31, 2022
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents
+Money market funds
+$ | 82,584 | $ | — | $ | — | $ | 82,584
+Available-for-sale debt securities
+Corporate bonds and commercial paper
+— | 19,775 | — | 19,775
+Asset backed securities | — | 2,208 | — | 2,208
+U.S. treasuries | 9,774 | — | — | 9,774
+Total
+$ | 92,358 | $ | 21,983 | $ | — | $ | 114,341
+The Company’s valuation techniques used to measure the fair value of money market funds and certain AFS marketable securities were derived from quoted prices in active markets for identical assets. The valuation techniques used to measure the fair value of the Company’s other debt securities, all of which have counterparties with high credit ratings,
+83
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+were valued based on quoted market prices or model driven valuations using significant inputs derived from or corroborated by observable market data. There were no transfers of financial instruments between Level 1, Level 2 and Level 3 during the periods presented.
+For certain other financial instruments, including accounts receivable, accounts payable and accrued liabilities, the carrying amounts approximate the fair value of such instruments due to the relatively short maturity of these balances. The Company records debt obligations at their approximate fair values as they are based upon rates available to the Company for obligations of similar terms and maturities.
+7. Prepaid Expenses and Other Current Assets
+Prepaid expenses and other current assets consisted of the following:
+December 31, 2023 | December 31, 2022
+Prepaid operational expenses | 12,183 | 10,540
+Prepaid domain name registration fees | 12,073 | 2,790
+Capitalized contract costs
+8,872 | 7,818
+Prepaid advertising | 5,804 | 7,045
+Prepaid income tax | 3,402 | 17,134
+Other current assets | 6,613 | 2,999
+Total prepaid expenses and other current assets | $ | 48,947 | $ | 48,326
+As of December 31, 2023, the Company had $3,895 in deposits for domain name registration fees remaining at certain third-party registries in relation to the Google Domains Asset Acquisition included as other current assets above. See “Note 4. Acquisitions” for further information.
+8. Property and Equipment, Net
+Property and equipment, net consisted of the following:
+Estimated Useful Life (Years) | December 31, 2023 | December 31, 2022
+Computer hardware
+3 | 22,797 | 21,441
+Furniture and fixtures
+7 | 7,432 | 7,031
+Leasehold improvements
+Shorter of 10 years or remaining term of lease
+76,045 | 75,481
+Capitalized software development
+costs
+3 | 35,384 | 18,390
+Total property and equipment | 141,658 | 122,343
+Less: accumulated depreciation and
+amortization
+(83,447) | (70,710)
+Total property and equipment, net | $ | 58,211 | $ | 51,633
+Depreciation and amortization expense related to property and equipment, net was included in the following line items in the consolidated statements of operations:
+Years Ended December 31,
+2023 | 2022 | 2021
+Cost of revenue | $ | 6,688 | $ | 6,234 | $ | 6,147
+Research and product development | 4,742 | 4,795 | 4,079
+Marketing and sales | 1,744 | 1,891 | 1,326
+General and administrative | 1,326 | 1,366 | 1,439
+Total depreciation and amortization expense | $ | 14,500 | $ | 14,286 | $ | 12,991
+84
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Capitalized Software Development Costs
+Amortization of capitalized software development costs included in depreciation and amortization expense was included in the following line items in the consolidated statements of operations:
+Years Ended December 31,
+2023 | 2022 | 2021
+Cost of revenue | $ | 3,840 | $ | 3,767 | $ | 3,114
+General and administrative expenses | — | — | 240
+Total amortization of capitalized software development costs | $ | 3,840 | $ | 3,767 | $ | 3,354
+Capitalized software development costs, net, included in property and equipment, net, are $20,094 and $6,940 as of December 31, 2023 and 2022, respectively.
+The Company recorded impairment losses for certain capitalized software development costs of $409 and $289 in cost of revenue and research and product development expenses, respectively, in the consolidated statement of operations during the year ended December 31, 2022.
+9. Goodwill and Intangible Assets, Net
+Goodwill
+The changes in the Company’s carrying amounts of goodwill for the years ended December 31, 2023 and 2022 were as follows:
+Goodwill
+Balance at December 31, 2021
+$ | 435,601
+Impairment charge | (225,163)
+Balance at December 31, 2022
+$ | 210,438
+Balance at December 31, 2023
+$ | 210,438
+During the year ended December 31, 2023, based on a qualitative impairment assessment, the Company determined that it was more likely than not that the fair value of the Company’s reporting unit was greater than its carrying amount. As a result, no further quantitative tests of recoverability were required and no goodwill impairment charge was recorded.
+85
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+During the year ended December 31, 2022, the Company elected to bypass the optional qualitative assessment for impairment and proceeded to a quantitative test of the recoverability of its goodwill balance for each of its two reporting units, and as a result, recognized an impairment charge of $225,163 for the Tock reporting unit for the year ended December 31, 2022. The charge was primarily due to market values deteriorating subsequent to the Tock acquisition as well as the result of a change in product strategy during the year ended December 31, 2022 as the result of the departure of certain members of management. The following were key assumptions used in determining the fair value of each of the Company’s reporting unit’s goodwill:
+Squarespace | Tock
+Weighted average cost of capital | 11% | 16%
+Terminal value
+4.3x
+3%
+Revenue growth rates
+10% to 11%
+10% to 35%
+The Company determined that these significant inputs fall within Level 3 of the hierarchy for fair value reporting.
+After the impairment of $225,163 for the Tock reporting unit, the fair value of the reporting unit approximated its carrying value. The Company’s analysis did not indicate impairment of the Squarespace reporting unit as of December 31, 2022.
+Intangible assets, net
+The following tables summarize the carrying value of the Company’s finite-lived intangible assets:
+Useful
+Lives
+(in years)
+December 31, 2023
+Gross Carrying
+Value
+Accumulated
+Amortization
+Net Carrying
+Value
+Technology
+3 to 5
+$ | 17,533 | $ | (16,292) | $ | 1,241
+Customer relationships
+2 to 5
+238,551 | (51,936) | 186,615
+Tradenames
+3 to 5
+11,496 | (9,249) | 2,247
+Total intangible assets, net | $ | 267,580 | $ | (77,477) | $ | 190,103
+Useful
+Lives
+(in years)
+December 31, 2022
+Gross Carrying
+Value
+Accumulated
+Amortization
+Net Carrying
+Value
+Technology
+3 to 5
+$ | 17,533 | $ | (12,386) | $ | 5,147
+Customer relationships
+2 to 5
+61,830 | (27,416) | 34,414
+Tradenames
+3 to 5
+11,496 | (8,249) | 3,247
+Total intangible assets, net | $ | 90,859 | $ | (48,051) | $ | 42,808
+Technology, customer relationships and tradenames have weighted-average remaining useful lives of 0.4 years, 3.5 years and 2.2 years, respectively. The weighted-average remaining useful life for finite-lived intangible assets was 3.5 years as of December 31, 2023.
+Amortization of finite-lived intangible assets was included in the following line items in the consolidated statements of operations:
+Years Ended December 31,
+2023 | 2022 | 2021
+Cost of revenue | $ | 3,907 | $ | 3,907 | $ | 3,660
+Marketing and sales | 24,520 | 10,962 | 12,956
+General and administrative | 1,000 | 2,462 | 3,113
+Total amortization of finite-lived intangible assets | $ | 29,427 | $ | 17,331 | $ | 19,729
+During the year ended December 31, 2021, the Company recognized additional amortization of $4,561 in marketing and sales in the consolidated statement of operation due to the reassessment of the useful lives of certain customer relationship intangible assets.
+86
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+As of December 31, 2023, the expected future amortization expense for finite-lived intangible assets was as follows:
+Year Ending December 31,
+Amount
+2024 | $ | 57,174
+2025 | 55,780
+2026 | 47,009
+2027 | 30,140
+Total | $ | 190,103
+10. Accrued Liabilities
+Accrued liabilities consisted of the following:
+December 31, 2023 | December 31, 2022
+Accrued indirect taxes | $ | 38,174 | $ | 33,486
+Accrued marketing expenses | 24,998 | 14,620
+Accrued product expenses | 22,569 | 4,524
+Accrued payroll expense | 4,247 | 4,985
+Other accrued expenses | 9,447 | 6,745
+Total accrued liabilities | $ | 99,435 | $ | 64,360
+11. Debt
+Debt outstanding as of December 31, 2023 and 2022 was as follows:
+December 31, 2023 | December 31, 2022
+Term Loan | $ | 571,398 | $ | 516,266
+Less: unamortized original issue discount | (1,761) | (1,917)
+Less: unamortized deferred financing costs | (844) | (424)
+Less: debt, current | (48,977) | (40,758)
+Total debt, non-current | $ | 519,816 | $ | 473,167
+Credit Facility
+On December 12, 2019, the Company entered into a credit agreement (the “2019 Credit Agreement”) with certain lending institutions (the “Credit Facility”) which included Initial Term A Loans for $350,000 (the “2019 Term Loan”), and Revolving Credit Loans of up to $25,000 (the “2019 Revolving Credit Facility”), which included a Letters of Credit sub-facility available up to a total of $15,000. The Credit Facility had a maturity of five years per the 2019 Credit Agreement.
+On December 11, 2020, the Company amended the 2019 Credit Agreement (the “2020 Credit Agreement”) to increase the total size of the 2019 Term Loan to $550,000 (collectively, the “2020 Term Loan”) with the same lending institutions as the Credit Facility and extend the maturity date for the 2020 Term Loan and the 2019 Revolving Credit Facility (as extended, the "Revolving Credit Facility") to December 11, 2025. The proceeds from the additional term loan of $200,000 were used to provide for the payment of a one-time dividend, see “Note 16. Stockholder’s Deficit” for further information. The Company considered the additional term loan commitments to be a modification. As a result, the Company continued to capitalize the $722 of unamortized original debt discount and $752 of the unamortized deferred financing costs related to the issuance of the Credit Facility.
+On June 15, 2023, the Company amended the 2020 Credit Agreement (as amended, the "Credit Agreement") to increase the total size of the 2020 Term Loan to $650,000 (collectively, the "Term Loan") and, effective June 30, 2023, replace LIBOR as the benchmark rate with SOFR. The proceeds from the additional term loan commitments of $100,000 were funded on the Closing Date and used to partially fund the Google Domains Asset Acquisition, together with cash on hand. See “Note 4. Acquisitions'' for further information on the Google Domains Asset Acquisition. The Company considered the additional term loan commitments funded by existing participating lending institutions to be a modification. The term loan commitments funded by new participating lending institutions were considered new debt to the Company.
+87
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+For the borrowings considered as a modification, the Company capitalized $556 of fees paid to the lending institutions as a reduction to the proceeds as a debt discount and expensed the related third-party costs. For the borrowings considered new debt, the Company capitalized $319 of fees paid to the lending institutions and $318 of related third-party costs as deferred financing costs.
+As of December 31, 2023 and 2022, the amount of unamortized original debt discount and deferred financing costs were $1,761 and $1,917 and $844 and $424, respectively, and are being amortized over the term of the Credit Facility using the effective interest method.
+Borrowings under the Credit Facility were subject to an interest rate equal to LIBOR plus the applicable margin based on our Consolidated Total Debt to Consolidated EBITDA ratio prior to June 30, 2023. Effective June 30, 2023, under the Credit Agreement, LIBOR as the benchmark rate was replaced with SOFR. The applicable margin was 1.60%, which includes a credit spread adjustment of 0.10% and 1.50% as of December 31, 2023 and 2022, respectively. The effective interest rate was 6.96% and 5.94% as of December 31, 2023 and 2022, respectively.
+The Term Loan requires scheduled quarterly principal payments beginning March 31, 2021 in aggregate annual amounts equal to 2.50% for 2021 and 2022, 7.50% for 2023 and 2024 and 10.0% for 2025, in each case, on the Term Loan principal amount, with the balance due at maturity. In addition, the Credit Facility includes certain customary prepayment requirements based on events such as asset sales, debt issuances or incurrences and sale leasebacks.
+As of December 31, 2023, $7,255 was outstanding under the Revolving Credit Facility in the form of outstanding letters of credit and $17,745 remained available for borrowing by the Company. The letters of credit issued as of December 31, 2023 were related to certain of the Company's operating lease agreements for offices that require security deposits in the form of an irrevocable letter of credit. On September 7, 2022, the letter of credit for the Company's security deposit related to its New York, NY headquarters was reduced by $2,388 due to a scheduled step-down per the lease agreement. The letters of credit issued are subject to a fee equal to the interest rate on the Credit Facility. In addition, the Revolving Credit Facility is subject to an unused commitment fee of 0.20% to 0.25%, depending on the consolidated total debt to consolidated EBITDA ratio as defined by the Credit Agreement, payable quarterly to the lenders in respect of the unutilized commitments.
+The Credit Agreement contains certain customary affirmative covenants and events of default. The negative covenants in the Credit Facility include, among other items, limitations on the ability, subject to negotiated exceptions, to incur additional indebtedness or issue additional preferred stock of the Company, to create or issue certain liens on certain assets, to enter into agreements related to mergers and acquisitions, including the sale of certain assets or disposition of assets, or declare, make or pay dividends and distributions. The Credit Agreement contains certain negative covenants for an indebtedness to consolidated EBITDA ratio, as defined by the Credit Agreement, and commencing with December 31, 2020 and all fiscal quarters thereafter through maturity. For the fiscal quarter ended December 31, 2023, and each fiscal quarter thereafter, the Company is required to maintain an indebtedness to consolidated EBITDA ratio of not more than 3.75 (the “Financial Covenant”), subject to customary equity cure rights. The Financial Covenant is subject to a 0.50 step-up in the event of a material permitted acquisition, which the Company can elect to implement up to two times during the life of the facility. As of December 31, 2023, we have not elected to implement this step-up as a result of any of our acquisitions. If the Company is not in compliance with the covenants under the Credit Agreement or the Company otherwise experiences an event of default, the lenders would be entitled to take various actions, including acceleration of amounts due under the Credit Agreement. As of December 31, 2023 and 2022, the Company was in compliance with all applicable covenants, including the Financial Covenant.
+Consolidated EBITDA is defined in the Credit Agreement as net income/(loss) adjusted to exclude interest expense, other income/(loss), net, benefit from/(provision for) income taxes, depreciation and amortization and stock-based compensation expense. In addition, consolidated EBITDA also allows for other adjustments such as the exclusion of transaction costs, changes in deferred revenue and other costs that may be considered non-recurring.
+The fair value of the Term Loan was approximately $571,398 and $516,266 as of December 31, 2023 and 2022, respectively. The fair market value estimate is based on Level 2 of the fair market value hierarchy.
+Interest Expense
+Total interest expense related to debt was $36,768, $18,206 and $11,081 for the years ended December 31, 2023, 2022 and 2021, respectively.
+88
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Scheduled Principal Payments
+The scheduled principal payments required under the terms of the Credit Facility are as follows:
+Year Ending December 31, | Amount
+2024 | $ | 48,977
+2025 | 522,421
+Total | $ | 571,398
+12. Income Taxes
+As of December 31, 2023, the Company is subject to income taxation and files income tax returns in the U.S. federal jurisdiction, various U.S. state and foreign jurisdictions.
+Income Tax Provision
+The domestic and foreign components of the Company’s income/(loss) before income taxes are as follows:
+Years Ended December 31,
+2023 | 2022 | 2021
+U.S. | $ | 28,282 | $ | (224,320) | $ | (261,461)
+Foreign | 22,040 | (671) | 16,137
+Income/(loss) before income taxes | $ | 50,322 | $ | (224,991) | $ | (245,324)
+The Company’s provision for income taxes for the years ended December 31, 2023, 2022 and 2021 is comprised of the following:
+Years Ended December 31,
+2023 | 2022 | 2021
+Current:
+Federal | $ | (45,190) | $ | (21,714) | $ | 475
+State | (8,209) | (5,425) | 186
+Foreign | (3,753) | 697 | (1,290)
+Total current | (57,152) | (26,442) | (629)
+Deferred:
+Federal | (211) | (671) | 2,545
+State | (40) | (117) | (4,931)
+Foreign | — | — | (810)
+Total deferred | (251) | (788) | (3,196)
+Provision for income taxes | $ | (57,403) | $ | (27,230) | $ | (3,825)
+89
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+A reconciliation of the statutory federal income tax rate to the Company’s effective income tax rate for the years ended December 31, 2023, 2022 and 2021 is as follows:
+Years Ended December 31,
+2023 | 2022 | 2021
+Expected (provision for)/benefit from income tax at federal statutory tax rate (21%)
+$ | (10,568) | $ | 47,248 | $ | 51,518
+Effect of:
+State and local income taxes, net of federal benefit | (2,269) | (2,665) | 3,066
+Nondeductible transaction expenses
+— | — | (48,280)
+Stock-based compensation | 1,621 | (2,617) | 14,476
+Effect of foreign operations | 1,282 | (2,267) | 164
+Foreign-derived intangible income deduction | 5,652 | 4,575 | —
+Research and development credits
+7,631 | 15,936 | 10,562
+Nondeductible executive compensation
+(5,878) | (7,426) | (6,914)
+Valuation allowance | (52,613) | (28,490) | (26,866)
+Unrecognized tax benefits | (2,309) | (3,547) | (2,787)
+Impairment charge | — | (47,284) | —
+Other adjustments | 48 | (693) | 1,236
+Provision for income taxes | $ | (57,403) | $ | (27,230) | $ | (3,825)
+The Company’s estimated annual effective income tax rate for the year ended December 31, 2023, differed from the statutory rate of 21%, primarily due to the change in the valuation allowance for deferred tax assets related primarily to the capitalization and amortization of research and development expenditures as required by the 2017 Tax Cuts and Jobs Act, nondeductible executive compensation, unrecognized tax benefits and state and local income taxes, partially offset by research and development credits, foreign-derived intangible income deduction and stock-based compensation.
+Deferred Income Taxes
+Deferred tax assets and liabilities reflect the effects of net operating losses, income tax credits and the future income tax effects of temporary differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases measured using enacted tax rates that apply to taxable income in the years in which those temporary differences are expected to be recovered or settled.
+90
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Significant components of the Company’s deferred income tax assets and liabilities were as follows:
+December 31,
+2023 | 2022
+Deferred tax assets:
+Accrued expenses | $ | 5,877 | $ | 4,540
+Operating lease liabilities
+26,458 | 29,048
+Net operating loss carryforwards | 2,711 | 3,906
+Stock-based compensation | 10,002 | 12,582
+Research and development capitalization
+93,770 | 49,390
+Unrealized gains/losses on foreign exchange
+941 | —
+Other | 156 | 167
+Gross deferred tax assets | 139,915 | 99,633
+Valuation allowance
+(104,380) | (56,966)
+Net deferred tax assets
+35,535 | 42,667
+Deferred tax liabilities:
+Deferred expenses | (4,114) | (3,458)
+Fixed assets
+(3,961) | (5,392)
+Intangible assets
+(10,089) | (11,413)
+Operating lease right-of-use assets
+(18,410) | (20,516)
+Unrealized gains/losses on foreign exchange
+— | (2,676)
+Total deferred tax liabilities | (36,574) | (43,455)
+Net deferred tax liabilities
+$ | (1,039) | $ | (788)
+As of December 31, 2023, the Company had federal net operating loss carryovers of approximately $715 and state net operating loss carryovers of approximately $35,746 (post-apportioned). The federal net operating loss may be carried forward indefinitely. The state net operating loss carryforwards, if not utilized, will expire on various dates, beginning in 2032. The Company had no research tax credit carryforwards as of December 31, 2023.
+The need for a valuation allowance requires an assessment of both positive and negative evidence when determining whether it is more-likely-than-not that deferred tax assets are recoverable. As of December 31, 2023, the Company recorded a full valuation allowance of $104,380 against all federal, state and foreign deferred tax assets that the Company believes will not be realizable on a more-likely-than-not basis. Such assessment is required on a jurisdiction-by-jurisdiction basis. In making such assessment, significant weight is given to evidence that can be objectively verified. A significant piece of objective negative evidence evaluated was the cumulative loss incurred by the Company over the three-year period ending December 31, 2023. After considering both positive and negative evidence to assess the recoverability of the Company's net deferred tax assets and given the substantial amount of deferred tax assets that will remain unutilized to offset reversing deferred tax liabilities, the Company determined that it was not more-likely-than-not that it would realize any of its deferred tax assets. The Company intends to continue maintaining a full valuation allowance on its federal, state and foreign deferred tax assets until there is sufficient evidence to support the reversal of all or some portion of these allowances.
+As of December 31, 2023, the Company considered a significant portion of the earnings of foreign subsidiaries to be not permanently reinvested outside the U.S. The incremental deferred federal and state income taxes or foreign withholding taxes are not material to the financial statements as those respective earnings have previously been subject to U.S. taxation or will receive a dividend received deduction.
+91
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Uncertain Tax Benefits
+A reconciliation of the beginning and ending amount of unrecognized tax benefits for the years ended December 31, 2023 and 2022 is as follows:
+Unrecognized Tax Benefits
+Balance at December 31, 2021
+$ | 8,317
+Additions based on tax positions taken during a prior period | 1,004
+Expirations based on tax positions taken during the current period | (1,749)
+Additions based on tax positions taken during the current period | 3,583
+Balance at December 31, 2022
+$ | 11,155
+Reductions based on tax positions taken during a prior period
+(912)
+Expirations based on tax positions taken during the current period | (1,161)
+Additions based on tax positions taken during the current period | 2,581
+Balance at December 31, 2023
+$ | 11,663
+All unrecognized tax benefits have been recorded to other liabilities in the consolidated balance sheets. As of December 31, 2023, unrecognized tax benefits approximated $11,663, all of which would affect the effective tax rate if recognized. As of December 31, 2022, unrecognized tax benefits approximated $11,155, which would not affect the effective tax rate if recognized due to the valuation allowance. The Company does not believe that its unrecognized tax benefits as of December 31, 2023 will significantly increase or decrease within the next twelve months. The Company's policy is to include interest and penalties related to unrecognized tax benefits within the Company's provision for income taxes. As of December 31, 2023, accrued interest and penalties were $905 and there were no accrued interest and penalties as of December 31, 2022.
+The Company’s federal income tax returns for the years ended December 31, 2019 through December 31, 2022 remain subject to examination. The Company’s corporate income tax returns for the years ended December 31, 2019 through December 31, 2022 remain subject to examination by taxing authorities in various U.S. states and Ireland. In addition, in the U.S., any net operating losses or credits that were generated in prior years but utilized in open years may also be subject to examination.
+On December 15, 2022, the Ireland Finance Act 2022 was signed into Irish law. With the enactment of the Ireland Finance Act 2022, qualifying Ireland related research and development tax credits do not depend on the generation of future taxable income. As a result, the Company determined these credits to be a credit to research and development expenses in the form of a government grant as analogized under International Accounting Standards 20, Accounting for Government Grants and Disclosure of Government Assistance. As of December 31, 2023, the Company recognized Ireland related research and development tax credits of $495, as a reduction to research and product development in the consolidated statements of operations.
+Supplemental Information: Valuation Allowance
+A reconciliation of the beginning and ending valuation allowance for the years ended December 31, 2023 and 2022 is as follows:
+Valuation Allowance
+Balance at December 31, 2021
+$ | 26,875
+Charged to expenses
+30,054
+Charged to other accounts
+37
+Balance at December 31, 2022
+$ | 56,966
+Charged to expenses
+47,459
+Credited to other accounts
+(45)
+Balance at December 31, 2023
+$ | 104,380
+92
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+13. Commitments and Contingencies
+Indirect Taxes
+The Company is subject to indirect taxation in some, but not all, of the various U.S. states and foreign jurisdictions in which it conducts business. Therefore, the Company has an obligation to charge, collect and remit Value Added Tax (“VAT”) or Goods and Services Tax (“GST”) in connection with certain foreign sales transactions and sales and use tax in connection with eligible sales to subscribers in certain U.S. states. On June 21, 2018, the U.S. Supreme Court overturned the physical presence nexus standard and held that states can require remote sellers to collect sales and use tax. In addition, U.S. states and foreign jurisdictions have and continue to enact laws which expand tax collection and remittance obligations that could apply to a platform like the Company's. This also includes the requirement for e-commerce platforms to collect and remit taxes on certain sales through a marketplace. As a result of these rulings, recently enacted laws, and the scope of the Company’s operations, taxing authorities continue to provide regulations that increase the complexity and risks to comply with such laws and could result in substantial liabilities, prospectively as well as retrospectively. In accordance with ASC 450, the Company establishes accruals for contingencies, including uncertainties related to taxes not based on income, when the Company believes it is probable that a loss has been incurred and the amount of the loss can be reasonably estimated. Based on the information available, the Company continues to evaluate and assess the jurisdictions in which indirect tax nexus exists and believes that the indirect tax liabilities are adequate and reasonable. However, due to the complexity and uncertainty around the application of these rules by taxing authorities, results may vary materially from the Company’s expectations. The Company had indirect tax contingencies of $29,836 and $25,857, included in the indirect tax liability of $38,174 and $33,486 as of December 31, 2023 and 2022, respectively, which is presented as part of accrued liabilities in the consolidated balance sheets.
+Purchase Obligations – Cloud-Computing Services and Software-as-a-Service
+As of December 31, 2023, the Company had outstanding non-cancelable purchase obligations with a term of 12 months or longer, mainly related to third-party cloud-computing as well as software-as-a-service services, as follows:
+Year Ending December 31,
+Amount
+2024 | 18,500
+2025 | 20,500
+2026 | 22,500
+2027 | 25,000
+Total | $ | 86,500
+Certain Risks and Concentrations
+The Company’s revenues were principally generated from SaaS customers establishing their online presence. The market is highly competitive and rapidly changing. Significant changes in this industry, technological advances or changes in customer buying behavior could adversely affect the Company’s future results of operations.
+Other
+The Company is subject to litigation and other claims that arise in the ordinary course of business. While the ultimate result of outstanding legal matters cannot presently be determined, the Company does not expect that the ultimate disposition will have a material adverse effect on its results of operations or financial condition. However, legal matters are inherently unpredictable and subject to significant uncertainties, some of which are beyond the Company’s control. Based on the Company’s current knowledge, the final outcome of any particular legal matter will not have a material adverse effect on the Company’s financial condition.
+14. Leases
+The Company has operating leases for its office space with lease terms through 2034. Certain lease agreements include options to extend and/or terminate the lease. The Company's lease agreements do not contain terms and conditions of material restrictions, covenants or residual value guarantees. Variable lease costs are comprised primarily of the Company's proportionate share of operating expenses and property taxes.
+93
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+On March 10, 2022, the Company entered into an agreement to sublease a portion of one of its office spaces in Chicago, IL which ended on May 30, 2023. The Company recorded sublease income related to the Chicago, IL office space sublease of $152 and $293 during the years ended December 31, 2023 and 2022, respectively.
+On March 31, 2022, the Company reassessed the useful life of its operating lease right-of-use asset related to its leased office space in Los Angeles, CA due to ceasing the use of the office space with no expected future benefit. As a result, the Company recorded an additional $258 of operating lease expense in the consolidated statement of operations during the year ended December 31, 2022.
+On September 30, 2022, the Company remeasured the lease liability and adjusted the right-of-use asset related to its leased office space in Portland, OR due to a reassessment of the lease term. As a result, the associated operating lease liability and operating lease right-of-use asset were reduced by $3,213 in the consolidated balance sheet as of December 31, 2022.
+Additionally, during the year ended December 31, 2022, the Company determined the carrying value of certain right-of-use assets were not recoverable based on undiscounted future cash flows. The Company used the income approach to determine the fair value of the right-of-use assets, including Level 3 inputs of the fair market value hierarchy, based on discounted projected future cash flows over the remaining lease term using a discount rate similar to the current incremental borrowing rate. As a result, the Company recorded aggregated impairment losses of $2,038 in general and administrative expenses in the consolidated statement of operations during the year ended December 31, 2022.
+The components of operating lease expense, net recognized in the consolidated statement of operations were as follows:
+Years Ended December 31,
+2023 | 2022
+Operating lease costs
+Operating lease costs | $ | 13,552 | $ | 16,504
+Variable lease costs | 3,615 | 1,931
+Short-term lease costs | 264 | 130
+Operating lease income
+Sublease income | $ | 445 | $ | 648
+Total operating lease expense, net | $ | 16,986 | $ | 17,917
+Supplemental disclosure of cash and non-cash operating activities related to operating leases were as follows:
+Years Ended December 31,
+2023 | 2022
+Cash paid for amounts included in the measurement of operating lease liabilities, net of cash received for lease incentives | $ | 15,860 | $ | 14,229
+Operating lease right-of-use assets obtained in exchange for operating lease liabilities | $ | — | $ | 255
+The weighted-average lease term and discount rate related to operating leases were as follows:
+Years Ended December 31,
+2023 | 2022
+Weighted-average remaining lease term (in years) | 7.31 | 8.25
+Weighted-average discount rate use in measuring operating lease liabilities | 3.75 | % | 3.75 | %
+94
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+As of December 31, 2023, maturities of operating lease liabilities were as follows:
+Year Ending December 31,
+Amount
+2024 | 16,512
+2025 | 16,898
+2026 | 17,622
+2027 | 17,085
+2028
+17,302
+Thereafter | 41,207
+Total operating lease payments | 126,626
+Less: imputed interest | (16,272)
+Total operating lease liabilities | $ | 110,354
+15. Redeemable Convertible Preferred Stock
+The Company previously issued Series A-1, Series A-2 and Series B redeemable convertible preferred stock prior to the Direct Listing. Immediately prior to the completion of the registration statement in connection with the Direct Listing being declared effective, all outstanding shares of the Company’s redeemable convertible preferred stock converted into an aggregate of 54,862,435 shares of Class A common stock and 49,583,897 shares of Class B common stock.
+On May 10, 2021, the Company amended and restated its certificate of incorporation which authorized the board of directors to be able to issue preferred stock in one or more series without stockholder approval, unless required by law or the NYSE. The Company authorized 100,000,000 shares of preferred stock, par value $0.0001 per share. The board of directors has the discretion to determine the rights, preferences, privileges and restrictions, including voting rights, dividend rights, conversion rights, redemption privileges and liquidation preferences, of each series of preferred stock. The purpose of authorizing the Company's board of directors to issue preferred stock and determine its rights and preferences is to eliminate delays associated with a stockholder vote on specific issuances including possible acquisitions, future financing and other corporate purposes.
+16. Stockholders’ Deficit
+Class A Common Stock
+On May 19, 2021, the Company completed the Direct Listing of its Class A common stock. Each holder of shares of Class A common stock shall be entitled to one vote for each share held. As of December 31, 2023, the number of authorized shares of Class A common stock, par value $0.0001 per share, by the Company was 1,000,000,000.
+On May 10, 2022, the board of directors authorized a general share repurchase program of the Company’s Class A common stock of up to $200,000, with no fixed expiration (the "Stock Repurchase Plan"). These Class A common stock repurchases may occur in the open market, through privately negotiated transactions, through block purchases, other purchase techniques including the establishment of one or more plans under Rule 10b5-1 of the Securities Exchange Act of 1934 or by any combination of such methods. The timing and actual amount of shares repurchased will depend on a variety of different factors and may be modified, suspended or terminated at any time at the discretion of the board of directors.
+During the years ended December 31, 2023 and 2022, the Company repurchased 1,279,256 and 5,531,186 shares and paid cash of $25,989 and $120,193, including commissions of $26 and $113, respectively, under the Stock Repurchase Plan through open market purchases. The weighted-average price per share for the share repurchases was $22.17 and $21.28, respectively, during the years ended December 31, 2023 and 2022. As of December 31, 2023, approximately $53,818 remained available for stock repurchase pursuant to the Stock Repurchase Plan.
+Class B Common Stock
+Each holder of shares of Class B common stock shall be entitled to ten votes for each share held.
+Each outstanding share of the Company's Class B common stock is convertible into one share of Class A common stock at any time. During the year ended December 31, 2021, an aggregate of 17,382,845 shares of the Company's outstanding Class B common stock converted into an aggregate of 17,382,845 shares of Class A common stock. As of December 31, 2023, the number of authorized shares of Class B common stock, par value $0.0001 per share, by the Company was 100,000,000.
+95
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Class C Common Stock
+On March 15, 2021, the Company amended the certificate of incorporation and created Class C common stock with authorized shares of 7,673,154 and a par value of $0.0001. The Class C common stock has similar rights as the Company’s Class A common stock and Class B common stock, except the Class C common stock does not have any voting rights. Subsequent to the amendment, the Company issued 4,452,023 shares of its Class C common stock for proceeds of $304,609, less $200 of issuance costs.
+On March 31, 2021, the Company issued 2,750,330 shares of its Class C common stock as a part of the purchase of Tock for a total consideration of $188,179. See “Note 4. Acquisitions” for further information on the purchase price structure.
+Immediately prior to the registration statement in connection with the Direct Listing being declared effective, all outstanding shares of the Company’s Class C common stock converted into an aggregate of 7,202,353 shares of Class A common stock.
+On May 10, 2021, the Company created a new Class C common stock pursuant to the Company's amended and restated certificate of incorporation. As of December 31, 2023, the number of authorized shares of the new Class C common stock, par value $0.0001 per share, by the Company was 1,000,000,000. The board of directors has the authority, without stockholder approval except as required by the NYSE, to issue shares of the Company's Class C common stock. The new Class C common stock is not convertible into shares of Class A common stock or Class B common stock and has no voting rights. As of December 31, 2023, the Company has not issued any shares of the new Class C common stock.
+Dividend
+The Company shall not declare or pay dividends on Class A common stock, Class B common stock or Class C common stock unless the same dividend or distribution with the same record date and payment dated shall be declared or paid on all shares of Class A, Class B and Class C common stock.
+During the years ended December 31, 2023 and 2022 the Company did not declare or pay any dividends. During the year ended December 31, 2021, the Company did not declare any dividends and dividends paid were not material.
+17. Accumulated Other Comprehensive Loss
+Accumulated other comprehensive loss activity for the years ended December 31, 2023, 2022 and 2021 was as follows:
+Foreign Currency Translation Adjustments | Net Unrealized Gains/(Losses) on Marketable Securities
+Total Accumulated Other Comprehensive Income/(Loss)
+Balance at December 31, 2020 | $ | 2,341 | $ | 114 | $ | 2,455
+Other comprehensive loss before reclassifications
+(2,511) | (189) | (2,700)
+Benefit from income taxes | — | 37 | 37
+Other comprehensive loss
+(2,511) | (152) | (2,663)
+Balance at December 31, 2021 | $ | (170) | $ | (38) | $ | (208)
+Other comprehensive loss before reclassifications | (1,279) | (178) | (1,457)
+Other comprehensive loss | (1,279) | (178) | (1,457)
+Balance at December 31, 2022 | $ | (1,449) | $ | (216) | $ | (1,665)
+Other comprehensive income before reclassifications
+606 | 216 | 822
+Other comprehensive income
+606 | 216 | 822
+Balance at December 31, 2023 | $ | (843) | $ | — | $ | (843)
+Amounts reclassified out of accumulated other comprehensive loss, net of taxes, during the years ended December 31, 2023 and 2022 were not material.
+96
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+18. Stock-based Compensation
+Stock Options
+Squarespace, Inc. Amended and Restated 2008 Equity Incentive Plan
+In January 2008, the Company established and approved the Squarespace, Inc. 2008 Equity Incentive Plan which was ratified in 2010 and was subsequently amended and restated in March 2016 (“the 2008 Plan”). Under the 2008 Plan, which covers certain employees and consultants, the Company granted shares of its Class B common stock in the form of stock options. The stock options granted have a contractual life of ten years and generally vest over four years. The exercise price of the stock options was equal to the fair value of the Class B common stock of the Company as of the date of grant, as determined by the Company’s board of directors. After November 17, 2017, there were no additional grants from the 2008 Plan.
+A summary of the Company’s stock option activity for the 2008 Plan during the years ended December 31, 2023, 2022 and 2021 is as follows:
+Number of
+Options
+Weighted-
+Average
+Exercise
+Price
+Weighted-
+Average
+Remaining
+Life
+(years)
+Aggregate
+Intrinsic
+Value
+As of December 31, 2020
+5,228,413 | $ | 1.93 | 3.60 | $ | 246,101
+Exercised
+(3,326,356) | 1.43
+Forfeited and expired
+(4,570) | 3.31
+As of December 31, 2021
+1,897,487 | $ | 2.80 | 3.89 | $ | 50,585
+Exercised
+(674,773) | 3.36
+Forfeited and expired
+(40,689) | 0.43
+As of December 31, 2022
+1,182,025 | $ | 2.58 | 2.73 | $ | 23,159
+Exercised
+(63,911) | 2.94
+Forfeited and expired
+(498) | 1.82
+As of December 31, 2023
+1,117,616 | $ | 2.56 | 1.72 | $ | 34,034
+Vested at December 31, 2023
+1,117,616 | $ | 2.56 | 1.72 | $ | 34,034
+Exercisable at December 31, 2023
+1,117,616 | $ | 2.56 | 1.72 | $ | 34,034
+As of December 31, 2023, 2022 and 2021, there were no unrecognized compensation costs for stock options. The excess tax benefit of stock option exercises was $65, $684 and $5,961 for the years ended December 31, 2023, 2022 and 2021, respectively.
+The Company recognizes the impact of forfeitures in the period that the option is forfeited. All of the Company’s option awards are amortized on a straight-line basis over the requisite service periods of the awards.
+Restricted Stock Units (“RSUs”) and Performance Stock Units (“PSUs”)
+Squarespace, Inc. 2017 Equity Incentive Plan
+On November 17, 2017, the Company’s board of directors approved the Squarespace, Inc. 2017 Equity Incentive Plan (“the 2017 Plan”). Under the 2017 Plan, the Company may grant shares of its Class A common stock in the form of RSUs, PSUs, stock options, stock appreciation rights and other stock awards. RSUs generally vest over four years and are measured based on the fair market value of the underlying Class A common stock on the date of grant, as determined by the Company’s board of directors. After April 15, 2021, no additional grants were issued from the 2017 Plan.
+97
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Squarespace, Inc. 2021 Equity Incentive Plan
+On March 25, 2021, the Company’s board of directors adopted the Squarespace, Inc. 2021 Equity Incentive Plan (“the 2021 Plan”) which was approved by the stockholders on May 3, 2021 and went into effect on May 9, 2021. Under the 2021 Plan, the Company may grant shares of its Class A common stock in the form of RSUs, PSUs, stock options, stock appreciation rights and other stock awards. RSUs are subject to continuous service and generally vest over four years and subsequent to the Direct Listing, are measured based on the closing price of the Company’s Class A common stock as reported on the date of grant.
+During the year ended December 31, 2023, the Company granted 193,381 shares of Class A common stock in the form of PSUs under the 2021 Plan. PSUs will generally vest over 3 years and are subject to continuous service and the achievement of certain unlevered free cash flow margin and revenue growth targets. The percentage of PSUs that will vest can range from 0% to 200% based on the growth targets that are achieved. PSUs are measured based on the closing price of the Company's Class A common stock as reported on the date of grant. The related stock-based compensation expenses are recorded over the vesting period or requisite service period if the performance conditions are probable of being met and included in the consolidated statements of operations.
+A summary of the Company’s RSU and PSU activity during years ended December 31, 2023, 2022 and 2021 is as follows:
+Number of Share Units
+Weighted Average
+Grant Date Fair
+Value Per Share Unit
+Outstanding – December 31, 2020
+5,441,475 | $21.27
+Granted
+2,224,913 | 56.41
+Vested
+(1,661,752) | 18.92
+Forfeited
+(543,017) | 29.70
+Outstanding – December 31, 2021
+5,461,619 | $33.65
+Granted
+7,051,349 | 25.78
+Vested
+(2,209,501) | 33.51
+Forfeited
+(1,829,624) | 30.67
+Outstanding – December 31, 2022
+8,473,843 | $19.90
+Granted
+6,306,879 | 27.30
+Vested
+(3,363,291) | 28.00
+Forfeited
+(1,391,824) | 29.48
+Outstanding – December 31, 2023
+10,025,607 | 28.31
+As of December 31, 2023, 2022 and 2021, the fair value of share units vested was $91,364, $50,808 and $77,480, respectively. As of December 31, 2023, 2022 and 2021, there was $232,140, $192,616 and $150,324, respectively, of total unrecognized compensation costs related to RSU and PSU grants that are expected to be recognized over a weighted-average period of 2.8 years, 3.0 years and 2.8 years, respectively. The excess tax benefit of shares vested was $2,913, $2,058 and $10,589 for the years ended December 31, 2023, 2022 and 2021, respectively.
+In connection with the vesting of shares, the Company reacquired 1,357,468 shares for $36,707, 925,179 shares for $21,404 and 737,715 shares for $34,503 during the years ended December 31, 2023, 2022 and 2021, respectively, in order to satisfy employee tax withholding obligations. The employees received the net number of shares after consideration to those reacquired. The reacquired shares subsequently became available again for issuance under the Plan.
+Executive Restricted Stock Grant
+On August 22, 2017, and subsequently modified on August 24, 2020, the Company granted its CEO 4,460,858 shares of Class B common stock (the “CEO Stock Grant Agreement”) that contained a provision that required either (1) a Liquidation Event (other than a liquidation, dissolution or winding up of the Company) as defined by the CEO Stock Grant Agreement or (2) an IPO, as defined by the CEO Stock Grant Agreement, before August 22, 2021 or the shares would be forfeited. The Company estimated the fair value of the Class B common stock to be $51.40 per share on the modification date.
+98
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+On May 19, 2021, upon completion of the Direct Listing, 4,460,858 shares of Class B common stock vested in accordance with the CEO Stock Grant Agreement. As a result, the Company recorded stock-based compensation expense of $229,288 in general and administrative expenses in the consolidated statement of operations during the year ended December 31, 2021.
+Casalena Performance Award
+On April 15, 2021 (“Grant Date”), the board of directors of the Company approved an RSU grant to Anthony Casalena, CEO, of 2,750,000 Class A common shares (“Casalena Performance Award”). The Casalena Performance Award vesting is contingent on both service- and market-based vesting conditions. The market-based vesting condition is based on the achievement of specified Class A common stock price targets during the period beginning upon the effectiveness of the registration statement and ending on the fifth anniversary of the Grant Date (“Performance Period”). The Casalena Performance Award is divided into ten equal tranches. The market-based vesting condition is eligible to vest based on the achievement of ten different and progressively increasing stock price targets. The targets will be deemed to have been achieved when the average closing price of a share of the Company’s Class A common stock on the trading days over any consecutive thirty calendar day period during the Performance Period equals or exceeds the applicable Class A common stock price target. The service-based vesting condition is deemed met in four equal installments over four years starting on the first anniversary of the Grant Date. Although the service-based vesting condition period is four years, Mr. Casalena must be employed by the Company at the time the market condition is met in order to vest in any tranche of the award.
+The Company estimated the fair value of the Casalena Performance Award on the grant date to be approximately $83,534 using a Monte Carlo simulation with a weighted-average grant date fair value of $30.38 per Class A common share. The Company will recognize the fair value of the award as stock-based compensation expense using the accelerated attribution method over the longer of (i) the period of time the market condition for each tranche is expected to be met (i.e., the derived service period) or (ii) the service vesting condition of four years.
+The applicable stock price targets are as follows:
+Company Stock Price Target
+Cumulative Number
+of Shares of Vest
+$105.00 | 275,000
+$140.00 | 550,000
+$175.00 | 825,000
+$210.00 | 1,100,000
+$245.00 | 1,375,000
+$280.00 | 1,650,000
+$315.00 | 1,925,000
+$350.00 | 2,200,000
+$385.00 | 2,475,000
+$420.00 | 2,750,000
+During the years ended December 31, 2023, 2022 and 2021, the Company recorded compensation expense of $19,530, $31,008 and $24,776, respectively, related to the Casalena Performance Award in general and administrative expenses in the consolidated statements of operations.
+99
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Stock-Based Compensation
+The classification of stock-based compensation by line item in the consolidated statements of operations was as follows:
+Years Ended December 31,
+2023 | 2022 | 2021
+Cost of revenue | $ | 5,536 | $ | 3,414 | $ | 1,545
+Research and product development | 54,806 | 42,237 | 33,030
+Marketing and sales | 10,856 | 8,696 | 5,929
+General and administrative | 36,551 | 48,186 | 267,420
+Total stock-based compensation | $ | 107,749 | $ | 102,533 | $ | 307,924
+The amount above excludes $3,940, $980 and $380 of stock compensation capitalized as property and equipment, net, for the years ended December 31, 2023, 2022 and 2021, respectively. The tax benefit associated with stock-based compensation was $22,175, $17,126 and $19,135, which was entirely offset by the Company’s valuation allowance, for the years ended December 31, 2023, 2022 and 2021, respectively.
+During the year ended December 31, 2022, certain RSUs were modified to allow for accelerated vesting. During the year ended December 31, 2022, the Company recorded stock-based compensation expense of $5,941 related to the modified awards.
+Shares Available for Future Issuance
+As of May 9, 2021, all shares available under the 2008 and 2017 Plans will continue to remain available but will no longer be available for future issuance. The shares available will continue to include all shares forfeited and expired and reacquired to satisfy employee tax withholding obligations that were issued under the 2008 and 2017 Plans.
+The following table summarizes the shares available under the 2008 and 2017 Plans:
+Shares Available
+Under the 2008 and 2017 Plans
+Balance as of December 31, 2020 | 8,727,557
+Granted | (1,165,141)
+Casalena Performance Award granted | (2,750,000)
+Forfeited and expired | 500,245
+Reacquired to satisfy employee tax withholding obligations | 737,715
+Balance as of December 31, 2021 | 6,050,376
+Granted | —
+Forfeited and expired | 918,956
+Reacquired to satisfy employee tax withholding obligations | 858,117
+Balance as of December 31, 2022 | 7,827,449
+Granted | —
+Forfeited and expired | 118,514
+Reacquired to satisfy employee tax withholding obligations | 378,180
+Balance as of December 31, 2023 | 8,324,143
+100
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+The following table summarizes the shares available for future issuance under the 2021 Plan:
+Shares Available for
+Future Grant
+Under the 2021 Plan
+Balance as of December 31, 2020 | —
+Class A common shares available for issuance | 19,250,000
+Granted
+(1,059,772)
+Forfeited
+47,342
+Balance as of December 31, 2021 | 18,237,570
+Granted
+(7,051,349)
+Forfeited
+951,357
+Reacquired to satisfy employee tax withholding obligations
+67,062
+Additional authorized shares
+6,958,569
+Balance as of December 31, 2022 | 19,163,209
+Granted
+(6,306,879)
+Forfeited
+1,273,808
+Reacquired to satisfy employee tax withholding obligations
+979,288
+Additional authorized shares
+6,779,964
+Balance as of December 31, 2023 | 21,889,390
+Annually on January 1 of each fiscal year, beginning on January 1, 2022, the authorized shares available for issuance shall be increased by a number of shares of common stock equal to 5% of the aggregate number of shares outstanding on December 31 of the year immediately prior. Accordingly, the Company increased the authorized shares available for issuance by 6,779,964 on January 1, 2023.
+19. Retirement Plans
+After three months of employment, employees of the Company may participate in a 401(k) savings plan. Employees may elect to defer portions of their salary pursuant to a formula upon meeting certain age and service requirements. Under this plan, the Company makes matching contributions on behalf of participants equal to 100% on participant contributions up to 4% of their compensation. Participants are immediately and fully vested in their voluntary contributions and all matching contributions. During the years ended December 31, 2023, 2022 and 2021, the Company contributed $8,364, $7,628 and $6,211, respectively, to this plan.
+After completing three months of service, employees of Limited may participate in a tax efficient defined contribution pension plan. Under this plan, Limited will make contributions up to 4% of the employee’s annual salary. During the years ended December 31, 2023, 2022 and 2021, Limited contributed $354, $288 and $226, respectively, to this plan.
+The Company also maintains additional defined contribution pension plans for eligible international employees belonging to our additional international subsidiaries. Contributions to these plans from these subsidiaries were immaterial for December 31, 2023, 2022 and 2021, respectively.
+The Company’s contributions are allocated on a specific identification basis for each individual employee recipient and are classified into the corresponding line item where the related employee’s cash compensation resides in the consolidated statements of operations.
+20. Related Party Transactions
+The Company's previous Chief Financial Officer, whose resignation was effective as of July 31, 2022, was appointed as a member of the board of directors of Avalara, Inc. on August 28, 2021. Transactions between Avalara, Inc. and the Company were not material through the previous Chief Financial Officer’s departure.
+Certain former members of Tock's senior management, whose resignations were effective as of December 15, 2022, had an ownership in several of the Company's restaurant customers. For the year ended December 31, 2022, these restaurant customers contributed revenue of $1,167. As of December 31, 2022, the Company had a liability of $413 due to these restaurant customers, which primarily represents diner prepayments and sales tax, and is included in funds due to customers in the consolidated balance sheet.
+101
+Table of Contents
+SQUARESPACE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+On September 1, 2014, the Company entered into an agreement with Getty Images to resell certain content to the Company’s customers. The Deputy Chairman of Getty Images is a member of the Company’s board of directors. Amounts recorded in connection with this agreement were not material for the years ended December 31, 2023, 2022 and 2021.
+21. Net Loss per Share Attributable to Class A, Class B and Class C Common Stockholders
+The Company computes net loss per share of Class A common stock, Class B common stock and Class C common stock under the two-class method required for multiple classes of common stock and participating securities. The rights, including the liquidation and dividend rights, of the Class A common stock, Class B common stock and Class C common stock are substantially identical, other than voting rights. Accordingly, the Class A common stock, Class B common stock and Class C common stock share in the Company’s net loss. Each share of Class C common stock was automatically converted into shares of Class A common stock immediately prior to the registration statement in connection with the Direct Listing being declared effective.
+The following table sets forth the computation of basic and diluted net loss per share attributable to Class A, Class B and Class C common stockholders:
+Years Ended December 31,
+2023 | 2022 | 2021
+Numerator:
+Net loss | $ | (7,081) | $ | (252,221) | $ | (249,149)
+Less: accretion of redeemable convertible preferred stock to redemption value | — | — | (969)
+Net loss attributable to Class A, Class B, Class C common stockholders, basic and dilutive | $ | (7,081) | $ | (252,221) | $ | (250,118)
+Denominator:
+Weighted-average shares used in computing net loss per share attributable to Class A, Class B and Class C common stockholders, basic and dilutive | 135,531,363 | 138,409,491 | 96,234,381
+Net loss per share attributable to Class A, Class B and Class C common stockholders, basic and dilutive | $ | (0.05) | $ | (1.82) | $ | (2.60)
+The following weighted-average outstanding shares of potentially dilutive securities were excluded from the computation of diluted net loss per share attributable to Class A, Class B and Class C common stockholders for the periods presented because including them would have been antidilutive:
+Years Ended December 31,
+2023 | 2022 | 2021
+Outstanding stock options | 1,117,616 | 1,182,027 | 1,897,487
+Restricted stock units | 9,848,165 | 8,473,843 | 5,461,619
+Total | 10,965,781 | 9,655,870 | 7,359,106
+22. Subsequent Events
+On February 26, 2024, the board of directors of the Company (the "Board") authorized a general share repurchase program of the Company’s Class A common stock of up to $500,000 with no fixed expiration. These Class A common stock repurchases may occur in the open market, through privately negotiated transactions, through block purchases, other purchase techniques including the establishment of one or more plans under Rule 10b5-1 of the Securities Exchange Act of 1934 or by any combination of such methods. The timing and actual amount of shares repurchased will depend on a variety of different factors and may be modified, suspended or terminated at any time at the discretion of the Board.
+102
+Table of Contents
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosures
+None.
+Item 9A. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+We maintain “disclosure controls and procedures”, as defined in Rule 13a-15(e) and Rule 15d-15(e) under the Exchange Act, that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, in the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.
+Our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of December 31, 2023, the end of the period covered by the Annual Report on Form 10-K. Based on the evaluation of our disclosure controls and procedures our Chief Executive Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were operating effectively and our management has concluded that our consolidated financial statements included in this Annual Report on Form 10-K are fairly stated in all material respects in accordance with U.S. GAAP.
+Management's Report on Internal Control Over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rule 13a-15(f) and 15d-15(f) under the Exchange Act. Our management conducted an assessment of the effectiveness of our internal control over financial reporting as of December 31, 2023 based on the criteria set forth in Internal Control-Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on the assessment, our management has concluded that its internal control over financial reporting was effective as of December 31, 2023 to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP. The effectiveness of our internal control over financial reporting as of December 31, 2023 has been audited by Ernst & Young LLP, an independent registered public accounting firm, as stated in their report included herein.
+Changes in Internal Control Over Financial Reporting
+There was no change in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(e) and Rule 15d-15(e) under the Exchange Act that occurred during the period covered by the Annual Report on Form 10-K that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+Inherent Limitations on Effectiveness of Controls
+Our management, including our Chief Executive Officer and Chief Financial Officer, believes that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives. However, in designing and evaluating the disclosure controls and procedures, our management recognizes that a control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, in our Company have been detected.
+Item 9B. Other Information
+On December 4, 2023, Paul Gubbay, Chief Product Officer, adopted a 10b5-1 trading plan intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act. The 10b5-1 trading plan provides for the sale of an aggregate of up to 30,000 shares of the Company's common stock, excluding any shares withheld by the Company to satisfy tax withholding obligations, between March 2024 and December 2024, subject to early termination for certain specified events set forth in the plan.
+103
+Table of Contents
+On December 11, 2023, Courtenay O’Connor, General Counsel, adopted a 10b5-1 trading plan intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act. The 10b5-1 trading plan provides for the sale of an aggregate of up to 59,726 shares of the Company's common stock, excluding any shares withheld by the Company to satisfy tax withholding obligations, between March 2024 and November 2024, subject to early termination for certain specified events set forth in the plan.
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+Not Applicable.
+104
+Table of Contents
+Part III
+Item 10. Directors, Executive Officers and Corporate Governance
+Our board of directors has adopted a code of business conduct and ethics that applies to all of our employees and directors, including our principal executive officer, principal financial officer, principal accounting officer or controller or persons performing similar functions. The full text of our code of business conduct and ethics is available on our investor relations website at investors.squarespace.com. We intend to satisfy the disclosure requirement under Item 5.05 of Form 8-K regarding amendment to, or waiver from, a provision of our code of business conduct and ethics by posting such information on the website address and location specified above.
+The remaining information required by this item will be included in our Proxy Statement for our Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2023, and is incorporated by reference.
+Item 11. Executive Compensation
+The information required by this item will be included in our Proxy Statement for our Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2023, and is incorporated by reference.
+Item 12. Security Ownership of Certain Beneficial Owner and Management and Related Stockholder Matters
+The information required by this item will be included in our Proxy Statement for our Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2023, and is incorporated by reference.
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+The information required by this item will be included in our Proxy Statement for our Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2023, and is incorporated by reference.
+Item 14. Principal Accounting Fees and Services
+The information required by this item will be included in our Proxy Statement for our Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2023, and is incorporated by reference.
+105
+Table of Contents
+Part IV
+Item 15. Exhibits, Financial Statement Schedules
+(a) The following documents are filed as a part of this Annual Report on Form 10-K:
+(1) Consolidated Financial Statements:
+Our Consolidated Financial Statements are listed in the “Index to Consolidated Financial Statements” under Part II, Item 8 of this Annual Report on Form 10-K.
+(2) Financial Statement Schedules:
+Schedules not listed above have been omitted because the information required to be set forth therein is not applicable or is shown in the financial statements or notes herein.
+(3) Exhibits
+The documents listed in the following Exhibit Index of this Annual Report on Form 10-K are incorporated by reference or are filed with this Annual Report on Form 10-K, in each case as indicated therein (numbered in accordance with Item 601 of Regulation S-K).
+Incorporated by Reference
+Exhibit No. | Exhibit Title | Form | File Number | Exhibit | Filing Date
+2.1
+Agreement and Plan of Merger, dated March 31, 2021, by and among the Registrant, Tremont 2021 Acquisition Corp, Tremont 2021 Acquisition II LLC and Tock, Inc.
+S-1
+333-255284
+2.1 | April 16, 2021
+3.1
+Amended and Restated Certificate of Incorporation of the Registrant.
+S-8
+333-255977
+4.2 | May 10, 2021
+3.2
+Amended and Restated Bylaws of the Registrant.
+S-8
+333-255977
+4.3 | May 10, 2021
+4.1
+Description of Securities.
+10-K | 001-40393 | 4.1 | March 7, 2022
+10.1
+Voting and Support Agreement between the Registrant and the stockholders of the Registrant listed therein, dated May 10, 2021.
+S-1
+333-255284
+10.1 | April 16, 2021
+10.2
+Registration Rights Agreement between the Registrant and the stockholders of the Registrant listed therein, dated May 10, 2021.
+S-1
+333-255284
+10.2 | April 16, 2021
+10.3†
+Form of Indemnification Agreement between the Registrant and each of its Directors and Executive Officers.
+S-1
+333-255284
+10.3 | April 16, 2021
+10.4†
+Squarespace, Inc. 2021 Equity Incentive Plan.
+S-8
+333-255977
+99.1 | May 10, 2021
+10.5†
+Form of Restricted Stock Unit Award Agreement pursuant to the Squarespace, Inc. 2021 Equity Incentive Plan.
+S-1
+333-255284
+10.5 | April 16, 2021
+10.6†
+Form of Performance Restricted Stock Unit Award Agreement pursuant to the Squarespace, Inc. 2021 Equity Incentive Plan.
+10-Q
+001-40393
+10.1 | May 9, 2023
+10.7†
+Form of Stock Option Award Agreement pursuant to the Squarespace, Inc. 2021 Equity Incentive Plan.
+S-1
+333-255284
+10.6 | April 16, 2021
+10.8†
+Squarespace, Inc. 2021 Employee Stock Purchase Plan.
+S-8
+333-255977
+99.2 | May 10, 2021
+10.9†
+Squarespace, Inc. 2017 Equity Incentive Plan.
+S-1
+333-255284
+10.8 | April 16, 2021
+106
+Table of Contents
+10.10†
+Form of Restricted Stock Unit Award Agreement pursuant to the Squarespace, Inc. 2017 Equity Incentive Plan.
+S-1
+333-255284
+10.9 | April 16, 2021
+10.11†
+Squarespace, Inc. Amended 2008 Equity Incentive Plan.
+S-1/A
+333-255284
+10.10 | April 26, 2021
+10.12†
+Form of Stock Option Agreement pursuant to the Squarespace, Inc. Amended 2008 Equity Incentive Plan.
+S-1/A
+333-255284
+10.11 | April 26, 2021
+10.13†
+Squarespace, Inc. Amended and Restated 2008 Equity Incentive Plan.
+S-1/A
+333-255284
+10.12 | April 26, 2021
+10.14†
+Form of Stock Option Agreement pursuant to the Squarespace, Inc. Amended and Restated 2008 Equity Incentive Plan.
+S-1/A
+333-255284
+10.13 | April 26, 2021
+10.15†
+Form of Executive Employment Agreement.
+S-1
+333-255284
+10.12 | April 16, 2021
+10.16†
+Form of Employee Invention Assignment and Confidentiality Agreement.
+S-1
+333-255284
+10.13 | April 16, 2021
+10.17†
+Employment Agreement between Squarespace, Inc. and Anthony Casalena, dated April 15, 2021.
+S-1
+333-255284
+10.14 | April 16, 2021
+10.18†
+Performance Restricted Stock Unit Agreement between Squarespace, Inc. and Anthony Casalena, dated April 15, 2021.
+S-1
+333-255284
+10.15 | April 16, 2021
+10.19
+Amended and Restated Credit Agreement, dated December 11, 2020.
+S-1
+333-255284
+10.16 | April 16, 2021
+10.20
+Amendment No. 1 to the Amended and Restated Credit Agreement, dated June 15, 2023.
+10-Q
+001-40393
+10.1 | August 8, 2023
+10.21
+Lease Agreement, between Trinity Hudson Holdings, LLC and the Registrant, dated September 19, 2014.
+S-1
+333-255284
+10.17 | April 16, 2021
+10.22
+First Amendment to the Lease Agreement, between Trinity Hudson Holdings, LLC and the Registrant, dated August 18, 2017.
+S-1
+333-255284
+10.18 | April 16, 2021
+10.23
+Second Amendment to the Lease Agreement, between Trinity Hudson Holdings, LLC and the Registrant, dated October 6, 2017.
+S-1
+333-255284
+10.19 | April 16, 2021
+10.24
+Third Amendment to the Lease Agreement, between Trinity Hudson Holdings, LLC and the Registrant, dated May 22, 2019.
+S-1
+333-255284
+10.20 | April 16, 2021
+10.25
+Fourth Amendment to the Lease Agreement, between Trinity Hudson Holdings, LLC and the Registrant, dated December 16, 2019.
+S-1
+333-255284
+10.21 | April 16, 2021
+10.26*
+Squarespace, Inc. Compensation Recovery Policy, dated October 2, 2023.
+21.1*
+List of Subsidiaries.
+23.1*
+Consent of Independent Registered Public Accounting Firm.
+24.1*
+Power of Attorney (included in the signature pages attached to this Annual Report on Form 10-K).
+31.1*
+Certification of the Registrant’s Principal Executive Officer pursuant to Exchange Act Rule 13a-14 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2*
+Certification of the Registrant’s Principal Financial Officer pursuant to Exchange Act Rule 13a-14 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1#
+Certification of Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.1
+NS*
+Inline XBRL Instance Document.
+107
+Table of Contents
+101.S
+CH*
+Inline XBRL Taxonomy Extension Schema Document.
+101.C
+AL*
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.D
+EF*
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.L
+AB*
+Inline XBRL Taxonomy Extension Label Linkbase Document.
+101.P
+RE*
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+__________________
+*Filed herewith
+†Indicates a management contract or compensatory plan.
+#The certifications furnished in Exhibit 32.1 hereto are deemed to accompany this Annual Report on Form 10-K are not deemed filed with the SEC and are not to be incorporated by reference into any filing of the Registrant under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date of this Annual Report on Form 10-K.
+108
+Table of Contents
+Item 16. Form 10-K Summary
+None.
+109
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized on February 28, 2024.
+Squarespace, Inc.
+By:
+/s/ Anthony Casalena
+Name:
+Anthony Casalena
+Title: | Chief Executive Officer
+110
+Table of Contents
+POWER OF ATTORNEY
+We, the undersigned directors and officers of Squarespace, Inc., hereby severally constitute and appoint Anthony Casalena, Nathan Gooden and Courtenay O’Connor, and each of them singly, our true and lawful attorneys, with full power to them, and to each of them singly, to sign for us and in our names in the capacities indicated below, all amendments to this Annual Report on Form 10-K, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as each of us might or could do in person, and hereby ratifying and confirming all that said attorneys, and each of them, or their substitute or substitutes, shall do or cause to be done by virtue of this Power of Attorney.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Signature | Title | Date
+/s/ Anthony Casalena
+Chief Executive Officer and Director
+(Principal Executive Officer) | February 28, 2024
+Anthony Casalena
+/s/ Nathan Gooden
+Chief Financial Officer
+(Principal Financial Officer and Principal Accounting Officer) | February 28, 2024
+Nathan Gooden
+/s/ Andrew Braccia
+Director | February 28, 2024
+Andrew Braccia
+/s/ Michael Fleisher
+Director | February 28, 2024
+Michael Fleisher
+/s/ Liza Landsman
+Director | February 28, 2024
+Liza Landsman
+/s/ Anton Levy
+Director | February 28, 2024
+Anton Levy
+/s/ Jonathan Klein
+Director | February 28, 2024
+Jonathan Klein
+/s/ Neela Montgomery
+Director | February 28, 2024
+Neela Montgomery
+111

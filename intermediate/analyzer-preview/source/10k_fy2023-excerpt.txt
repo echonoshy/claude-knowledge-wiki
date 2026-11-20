@@ -1,0 +1,13 @@
+2023 财年 Form 10-K · 回购相关原文节选
+[SOURCE: SEC EDGAR | form: 10-K | filed: 2024-02-28 | accession: 0001496963-24-000010 | url: https://www.sec.gov/Archives/edgar/data/1496963/000149696324000010/sqsp-20231231.htm]
+
+左边是完整规范化文本里的原始行号。
+
+2225  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+2226  (in thousands, except share and per share data)
+
+2243  16. Stockholders’ Deficit
+2244  Class A Common Stock
+2245  On May 19, 2021, the Company completed the Direct Listing of its Class A common stock. Each holder of shares of Class A common stock shall be entitled to one vote for each share held. As of December 31, 2023, the number of authorized shares of Class A common stock, par value $0.0001 per share, by the Company was 1,000,000,000.
+2246  On May 10, 2022, the board of directors authorized a general share repurchase program of the Company’s Class A common stock of up to $200,000, with no fixed expiration (the "Stock Repurchase Plan"). These Class A common stock repurchases may occur in the open market, through privately negotiated transactions, through block purchases, other purchase techniques including the establishment of one or more plans under Rule 10b5-1 of the Securities Exchange Act of 1934 or by any combination of such methods. The timing and actual amount of shares repurchased will depend on a variety of different factors and may be modified, suspended or terminated at any time at the discretion of the board of directors.
+2247  During the years ended December 31, 2023 and 2022, the Company repurchased 1,279,256 and 5,531,186 shares and paid cash of $25,989 and $120,193, including commissions of $26 and $113, respectively, under the Stock Repurchase Plan through open market purchases. The weighted-average price per share for the share repurchases was $22.17 and $21.28, respectively, during the years ended December 31, 2023 and 2022. As of December 31, 2023, approximately $53,818 remained available for stock repurchase pursuant to the Stock Repurchase Plan.

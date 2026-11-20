@@ -1,0 +1,128 @@
+01 Google Domains 收购
+
+data_room/docs/10k_fy2023.txt:625
+On September 7, 2023, we closed an asset purchase agreement with Google LLC ("Google") to acquire, among other things, Google's domain assets, including all domain names for which Google is the registrar or reseller, for a total amount paid of $180.7 million (the "Google Domains Asset Acquisition "). See "Item 8. Financial Statements and Supplementary Data, Note 4. Acquisitions" for further information. Unique subscriptions and average revenue per unique
+
+data_room/docs/10k_fy2023.txt:1717-1718
+On June 15, 2023, the Company entered into an asset purchase agreement (the "Google Domains APA") between the Company and Google to acquire, among other things, Google's domain assets, including all domain names for which Google was the registrar or reseller. The Google Domains Asset Acquisition closed on September 7, 2023 (the “Closing Date”) subsequent to certain regulatory approvals and customary closing conditions.
+The Company recognized the transaction as an asset acquisition. The total amount paid for the Google Domains Asset Acquisition was $180,721, including direct transaction costs of $721, which was paid on the Closing Date. The Company funded the asset acquisition with cash on hand as well as the proceeds from additional term loan commitments of $100,000 which were funded on the Closing Date. See “Note 11. Debt” for further information on the additional term loan commitments funded during the year ended December 31, 2023. Based on the relative fair values of the assets acquired in the Google Domains APA, $176,721 was allocated to the asset classified as customer relationships and included in intangible assets, net in the consolidated balance sheet. The identifiable finite-lived intangible asset is being amortized over its useful life, which was estimated to be 4 years as of the Closing Date, and is included in marketing and sales in the consolidated statement of operations. The remaining $4,000 of the total amount paid was related to a transaction service agreement (the "Google TSA") between the Company and Google and is included within prepaid expenses and other current assets in the consolidated balance sheet as of December 31, 2023. The Google TSA is being amortized over the expected service period which was estimated to be 8 months as of the Closing Date with expenses allocated to research and product development expenses and cost of revenue in the consolidated statement of operations based on the nature of the services being provided to the Company.
+
+====
+
+02 订阅运营指标
+
+data_room/docs/10k_fy2023.txt:1028-1033
+Years Ended December 31,
+2023 | 2022 | 2021
+Unique subscriptions (in thousands) | 4,631 | 4,204 | 4,086
+Total bookings (in thousands) | $ | 1,075,096 | $ | 906,056 | $ | 813,060
+ARRR (in thousands) | $ | 1,105,743 | $ | 931,708 | $ | 835,194
+ARPUS | $ | 228.02 | $ | 209.16 | $ | 202.54
+
+====
+
+03 Tock 收购与减值
+
+data_room/docs/10k_fy2023.txt:1721
+On March 31, 2021 (the "Tock Acquisition Date"), the Company acquired all of the equity interests in Tock, a reservation platform for prepaid reservations, access to restaurant management data and other customization features. The purpose of the acquisition was to expand the Company’s complementary suite of services available with a platform for reservations, take-out, delivery and events for the hospitality industry. The total consideration for the transaction was $425,710, consisting of $226,821 of cash, $188,179 of the Company’s Class C common stock and $10,710 of net working capital adjustments. The Company recognized this transaction as a business combination.
+
+data_room/docs/10k_fy2022.txt:1800
+During the year ended December 31, 2022, the Company recognized a non-cash goodwill impairment charge of $225,163 included in impairment charge on the consolidated statements of operations. The charge was primarily due to market values deteriorating subsequent to the Tock acquisition in March 2021. The following are key assumptions used in determining the fair value of the reporting unit goodwill.
+
+====
+
+04 一季度现金流调节
+
+data_room/docs/10q_q1_2024.txt:1179-1186
+Three Months Ended March 31,
+($ in thousands) | 2024 | 2023
+Cash flows from operating activities | $ | 85,219 | $ | 64,155
+Cash paid for capital expenditures
+(3,385) | (3,075)
+Free cash flow | 81,834 | 61,080
+Cash paid for interest, net of the associated tax benefit | 7,488 | 6,016
+Unlevered free cash flow | $ | 89,322 | $ | 67,096
+
+====
+
+05 股东大会和投票权
+
+data_room/docs/def14a_2024.txt:32
+We cordially invite you to attend the 2024 annual meeting of stockholders (the “Annual Meeting”) of Squarespace, Inc., a Delaware corporation, which will be held as a virtual meeting on Tuesday, June 4, 2024 at 12:00 p.m. Eastern Time. The Annual Meeting will be held through a live webcast at www.virtualshareholdermeeting.com/SQSP2024 where you will be able to submit questions and vote online. We are holding the Annual Meeting for the following purposes, as more fully described in the accompanying proxy statement:
+
+data_room/docs/def14a_2024.txt:38
+Our board of directors has fixed the close of business on April 8, 2024 as the record date for the Annual Meeting (the “Record Date”). Only stockholders of record on April 8, 2024 are entitled to notice of and to vote at the Annual Meeting. Further information regarding voting rights and the matters to be voted upon is presented in the accompanying proxy statement. On or about April 22, 2024, we expect to mail to our stockholders a Notice of Internet Availability of Proxy Materials (the "Notice"), containing instructions on how to access our proxy statement and annual report. The Notice provides instructions on how to vote via the Internet or by telephone and includes instructions on how to receive a paper copy of our proxy materials by mail.
+
+data_room/docs/def14a_2024.txt:474
+†Percentage of total voting power represents voting power with respect to all shares of our Class A common stock and Class B common stock, as a single class. Shares of our Class A common stock entitle the holder to one vote per share, shares of our Class B common stock entitle the holder to ten votes per share.
+
+====
+
+06 两版终止费
+
+data_room/docs/8k_merger_announcement.txt:67
+The Merger Agreement contains certain termination rights for the Buyer Parties. Upon termination of the Merger Agreement under specified circumstances, including the Company terminating the Merger Agreement to enter into an Alternative Acquisition Agreement with respect to a Superior Proposal in accordance with the “fiduciary out” provisions of the Merger Agreement or Parent terminating the Merger Agreement in the event of a Recommendation Change, the Company will be required to pay Parent a termination fee of $198,700,000. The $198,700,000 termination fee will also be payable by the Company if the Merger Agreement is terminated under certain circumstances and prior to such termination, an Acquisition Proposal for an Acquisition Transaction is publicly announced or disclosed and any Acquisition Transaction is consummated or the Company enters into an agreement providing for the consummation of any Acquisition Transaction within 12 months of the termination.
+
+data_room/docs/8k_merger_announcement.txt:69
+The Merger Agreement also contains certain termination rights for the Company. Upon termination of the Merger Agreement under specified circumstances, Parent will be required to pay the Company a termination fee of $231,816,666.67.
+
+data_room/docs/8k_amended_agreement.txt:129-130
+Parent terminating the A&R Merger Agreement in the event of a Recommendation Change, the Company will be required to pay Parent a termination fee of $210,493,094.39. The $210,493,094.39 termination fee will also be payable by the Company if the
+A&R Merger Agreement is terminated under certain circumstances and prior to such termination, an Acquisition Proposal for an Acquisition Transaction is publicly announced or disclosed and any Acquisition Transaction is consummated or the Company
+
+data_room/docs/8k_amended_agreement.txt:132-133
+The A&R Merger Agreement also contains certain termination rights for the Company. Upon termination of the Merger Agreement under specified
+circumstances, Parent will be required to pay the Company a termination fee of $245,575,276.79.
+
+====
+
+07 Centerview DCF
+
+data_room/docs/defm14a_merger_proxy.txt:1449
+In performing this analysis, Centerview calculated a range of implied enterprise values for Squarespace by discounting to present value as of April 30, 2024 (using discount rates ranging from 12.5% to 14.5%, based upon Centerview’s analysis of Squarespace’s weighted average cost of capital, determined using the capital asset pricing model and based on considerations that Centerview deemed relevant in its professional judgment and experience): (i) the forecasted unlevered free cash flows (after treating stock-based compensation as a cash expense) of Squarespace based on the Forecasts over the period beginning May 1, 2024 and ending on December 31, 2029, as approved by the Special Committee and utilized by Centerview at the direction of the Special Committee (see the section of this proxy statement captioned “Special Factors—Unaudited Prospective Financial Information”) and (ii) a range of implied terminal values of Squarespace at the end of the forecast period shown in the Forecasts, applying a range of terminal multiples to Squarespace’s NTM uFCF as of December 31, 2028 (which reflects projected uFCF for fiscal year 2029), ranging from 15.0x to 18.0x, which range was selected by Centerview using its experience and professional judgment. Centerview then (a) subtracted from this range the face value of Squarespace’s net debt of approximately $265 million as of April 30, 2024 (pro forma for certain share repurchases
+
+data_room/docs/defm14a_merger_proxy.txt:1452
+on May 2, 2024) as set forth in the Internal Data and (b) divided this range of implied equity values by the number of fully diluted outstanding shares of Common Stock of approximately 150.5 million as of May 9, 2024, calculated on a treasury stock basis based on the Internal Data to derive a range of implied values per share of Common Stock of approximately $41.65 to $53.10, rounded to the nearest $0.05. Centerview compared this range to the Per Share Price of $44.00 per share proposed to be paid to the Unaffiliated Company Stockholders (other than with respect to the Excluded Shares) pursuant to the Merger Agreement.
+
+====
+
+08 要约四项条件
+
+data_room/docs/8k_amended_agreement.txt:105-113
+Merger Sub’s obligation to accept and pay for shares of Company Common Stock that are tendered in the Offer is subject to certain conditions set forth in
+the A&R Merger Agreement, including, but not limited to that, at the Expiration Time, (i) the number of shares of Company Common Stock validly tendered (within the meaning of Section 251(h) of the DGCL) and not validly withdrawn, together with
+any Owned Company Shares, equals more than 50% of the aggregate voting power of all issued and outstanding shares of Company Common Stock, (ii) the number of shares of Company Common Stock beneficially owned, directly or indirectly, by the
+Unaffiliated Company Stockholders and validly tendered (within the meaning of Section 251(h) of the DGCL) and not validly withdrawn, equals more than 50% of the aggregate voting power of all issued and outstanding shares of Company Common Stock
+beneficially owned, directly or indirectly, by the Unaffiliated Company Stockholders, (iii) the number of shares of Class B Common Stock validly tendered (within the meaning of Section 251(h) of the DGCL) and not validly withdrawn, together with any
+Class B Common Stock constituting Owned Company Shares, equals more than 50% of the aggregate voting power of all issued and outstanding shares of Class B Common Stock, and (iv) the number of shares of Class A Common Stock validly tendered (within
+the meaning of Section 251(h) of the DGCL) and not validly withdrawn, together with any Class A Common Stock constituting Owned Company Shares, equals more than 50% of the aggregate voting power of all issued and outstanding shares of Class A Common
+Stock, in each case as of the Expiration Time, but excluding any shares of Company Common Stock held in treasury by the Company as of the expiration of the Offer or any other shares of Company Common Stock acquired by the Company prior to the
+expiration of the Offer.
+
+====
+
+09 旧信贷终止
+
+data_room/docs/8k_closing.txt:76-79
+On October 17, 2024, in connection with the Merger, all outstanding indebtedness under that certain Amended and Restated Credit
+Agreement, dated December 11, 2020 (as amended prior to the closing of the Merger, the “Company Credit Agreement”), by and among the Company, as borrower, the lenders and issuing banks party thereto, and JPMorgan Chase Bank, N.A., as administrative
+agent and collateral agent, was repaid in full, all commitments thereunder were terminated and outstanding letters of credit thereunder were cash collateralized. Additionally, the guarantees and liens securing the indebtedness under the Company
+Credit Agreement were discharged and released.
+
+====
+
+10 年度审计费用
+
+data_room/docs/def14a_2024.txt:1019
+We have appointed Ernst & Young LLP as our independent registered public accounting firm to perform the audit of our consolidated financial statements for the fiscal year ending December 31, 2024, and we are asking you and other stockholders to ratify this appointment. During our fiscal year ended December 31, 2023, Ernst & Young LLP served as our independent registered public accounting firm.
+
+data_room/docs/def14a_2024.txt:1024-1032
+Fee Category | 2023 | 2022
+Audit Fees(1)
+$3,655,000 | $1,838,000
+Audit-Related Fees(2)
+118,000 | —
+Tax Fees(3)
+$584,000 | $569,551
+Other Fees | — | —
+Total Fees | $4,357,000 | $2,407,551
